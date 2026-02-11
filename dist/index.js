@@ -9810,7 +9810,7 @@ const blockTrackingRequests = (blockedHosts) => {
     if (
       typeof urlString === "string" &&
       blockedHosts.some((host) => urlString.includes(host)) &&
-      !["api.nobledevs.com", "nobledevs.com"].includes(urlString)
+      !urlString.includes("nobledevs.com")
     ) {
       console.debug(`[CookieKit] Blocked fetch request to: ${urlString}`);
       return Promise.resolve(
