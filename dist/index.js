@@ -1,33 +1,60 @@
-!function(){"use strict";try{if("undefined"!=typeof document){var e=document.createElement("style");e.appendChild(document.createTextNode('.cookie-manager *,.cookie-manager :after,.cookie-manager :before{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }.cookie-manager ::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }.cookie-manager *,.cookie-manager :after,.cookie-manager :before{border:0 solid #e5e7eb;box-sizing:border-box}.cookie-manager :after,.cookie-manager :before{--tw-content:""}.cookie-manager,.cookie-manager :host{line-height:1.5;-webkit-text-size-adjust:100%;font-family:ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-feature-settings:normal;font-variation-settings:normal;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-tap-highlight-color:transparent}.cookie-manager body{line-height:inherit;margin:0}.cookie-manager hr{border-top-width:1px;color:inherit;height:0}.cookie-manager abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}.cookie-manager h1,.cookie-manager h2,.cookie-manager h3,.cookie-manager h4,.cookie-manager h5,.cookie-manager h6{font-size:inherit;font-weight:inherit}.cookie-manager a{color:inherit;text-decoration:inherit}.cookie-manager b,.cookie-manager strong{font-weight:bolder}.cookie-manager code,.cookie-manager kbd,.cookie-manager pre,.cookie-manager samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-feature-settings:normal;font-size:1em;font-variation-settings:normal}.cookie-manager small{font-size:80%}.cookie-manager sub,.cookie-manager sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}.cookie-manager sub{bottom:-.25em}.cookie-manager sup{top:-.5em}.cookie-manager table{border-collapse:collapse;border-color:inherit;text-indent:0}.cookie-manager button,.cookie-manager input,.cookie-manager optgroup,.cookie-manager select,.cookie-manager textarea{color:inherit;font-family:inherit;font-feature-settings:inherit;font-size:100%;font-variation-settings:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;margin:0;padding:0}.cookie-manager button,.cookie-manager select{text-transform:none}.cookie-manager button,.cookie-manager input:where([type=button]),.cookie-manager input:where([type=reset]),.cookie-manager input:where([type=submit]){-webkit-appearance:button;background-color:transparent;background-image:none}.cookie-manager :-moz-focusring{outline:auto}.cookie-manager :-moz-ui-invalid{box-shadow:none}.cookie-manager progress{vertical-align:baseline}.cookie-manager ::-webkit-inner-spin-button,.cookie-manager ::-webkit-outer-spin-button{height:auto}.cookie-manager [type=search]{-webkit-appearance:textfield;outline-offset:-2px}.cookie-manager ::-webkit-search-decoration{-webkit-appearance:none}.cookie-manager ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}.cookie-manager summary{display:list-item}.cookie-manager blockquote,.cookie-manager dd,.cookie-manager dl,.cookie-manager figure,.cookie-manager h1,.cookie-manager h2,.cookie-manager h3,.cookie-manager h4,.cookie-manager h5,.cookie-manager h6,.cookie-manager hr,.cookie-manager p,.cookie-manager pre{margin:0}.cookie-manager fieldset{margin:0;padding:0}.cookie-manager legend{padding:0}.cookie-manager menu,.cookie-manager ol,.cookie-manager ul{list-style:none;margin:0;padding:0}.cookie-manager dialog{padding:0}.cookie-manager textarea{resize:vertical}.cookie-manager input::-moz-placeholder,.cookie-manager textarea::-moz-placeholder{color:#9ca3af;opacity:1}.cookie-manager input::placeholder,.cookie-manager textarea::placeholder{color:#9ca3af;opacity:1}.cookie-manager [role=button],.cookie-manager button{cursor:pointer}.cookie-manager :disabled{cursor:default}.cookie-manager audio,.cookie-manager canvas,.cookie-manager embed,.cookie-manager iframe,.cookie-manager img,.cookie-manager object,.cookie-manager svg,.cookie-manager video{display:block;vertical-align:middle}.cookie-manager img,.cookie-manager video{height:auto;max-width:100%}.cookie-manager [hidden]:where(:not([hidden=until-found])){display:none}.cookie-manager .cookie-consent-blocked-iframe{min-height:200px}.cookie-manager .cookie-consent-blocked-iframe,.cookie-manager .cookie-consent-wrapper-content{align-items:center;display:flex;height:100%;justify-content:center;left:0;position:absolute;top:0;width:100%;z-index:100}.cookie-manager .cookie-consent-wrapper-content{color:#f3f4f6;flex-direction:column;font-size:15px;line-height:1.6;padding:24px;text-align:center}.cookie-manager .dark .cookie-consent-blocked-iframe{color:#e5e7eb}.cookie-manager [data-cookie-consent-placeholder=true]{display:flex!important;opacity:1!important;visibility:visible!important}.cookie-manager iframe[data-cookie-blocked=true]{opacity:0!important;pointer-events:none!important}.cookie-manager .sr-only{height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;clip:rect(0,0,0,0);border-width:0;white-space:nowrap}.cookie-manager .visible{visibility:visible}.cookie-manager .invisible{visibility:hidden}.cookie-manager .static{position:static}.cookie-manager .fixed{position:fixed}.cookie-manager .absolute{position:absolute}.cookie-manager .relative{position:relative}.cookie-manager .inset-0{top:0;right:0;bottom:0;left:0}.cookie-manager .inset-x-0{left:0;right:0}.cookie-manager .-right-2{right:-.5rem}.cookie-manager .-top-2{top:-.5rem}.cookie-manager .bottom-0{bottom:0}.cookie-manager .bottom-4{bottom:1rem}.cookie-manager .bottom-6{bottom:1.5rem}.cookie-manager .left-1\\/2{left:50%}.cookie-manager .left-4{left:1rem}.cookie-manager .left-6{left:1.5rem}.cookie-manager .z-\\[99999\\]{z-index:99999}.cookie-manager .mx-auto{margin-left:auto;margin-right:auto}.cookie-manager .my-0{margin-bottom:0;margin-top:0}.cookie-manager .mb-1{margin-bottom:.25rem}.cookie-manager .mb-2{margin-bottom:.5rem}.cookie-manager .mb-3{margin-bottom:.75rem}.cookie-manager .mb-6{margin-bottom:1.5rem}.cookie-manager .ml-auto{margin-left:auto}.cookie-manager .mr-auto{margin-right:auto}.cookie-manager .mt-1{margin-top:.25rem}.cookie-manager .mt-2{margin-top:.5rem}.cookie-manager .mt-4{margin-top:1rem}.cookie-manager .block{display:block}.cookie-manager .inline{display:inline}.cookie-manager .flex{display:flex}.cookie-manager .inline-flex{display:inline-flex}.cookie-manager .hidden{display:none}.cookie-manager .h-12{height:3rem}.cookie-manager .h-6{height:1.5rem}.cookie-manager .w-11{width:2.75rem}.cookie-manager .w-12{width:3rem}.cookie-manager .w-6{width:1.5rem}.cookie-manager .w-80{width:20rem}.cookie-manager .w-full{width:100%}.cookie-manager .max-w-\\[calc\\(100vw-32px\\)\\]{max-width:calc(100vw - 32px)}.cookie-manager .max-w-lg{max-width:32rem}.cookie-manager .flex-1{flex:1 1 0%}.cookie-manager .grow{flex-grow:1}.cookie-manager .-translate-x-1\\/2{--tw-translate-x:-50%}.cookie-manager .-translate-x-1\\/2,.cookie-manager .translate-y-0{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .translate-y-0{--tw-translate-y:0px}.cookie-manager .translate-y-full{--tw-translate-y:100%}.cookie-manager .rotate-0,.cookie-manager .translate-y-full{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .rotate-0{--tw-rotate:0deg}.cookie-manager .scale-100{--tw-scale-x:1;--tw-scale-y:1}.cookie-manager .scale-100,.cookie-manager .scale-95{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .scale-95{--tw-scale-x:.95;--tw-scale-y:.95}.cookie-manager .transform{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .cursor-pointer{cursor:pointer}.cookie-manager .resize{resize:both}.cookie-manager .flex-col{flex-direction:column}.cookie-manager .items-start{align-items:flex-start}.cookie-manager .items-center{align-items:center}.cookie-manager .justify-end{justify-content:flex-end}.cookie-manager .justify-center{justify-content:center}.cookie-manager .justify-between{justify-content:space-between}.cookie-manager .gap-2{gap:.5rem}.cookie-manager .gap-3{gap:.75rem}.cookie-manager .gap-4{gap:1rem}.cookie-manager .gap-6{gap:1.5rem}.cookie-manager .rounded-2xl{border-radius:1rem}.cookie-manager .rounded-full{border-radius:9999px}.cookie-manager .rounded-lg{border-radius:.5rem}.cookie-manager .rounded-md{border-radius:.375rem}.cookie-manager .rounded-xl{border-radius:.75rem}.cookie-manager .border{border-width:1px}.cookie-manager .border-black\\/10{border-color:#0000001a}.cookie-manager .border-blue-500{--tw-border-opacity:1;border-color:rgb(59 130 246/var(--tw-border-opacity,1))}.cookie-manager .bg-black\\/20{background-color:#0003}.cookie-manager .bg-black\\/40{background-color:#0006}.cookie-manager .bg-black\\/95{background-color:#000000f2}.cookie-manager .bg-blue-500{--tw-bg-opacity:1;background-color:rgb(59 130 246/var(--tw-bg-opacity,1))}.cookie-manager .bg-gray-200{--tw-bg-opacity:1;background-color:rgb(229 231 235/var(--tw-bg-opacity,1))}.cookie-manager .bg-gray-700{--tw-bg-opacity:1;background-color:rgb(55 65 81/var(--tw-bg-opacity,1))}.cookie-manager .bg-gray-800{--tw-bg-opacity:1;background-color:rgb(31 41 55/var(--tw-bg-opacity,1))}.cookie-manager .bg-transparent{background-color:transparent}.cookie-manager .bg-white\\/95{background-color:#fffffff2}.cookie-manager .p-4{padding:1rem}.cookie-manager .p-6{padding:1.5rem}.cookie-manager .px-3{padding-left:.75rem;padding-right:.75rem}.cookie-manager .px-4{padding-left:1rem;padding-right:1rem}.cookie-manager .py-1{padding-bottom:.25rem;padding-top:.25rem}.cookie-manager .py-1\\.5{padding-bottom:.375rem;padding-top:.375rem}.cookie-manager .py-2{padding-bottom:.5rem;padding-top:.5rem}.cookie-manager .py-2\\.5{padding-bottom:.625rem;padding-top:.625rem}.cookie-manager .pb-4{padding-bottom:1rem}.cookie-manager .pt-2{padding-top:.5rem}.cookie-manager .text-left{text-align:left}.cookie-manager .text-center{text-align:center}.cookie-manager .text-right{text-align:right}.cookie-manager .text-lg{font-size:1.125rem;line-height:1.75rem}.cookie-manager .text-sm{font-size:.875rem;line-height:1.25rem}.cookie-manager .text-xs{font-size:.75rem;line-height:1rem}.cookie-manager .font-medium{font-weight:500}.cookie-manager .font-semibold{font-weight:600}.cookie-manager .text-blue-500{--tw-text-opacity:1;color:rgb(59 130 246/var(--tw-text-opacity,1))}.cookie-manager .text-gray-200{--tw-text-opacity:1;color:rgb(229 231 235/var(--tw-text-opacity,1))}.cookie-manager .text-gray-300{--tw-text-opacity:1;color:rgb(209 213 219/var(--tw-text-opacity,1))}.cookie-manager .text-gray-400{--tw-text-opacity:1;color:rgb(156 163 175/var(--tw-text-opacity,1))}.cookie-manager .text-gray-500{--tw-text-opacity:1;color:rgb(107 114 128/var(--tw-text-opacity,1))}.cookie-manager .text-gray-600{--tw-text-opacity:1;color:rgb(75 85 99/var(--tw-text-opacity,1))}.cookie-manager .text-gray-700{--tw-text-opacity:1;color:rgb(55 65 81/var(--tw-text-opacity,1))}.cookie-manager .text-gray-800{--tw-text-opacity:1;color:rgb(31 41 55/var(--tw-text-opacity,1))}.cookie-manager .text-gray-900{--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity,1))}.cookie-manager .text-white{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity,1))}.cookie-manager .opacity-0{opacity:0}.cookie-manager .opacity-100{opacity:1}.cookie-manager .shadow-lg{--tw-shadow:0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rgba(0,0,0,.1);--tw-shadow-colored:0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.cookie-manager .ring-1{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color)}.cookie-manager .ring-1,.cookie-manager .ring-2{box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.cookie-manager .ring-2{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color)}.cookie-manager .ring-black\\/10{--tw-ring-color:rgba(0,0,0,.1)}.cookie-manager .ring-gray-200{--tw-ring-opacity:1;--tw-ring-color:rgb(229 231 235/var(--tw-ring-opacity,1))}.cookie-manager .ring-white\\/10{--tw-ring-color:hsla(0,0%,100%,.1)}.cookie-manager .blur{--tw-blur:blur(8px);filter:var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow)}.cookie-manager .backdrop-blur-sm{--tw-backdrop-blur:blur(4px)}.cookie-manager .backdrop-blur-sm,.cookie-manager .backdrop-saturate-150{-webkit-backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia)}.cookie-manager .backdrop-saturate-150{--tw-backdrop-saturate:saturate(1.5)}.cookie-manager .transition{transition-duration:.15s;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .transition-all{transition-duration:.15s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .transition-colors{transition-duration:.15s;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .transition-opacity{transition-duration:.15s;transition-property:opacity;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .transition-transform{transition-duration:.15s;transition-property:transform;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .duration-200{transition-duration:.2s}.cookie-manager .duration-300{transition-duration:.3s}.cookie-manager .duration-500{transition-duration:.5s}.cookie-manager .ease-\\[cubic-bezier\\(0\\.32\\,0\\.72\\,0\\,1\\)\\]{transition-timing-function:cubic-bezier(.32,.72,0,1)}.cookie-manager .after\\:absolute:after{content:var(--tw-content);position:absolute}.cookie-manager .after\\:left-\\[2px\\]:after{content:var(--tw-content);left:2px}.cookie-manager .after\\:top-0\\.5:after{content:var(--tw-content);top:.125rem}.cookie-manager .after\\:h-5:after{content:var(--tw-content);height:1.25rem}.cookie-manager .after\\:w-5:after{content:var(--tw-content);width:1.25rem}.cookie-manager .after\\:rounded-full:after{border-radius:9999px;content:var(--tw-content)}.cookie-manager .after\\:bg-white:after{content:var(--tw-content);--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity,1))}.cookie-manager .after\\:transition-all:after{content:var(--tw-content);transition-duration:.15s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .after\\:content-\\[\\\'\\\'\\]:after{--tw-content:"";content:var(--tw-content)}.cookie-manager .hover\\:-translate-y-2:hover{--tw-translate-y:-.5rem}.cookie-manager .hover\\:-translate-y-2:hover,.cookie-manager .hover\\:rotate-12:hover{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .hover\\:rotate-12:hover{--tw-rotate:12deg}.cookie-manager .hover\\:scale-105:hover{--tw-scale-x:1.05;--tw-scale-y:1.05}.cookie-manager .hover\\:scale-105:hover,.cookie-manager .hover\\:scale-110:hover{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .hover\\:scale-110:hover{--tw-scale-x:1.1;--tw-scale-y:1.1}.cookie-manager .hover\\:border-blue-400:hover{--tw-border-opacity:1;border-color:rgb(96 165 250/var(--tw-border-opacity,1))}.cookie-manager .hover\\:border-blue-600:hover{--tw-border-opacity:1;border-color:rgb(37 99 235/var(--tw-border-opacity,1))}.cookie-manager .hover\\:bg-blue-600:hover{--tw-bg-opacity:1;background-color:rgb(37 99 235/var(--tw-bg-opacity,1))}.cookie-manager .hover\\:bg-gray-300:hover{--tw-bg-opacity:1;background-color:rgb(209 213 219/var(--tw-bg-opacity,1))}.cookie-manager .hover\\:bg-gray-600:hover{--tw-bg-opacity:1;background-color:rgb(75 85 99/var(--tw-bg-opacity,1))}.cookie-manager .hover\\:bg-gray-700:hover{--tw-bg-opacity:1;background-color:rgb(55 65 81/var(--tw-bg-opacity,1))}.cookie-manager .hover\\:text-blue-400:hover{--tw-text-opacity:1;color:rgb(96 165 250/var(--tw-text-opacity,1))}.cookie-manager .hover\\:text-blue-600:hover{--tw-text-opacity:1;color:rgb(37 99 235/var(--tw-text-opacity,1))}.cookie-manager .hover\\:text-gray-200:hover{--tw-text-opacity:1;color:rgb(229 231 235/var(--tw-text-opacity,1))}.cookie-manager .hover\\:text-gray-700:hover{--tw-text-opacity:1;color:rgb(55 65 81/var(--tw-text-opacity,1))}.cookie-manager .hover\\:text-gray-900:hover{--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity,1))}.cookie-manager .hover\\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity,1))}.cookie-manager .focus\\:outline-none:focus{outline:2px solid transparent;outline-offset:2px}.cookie-manager .focus\\:outline-transparent:focus{outline-color:transparent}.cookie-manager .focus\\:ring-2:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.cookie-manager .focus\\:ring-blue-500:focus{--tw-ring-opacity:1;--tw-ring-color:rgb(59 130 246/var(--tw-ring-opacity,1))}.cookie-manager .focus\\:ring-offset-2:focus{--tw-ring-offset-width:2px}.cookie-manager .focus-visible\\:outline-none:focus-visible{outline:2px solid transparent;outline-offset:2px}.cookie-manager .focus-visible\\:outline-transparent:focus-visible{outline-color:transparent}.cookie-manager .peer:checked~.peer-checked\\:bg-blue-500{--tw-bg-opacity:1;background-color:rgb(59 130 246/var(--tw-bg-opacity,1))}.cookie-manager .peer:checked~.peer-checked\\:after\\:translate-x-full:after{content:var(--tw-content);--tw-translate-x:100%;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .peer:focus~.peer-focus\\:ring-2{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.cookie-manager .peer:focus~.peer-focus\\:ring-blue-500{--tw-ring-opacity:1;--tw-ring-color:rgb(59 130 246/var(--tw-ring-opacity,1))}@media (min-width:640px){.cookie-manager .sm\\:w-auto{width:auto}.cookie-manager .sm\\:flex-row{flex-direction:row}.cookie-manager .sm\\:justify-end{justify-content:flex-end}.cookie-manager .sm\\:py-1\\.5{padding-bottom:.375rem;padding-top:.375rem}.cookie-manager .sm\\:text-left{text-align:left}.cookie-manager .sm\\:text-sm{font-size:.875rem;line-height:1.25rem}}@media (min-width:768px){.cookie-manager .md\\:max-w-2xl{max-width:42rem}}')),document.head.appendChild(e)}}catch(o){console.error("vite-plugin-css-injected-by-js",o)}}();
+!(function () {
+  "use strict";
+  try {
+    if ("undefined" != typeof document) {
+      var e = document.createElement("style");
+      (e.appendChild(
+        document.createTextNode(
+          '.cookie-manager *,.cookie-manager :after,.cookie-manager :before{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }.cookie-manager ::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }.cookie-manager *,.cookie-manager :after,.cookie-manager :before{border:0 solid #e5e7eb;box-sizing:border-box}.cookie-manager :after,.cookie-manager :before{--tw-content:""}.cookie-manager,.cookie-manager :host{line-height:1.5;-webkit-text-size-adjust:100%;font-family:ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-feature-settings:normal;font-variation-settings:normal;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-tap-highlight-color:transparent}.cookie-manager body{line-height:inherit;margin:0}.cookie-manager hr{border-top-width:1px;color:inherit;height:0}.cookie-manager abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}.cookie-manager h1,.cookie-manager h2,.cookie-manager h3,.cookie-manager h4,.cookie-manager h5,.cookie-manager h6{font-size:inherit;font-weight:inherit}.cookie-manager a{color:inherit;text-decoration:inherit}.cookie-manager b,.cookie-manager strong{font-weight:bolder}.cookie-manager code,.cookie-manager kbd,.cookie-manager pre,.cookie-manager samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-feature-settings:normal;font-size:1em;font-variation-settings:normal}.cookie-manager small{font-size:80%}.cookie-manager sub,.cookie-manager sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}.cookie-manager sub{bottom:-.25em}.cookie-manager sup{top:-.5em}.cookie-manager table{border-collapse:collapse;border-color:inherit;text-indent:0}.cookie-manager button,.cookie-manager input,.cookie-manager optgroup,.cookie-manager select,.cookie-manager textarea{color:inherit;font-family:inherit;font-feature-settings:inherit;font-size:100%;font-variation-settings:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;margin:0;padding:0}.cookie-manager button,.cookie-manager select{text-transform:none}.cookie-manager button,.cookie-manager input:where([type=button]),.cookie-manager input:where([type=reset]),.cookie-manager input:where([type=submit]){-webkit-appearance:button;background-color:transparent;background-image:none}.cookie-manager :-moz-focusring{outline:auto}.cookie-manager :-moz-ui-invalid{box-shadow:none}.cookie-manager progress{vertical-align:baseline}.cookie-manager ::-webkit-inner-spin-button,.cookie-manager ::-webkit-outer-spin-button{height:auto}.cookie-manager [type=search]{-webkit-appearance:textfield;outline-offset:-2px}.cookie-manager ::-webkit-search-decoration{-webkit-appearance:none}.cookie-manager ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}.cookie-manager summary{display:list-item}.cookie-manager blockquote,.cookie-manager dd,.cookie-manager dl,.cookie-manager figure,.cookie-manager h1,.cookie-manager h2,.cookie-manager h3,.cookie-manager h4,.cookie-manager h5,.cookie-manager h6,.cookie-manager hr,.cookie-manager p,.cookie-manager pre{margin:0}.cookie-manager fieldset{margin:0;padding:0}.cookie-manager legend{padding:0}.cookie-manager menu,.cookie-manager ol,.cookie-manager ul{list-style:none;margin:0;padding:0}.cookie-manager dialog{padding:0}.cookie-manager textarea{resize:vertical}.cookie-manager input::-moz-placeholder,.cookie-manager textarea::-moz-placeholder{color:#9ca3af;opacity:1}.cookie-manager input::placeholder,.cookie-manager textarea::placeholder{color:#9ca3af;opacity:1}.cookie-manager [role=button],.cookie-manager button{cursor:pointer}.cookie-manager :disabled{cursor:default}.cookie-manager audio,.cookie-manager canvas,.cookie-manager embed,.cookie-manager iframe,.cookie-manager img,.cookie-manager object,.cookie-manager svg,.cookie-manager video{display:block;vertical-align:middle}.cookie-manager img,.cookie-manager video{height:auto;max-width:100%}.cookie-manager [hidden]:where(:not([hidden=until-found])){display:none}.cookie-manager .cookie-consent-blocked-iframe{min-height:200px}.cookie-manager .cookie-consent-blocked-iframe,.cookie-manager .cookie-consent-wrapper-content{align-items:center;display:flex;height:100%;justify-content:center;left:0;position:absolute;top:0;width:100%;z-index:100}.cookie-manager .cookie-consent-wrapper-content{color:#f3f4f6;flex-direction:column;font-size:15px;line-height:1.6;padding:24px;text-align:center}.cookie-manager .dark .cookie-consent-blocked-iframe{color:#e5e7eb}.cookie-manager [data-cookie-consent-placeholder=true]{display:flex!important;opacity:1!important;visibility:visible!important}.cookie-manager iframe[data-cookie-blocked=true]{opacity:0!important;pointer-events:none!important}.cookie-manager .sr-only{height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;clip:rect(0,0,0,0);border-width:0;white-space:nowrap}.cookie-manager .visible{visibility:visible}.cookie-manager .invisible{visibility:hidden}.cookie-manager .static{position:static}.cookie-manager .fixed{position:fixed}.cookie-manager .absolute{position:absolute}.cookie-manager .relative{position:relative}.cookie-manager .inset-0{top:0;right:0;bottom:0;left:0}.cookie-manager .inset-x-0{left:0;right:0}.cookie-manager .-right-2{right:-.5rem}.cookie-manager .-top-2{top:-.5rem}.cookie-manager .bottom-0{bottom:0}.cookie-manager .bottom-4{bottom:1rem}.cookie-manager .bottom-6{bottom:1.5rem}.cookie-manager .left-1\\/2{left:50%}.cookie-manager .left-4{left:1rem}.cookie-manager .left-6{left:1.5rem}.cookie-manager .z-\\[99999\\]{z-index:99999}.cookie-manager .mx-auto{margin-left:auto;margin-right:auto}.cookie-manager .my-0{margin-bottom:0;margin-top:0}.cookie-manager .mb-1{margin-bottom:.25rem}.cookie-manager .mb-2{margin-bottom:.5rem}.cookie-manager .mb-3{margin-bottom:.75rem}.cookie-manager .mb-6{margin-bottom:1.5rem}.cookie-manager .ml-auto{margin-left:auto}.cookie-manager .mr-auto{margin-right:auto}.cookie-manager .mt-1{margin-top:.25rem}.cookie-manager .mt-2{margin-top:.5rem}.cookie-manager .mt-4{margin-top:1rem}.cookie-manager .block{display:block}.cookie-manager .inline{display:inline}.cookie-manager .flex{display:flex}.cookie-manager .inline-flex{display:inline-flex}.cookie-manager .hidden{display:none}.cookie-manager .h-12{height:3rem}.cookie-manager .h-6{height:1.5rem}.cookie-manager .w-11{width:2.75rem}.cookie-manager .w-12{width:3rem}.cookie-manager .w-6{width:1.5rem}.cookie-manager .w-80{width:20rem}.cookie-manager .w-full{width:100%}.cookie-manager .max-w-\\[calc\\(100vw-32px\\)\\]{max-width:calc(100vw - 32px)}.cookie-manager .max-w-lg{max-width:32rem}.cookie-manager .flex-1{flex:1 1 0%}.cookie-manager .grow{flex-grow:1}.cookie-manager .-translate-x-1\\/2{--tw-translate-x:-50%}.cookie-manager .-translate-x-1\\/2,.cookie-manager .translate-y-0{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .translate-y-0{--tw-translate-y:0px}.cookie-manager .translate-y-full{--tw-translate-y:100%}.cookie-manager .rotate-0,.cookie-manager .translate-y-full{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .rotate-0{--tw-rotate:0deg}.cookie-manager .scale-100{--tw-scale-x:1;--tw-scale-y:1}.cookie-manager .scale-100,.cookie-manager .scale-95{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .scale-95{--tw-scale-x:.95;--tw-scale-y:.95}.cookie-manager .transform{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .cursor-pointer{cursor:pointer}.cookie-manager .resize{resize:both}.cookie-manager .flex-col{flex-direction:column}.cookie-manager .items-start{align-items:flex-start}.cookie-manager .items-center{align-items:center}.cookie-manager .justify-end{justify-content:flex-end}.cookie-manager .justify-center{justify-content:center}.cookie-manager .justify-between{justify-content:space-between}.cookie-manager .gap-2{gap:.5rem}.cookie-manager .gap-3{gap:.75rem}.cookie-manager .gap-4{gap:1rem}.cookie-manager .gap-6{gap:1.5rem}.cookie-manager .rounded-2xl{border-radius:1rem}.cookie-manager .rounded-full{border-radius:9999px}.cookie-manager .rounded-lg{border-radius:.5rem}.cookie-manager .rounded-md{border-radius:.375rem}.cookie-manager .rounded-xl{border-radius:.75rem}.cookie-manager .border{border-width:1px}.cookie-manager .border-black\\/10{border-color:#0000001a}.cookie-manager .border-blue-500{--tw-border-opacity:1;border-color:rgb(59 130 246/var(--tw-border-opacity,1))}.cookie-manager .bg-black\\/20{background-color:#0003}.cookie-manager .bg-black\\/40{background-color:#0006}.cookie-manager .bg-black\\/95{background-color:#000000f2}.cookie-manager .bg-blue-500{--tw-bg-opacity:1;background-color:rgb(59 130 246/var(--tw-bg-opacity,1))}.cookie-manager .bg-gray-200{--tw-bg-opacity:1;background-color:rgb(229 231 235/var(--tw-bg-opacity,1))}.cookie-manager .bg-gray-700{--tw-bg-opacity:1;background-color:rgb(55 65 81/var(--tw-bg-opacity,1))}.cookie-manager .bg-gray-800{--tw-bg-opacity:1;background-color:rgb(31 41 55/var(--tw-bg-opacity,1))}.cookie-manager .bg-transparent{background-color:transparent}.cookie-manager .bg-white\\/95{background-color:#fffffff2}.cookie-manager .p-4{padding:1rem}.cookie-manager .p-6{padding:1.5rem}.cookie-manager .px-3{padding-left:.75rem;padding-right:.75rem}.cookie-manager .px-4{padding-left:1rem;padding-right:1rem}.cookie-manager .py-1{padding-bottom:.25rem;padding-top:.25rem}.cookie-manager .py-1\\.5{padding-bottom:.375rem;padding-top:.375rem}.cookie-manager .py-2{padding-bottom:.5rem;padding-top:.5rem}.cookie-manager .py-2\\.5{padding-bottom:.625rem;padding-top:.625rem}.cookie-manager .pb-4{padding-bottom:1rem}.cookie-manager .pt-2{padding-top:.5rem}.cookie-manager .text-left{text-align:left}.cookie-manager .text-center{text-align:center}.cookie-manager .text-right{text-align:right}.cookie-manager .text-lg{font-size:1.125rem;line-height:1.75rem}.cookie-manager .text-sm{font-size:.875rem;line-height:1.25rem}.cookie-manager .text-xs{font-size:.75rem;line-height:1rem}.cookie-manager .font-medium{font-weight:500}.cookie-manager .font-semibold{font-weight:600}.cookie-manager .text-blue-500{--tw-text-opacity:1;color:rgb(59 130 246/var(--tw-text-opacity,1))}.cookie-manager .text-gray-200{--tw-text-opacity:1;color:rgb(229 231 235/var(--tw-text-opacity,1))}.cookie-manager .text-gray-300{--tw-text-opacity:1;color:rgb(209 213 219/var(--tw-text-opacity,1))}.cookie-manager .text-gray-400{--tw-text-opacity:1;color:rgb(156 163 175/var(--tw-text-opacity,1))}.cookie-manager .text-gray-500{--tw-text-opacity:1;color:rgb(107 114 128/var(--tw-text-opacity,1))}.cookie-manager .text-gray-600{--tw-text-opacity:1;color:rgb(75 85 99/var(--tw-text-opacity,1))}.cookie-manager .text-gray-700{--tw-text-opacity:1;color:rgb(55 65 81/var(--tw-text-opacity,1))}.cookie-manager .text-gray-800{--tw-text-opacity:1;color:rgb(31 41 55/var(--tw-text-opacity,1))}.cookie-manager .text-gray-900{--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity,1))}.cookie-manager .text-white{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity,1))}.cookie-manager .opacity-0{opacity:0}.cookie-manager .opacity-100{opacity:1}.cookie-manager .shadow-lg{--tw-shadow:0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rgba(0,0,0,.1);--tw-shadow-colored:0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.cookie-manager .ring-1{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color)}.cookie-manager .ring-1,.cookie-manager .ring-2{box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.cookie-manager .ring-2{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color)}.cookie-manager .ring-black\\/10{--tw-ring-color:rgba(0,0,0,.1)}.cookie-manager .ring-gray-200{--tw-ring-opacity:1;--tw-ring-color:rgb(229 231 235/var(--tw-ring-opacity,1))}.cookie-manager .ring-white\\/10{--tw-ring-color:hsla(0,0%,100%,.1)}.cookie-manager .blur{--tw-blur:blur(8px);filter:var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow)}.cookie-manager .backdrop-blur-sm{--tw-backdrop-blur:blur(4px)}.cookie-manager .backdrop-blur-sm,.cookie-manager .backdrop-saturate-150{-webkit-backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia)}.cookie-manager .backdrop-saturate-150{--tw-backdrop-saturate:saturate(1.5)}.cookie-manager .transition{transition-duration:.15s;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .transition-all{transition-duration:.15s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .transition-colors{transition-duration:.15s;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .transition-opacity{transition-duration:.15s;transition-property:opacity;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .transition-transform{transition-duration:.15s;transition-property:transform;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .duration-200{transition-duration:.2s}.cookie-manager .duration-300{transition-duration:.3s}.cookie-manager .duration-500{transition-duration:.5s}.cookie-manager .ease-\\[cubic-bezier\\(0\\.32\\,0\\.72\\,0\\,1\\)\\]{transition-timing-function:cubic-bezier(.32,.72,0,1)}.cookie-manager .after\\:absolute:after{content:var(--tw-content);position:absolute}.cookie-manager .after\\:left-\\[2px\\]:after{content:var(--tw-content);left:2px}.cookie-manager .after\\:top-0\\.5:after{content:var(--tw-content);top:.125rem}.cookie-manager .after\\:h-5:after{content:var(--tw-content);height:1.25rem}.cookie-manager .after\\:w-5:after{content:var(--tw-content);width:1.25rem}.cookie-manager .after\\:rounded-full:after{border-radius:9999px;content:var(--tw-content)}.cookie-manager .after\\:bg-white:after{content:var(--tw-content);--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity,1))}.cookie-manager .after\\:transition-all:after{content:var(--tw-content);transition-duration:.15s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1)}.cookie-manager .after\\:content-\\[\\\'\\\'\\]:after{--tw-content:"";content:var(--tw-content)}.cookie-manager .hover\\:-translate-y-2:hover{--tw-translate-y:-.5rem}.cookie-manager .hover\\:-translate-y-2:hover,.cookie-manager .hover\\:rotate-12:hover{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .hover\\:rotate-12:hover{--tw-rotate:12deg}.cookie-manager .hover\\:scale-105:hover{--tw-scale-x:1.05;--tw-scale-y:1.05}.cookie-manager .hover\\:scale-105:hover,.cookie-manager .hover\\:scale-110:hover{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .hover\\:scale-110:hover{--tw-scale-x:1.1;--tw-scale-y:1.1}.cookie-manager .hover\\:border-blue-400:hover{--tw-border-opacity:1;border-color:rgb(96 165 250/var(--tw-border-opacity,1))}.cookie-manager .hover\\:border-blue-600:hover{--tw-border-opacity:1;border-color:rgb(37 99 235/var(--tw-border-opacity,1))}.cookie-manager .hover\\:bg-blue-600:hover{--tw-bg-opacity:1;background-color:rgb(37 99 235/var(--tw-bg-opacity,1))}.cookie-manager .hover\\:bg-gray-300:hover{--tw-bg-opacity:1;background-color:rgb(209 213 219/var(--tw-bg-opacity,1))}.cookie-manager .hover\\:bg-gray-600:hover{--tw-bg-opacity:1;background-color:rgb(75 85 99/var(--tw-bg-opacity,1))}.cookie-manager .hover\\:bg-gray-700:hover{--tw-bg-opacity:1;background-color:rgb(55 65 81/var(--tw-bg-opacity,1))}.cookie-manager .hover\\:text-blue-400:hover{--tw-text-opacity:1;color:rgb(96 165 250/var(--tw-text-opacity,1))}.cookie-manager .hover\\:text-blue-600:hover{--tw-text-opacity:1;color:rgb(37 99 235/var(--tw-text-opacity,1))}.cookie-manager .hover\\:text-gray-200:hover{--tw-text-opacity:1;color:rgb(229 231 235/var(--tw-text-opacity,1))}.cookie-manager .hover\\:text-gray-700:hover{--tw-text-opacity:1;color:rgb(55 65 81/var(--tw-text-opacity,1))}.cookie-manager .hover\\:text-gray-900:hover{--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity,1))}.cookie-manager .hover\\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity,1))}.cookie-manager .focus\\:outline-none:focus{outline:2px solid transparent;outline-offset:2px}.cookie-manager .focus\\:outline-transparent:focus{outline-color:transparent}.cookie-manager .focus\\:ring-2:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.cookie-manager .focus\\:ring-blue-500:focus{--tw-ring-opacity:1;--tw-ring-color:rgb(59 130 246/var(--tw-ring-opacity,1))}.cookie-manager .focus\\:ring-offset-2:focus{--tw-ring-offset-width:2px}.cookie-manager .focus-visible\\:outline-none:focus-visible{outline:2px solid transparent;outline-offset:2px}.cookie-manager .focus-visible\\:outline-transparent:focus-visible{outline-color:transparent}.cookie-manager .peer:checked~.peer-checked\\:bg-blue-500{--tw-bg-opacity:1;background-color:rgb(59 130 246/var(--tw-bg-opacity,1))}.cookie-manager .peer:checked~.peer-checked\\:after\\:translate-x-full:after{content:var(--tw-content);--tw-translate-x:100%;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cookie-manager .peer:focus~.peer-focus\\:ring-2{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.cookie-manager .peer:focus~.peer-focus\\:ring-blue-500{--tw-ring-opacity:1;--tw-ring-color:rgb(59 130 246/var(--tw-ring-opacity,1))}@media (min-width:640px){.cookie-manager .sm\\:w-auto{width:auto}.cookie-manager .sm\\:flex-row{flex-direction:row}.cookie-manager .sm\\:justify-end{justify-content:flex-end}.cookie-manager .sm\\:py-1\\.5{padding-bottom:.375rem;padding-top:.375rem}.cookie-manager .sm\\:text-left{text-align:left}.cookie-manager .sm\\:text-sm{font-size:.875rem;line-height:1.25rem}}@media (min-width:768px){.cookie-manager .md\\:max-w-2xl{max-width:42rem}}',
+        ),
+      ),
+        document.head.appendChild(e));
+    }
+  } catch (o) {
+    console.error("vite-plugin-css-injected-by-js", o);
+  }
+})();
 import { jsxs, jsx } from "react/jsx-runtime";
-import React, { useState, useEffect, createContext, useMemo, useRef, useContext } from "react";
+import React, {
+  useState,
+  useEffect,
+  createContext,
+  useMemo,
+  useRef,
+  useContext,
+} from "react";
 import { createPortal } from "react-dom";
 function r(e) {
-  var t, f, n = "";
+  var t,
+    f,
+    n = "";
   if ("string" == typeof e || "number" == typeof e) n += e;
-  else if ("object" == typeof e) if (Array.isArray(e)) {
-    var o = e.length;
-    for (t = 0; t < o; t++) e[t] && (f = r(e[t])) && (n && (n += " "), n += f);
-  } else for (f in e) e[f] && (n && (n += " "), n += f);
+  else if ("object" == typeof e)
+    if (Array.isArray(e)) {
+      var o = e.length;
+      for (t = 0; t < o; t++)
+        e[t] && (f = r(e[t])) && (n && (n += " "), (n += f));
+    } else for (f in e) e[f] && (n && (n += " "), (n += f));
   return n;
 }
 function clsx() {
-  for (var e, t, f = 0, n = "", o = arguments.length; f < o; f++) (e = arguments[f]) && (t = r(e)) && (n && (n += " "), n += t);
+  for (var e, t, f = 0, n = "", o = arguments.length; f < o; f++)
+    (e = arguments[f]) && (t = r(e)) && (n && (n += " "), (n += t));
   return n;
 }
 const CLASS_PART_SEPARATOR = "-";
 const createClassGroupUtils = (config) => {
   const classMap = createClassMap(config);
-  const {
-    conflictingClassGroups,
-    conflictingClassGroupModifiers
-  } = config;
+  const { conflictingClassGroups, conflictingClassGroupModifiers } = config;
   const getClassGroupId = (className) => {
     const classParts = className.split(CLASS_PART_SEPARATOR);
     if (classParts[0] === "" && classParts.length !== 1) {
       classParts.shift();
     }
-    return getGroupRecursive(classParts, classMap) || getGroupIdForArbitraryProperty(className);
+    return (
+      getGroupRecursive(classParts, classMap) ||
+      getGroupIdForArbitraryProperty(className)
+    );
   };
   const getConflictingClassGroupIds = (classGroupId, hasPostfixModifier) => {
     const conflicts = conflictingClassGroups[classGroupId] || [];
@@ -38,7 +65,7 @@ const createClassGroupUtils = (config) => {
   };
   return {
     getClassGroupId,
-    getConflictingClassGroupIds
+    getConflictingClassGroupIds,
   };
 };
 const getGroupRecursive = (classParts, classPartObject) => {
@@ -48,7 +75,9 @@ const getGroupRecursive = (classParts, classPartObject) => {
   }
   const currentClassPart = classParts[0];
   const nextClassPartObject = classPartObject.nextPart.get(currentClassPart);
-  const classGroupFromNextClassPart = nextClassPartObject ? getGroupRecursive(classParts.slice(1), nextClassPartObject) : void 0;
+  const classGroupFromNextClassPart = nextClassPartObject
+    ? getGroupRecursive(classParts.slice(1), nextClassPartObject)
+    : void 0;
   if (classGroupFromNextClassPart) {
     return classGroupFromNextClassPart;
   }
@@ -56,54 +85,83 @@ const getGroupRecursive = (classParts, classPartObject) => {
     return void 0;
   }
   const classRest = classParts.join(CLASS_PART_SEPARATOR);
-  return (_a = classPartObject.validators.find(({
-    validator
-  }) => validator(classRest))) == null ? void 0 : _a.classGroupId;
+  return (_a = classPartObject.validators.find(({ validator }) =>
+    validator(classRest),
+  )) == null
+    ? void 0
+    : _a.classGroupId;
 };
 const arbitraryPropertyRegex = /^\[(.+)\]$/;
 const getGroupIdForArbitraryProperty = (className) => {
   if (arbitraryPropertyRegex.test(className)) {
-    const arbitraryPropertyClassName = arbitraryPropertyRegex.exec(className)[1];
-    const property = arbitraryPropertyClassName == null ? void 0 : arbitraryPropertyClassName.substring(0, arbitraryPropertyClassName.indexOf(":"));
+    const arbitraryPropertyClassName =
+      arbitraryPropertyRegex.exec(className)[1];
+    const property =
+      arbitraryPropertyClassName == null
+        ? void 0
+        : arbitraryPropertyClassName.substring(
+            0,
+            arbitraryPropertyClassName.indexOf(":"),
+          );
     if (property) {
       return "arbitrary.." + property;
     }
   }
 };
 const createClassMap = (config) => {
-  const {
-    theme,
-    classGroups
-  } = config;
+  const { theme, classGroups } = config;
   const classMap = {
     nextPart: /* @__PURE__ */ new Map(),
-    validators: []
+    validators: [],
   };
   for (const classGroupId in classGroups) {
-    processClassesRecursively(classGroups[classGroupId], classMap, classGroupId, theme);
+    processClassesRecursively(
+      classGroups[classGroupId],
+      classMap,
+      classGroupId,
+      theme,
+    );
   }
   return classMap;
 };
-const processClassesRecursively = (classGroup, classPartObject, classGroupId, theme) => {
+const processClassesRecursively = (
+  classGroup,
+  classPartObject,
+  classGroupId,
+  theme,
+) => {
   classGroup.forEach((classDefinition) => {
     if (typeof classDefinition === "string") {
-      const classPartObjectToEdit = classDefinition === "" ? classPartObject : getPart(classPartObject, classDefinition);
+      const classPartObjectToEdit =
+        classDefinition === ""
+          ? classPartObject
+          : getPart(classPartObject, classDefinition);
       classPartObjectToEdit.classGroupId = classGroupId;
       return;
     }
     if (typeof classDefinition === "function") {
       if (isThemeGetter(classDefinition)) {
-        processClassesRecursively(classDefinition(theme), classPartObject, classGroupId, theme);
+        processClassesRecursively(
+          classDefinition(theme),
+          classPartObject,
+          classGroupId,
+          theme,
+        );
         return;
       }
       classPartObject.validators.push({
         validator: classDefinition,
-        classGroupId
+        classGroupId,
       });
       return;
     }
     Object.entries(classDefinition).forEach(([key, classGroup2]) => {
-      processClassesRecursively(classGroup2, getPart(classPartObject, key), classGroupId, theme);
+      processClassesRecursively(
+        classGroup2,
+        getPart(classPartObject, key),
+        classGroupId,
+        theme,
+      );
     });
   });
 };
@@ -113,7 +171,7 @@ const getPart = (classPartObject, path) => {
     if (!currentClassPartObject.nextPart.has(pathPart)) {
       currentClassPartObject.nextPart.set(pathPart, {
         nextPart: /* @__PURE__ */ new Map(),
-        validators: []
+        validators: [],
       });
     }
     currentClassPartObject = currentClassPartObject.nextPart.get(pathPart);
@@ -125,8 +183,7 @@ const createLruCache = (maxCacheSize) => {
   if (maxCacheSize < 1) {
     return {
       get: () => void 0,
-      set: () => {
-      }
+      set: () => {},
     };
   }
   let cacheSize = 0;
@@ -158,17 +215,14 @@ const createLruCache = (maxCacheSize) => {
       } else {
         update(key, value);
       }
-    }
+    },
   };
 };
 const IMPORTANT_MODIFIER = "!";
 const MODIFIER_SEPARATOR = ":";
 const MODIFIER_SEPARATOR_LENGTH = MODIFIER_SEPARATOR.length;
 const createParseClassName = (config) => {
-  const {
-    prefix,
-    experimentalParseClassName
-  } = config;
+  const { prefix, experimentalParseClassName } = config;
   let parseClassName = (className) => {
     const modifiers = [];
     let bracketDepth = 0;
@@ -198,34 +252,45 @@ const createParseClassName = (config) => {
         parenDepth--;
       }
     }
-    const baseClassNameWithImportantModifier = modifiers.length === 0 ? className : className.substring(modifierStart);
-    const baseClassName = stripImportantModifier(baseClassNameWithImportantModifier);
-    const hasImportantModifier = baseClassName !== baseClassNameWithImportantModifier;
-    const maybePostfixModifierPosition = postfixModifierPosition && postfixModifierPosition > modifierStart ? postfixModifierPosition - modifierStart : void 0;
+    const baseClassNameWithImportantModifier =
+      modifiers.length === 0 ? className : className.substring(modifierStart);
+    const baseClassName = stripImportantModifier(
+      baseClassNameWithImportantModifier,
+    );
+    const hasImportantModifier =
+      baseClassName !== baseClassNameWithImportantModifier;
+    const maybePostfixModifierPosition =
+      postfixModifierPosition && postfixModifierPosition > modifierStart
+        ? postfixModifierPosition - modifierStart
+        : void 0;
     return {
       modifiers,
       hasImportantModifier,
       baseClassName,
-      maybePostfixModifierPosition
+      maybePostfixModifierPosition,
     };
   };
   if (prefix) {
     const fullPrefix = prefix + MODIFIER_SEPARATOR;
     const parseClassNameOriginal = parseClassName;
-    parseClassName = (className) => className.startsWith(fullPrefix) ? parseClassNameOriginal(className.substring(fullPrefix.length)) : {
-      isExternal: true,
-      modifiers: [],
-      hasImportantModifier: false,
-      baseClassName: className,
-      maybePostfixModifierPosition: void 0
-    };
+    parseClassName = (className) =>
+      className.startsWith(fullPrefix)
+        ? parseClassNameOriginal(className.substring(fullPrefix.length))
+        : {
+            isExternal: true,
+            modifiers: [],
+            hasImportantModifier: false,
+            baseClassName: className,
+            maybePostfixModifierPosition: void 0,
+          };
   }
   if (experimentalParseClassName) {
     const parseClassNameOriginal = parseClassName;
-    parseClassName = (className) => experimentalParseClassName({
-      className,
-      parseClassName: parseClassNameOriginal
-    });
+    parseClassName = (className) =>
+      experimentalParseClassName({
+        className,
+        parseClassName: parseClassNameOriginal,
+      });
   }
   return parseClassName;
 };
@@ -239,7 +304,9 @@ const stripImportantModifier = (baseClassName) => {
   return baseClassName;
 };
 const createSortModifiers = (config) => {
-  const orderSensitiveModifiers = Object.fromEntries(config.orderSensitiveModifiers.map((modifier) => [modifier, true]));
+  const orderSensitiveModifiers = Object.fromEntries(
+    config.orderSensitiveModifiers.map((modifier) => [modifier, true]),
+  );
   const sortModifiers = (modifiers) => {
     if (modifiers.length <= 1) {
       return modifiers;
@@ -247,7 +314,8 @@ const createSortModifiers = (config) => {
     const sortedModifiers = [];
     let unsortedModifiers = [];
     modifiers.forEach((modifier) => {
-      const isPositionSensitive = modifier[0] === "[" || orderSensitiveModifiers[modifier];
+      const isPositionSensitive =
+        modifier[0] === "[" || orderSensitiveModifiers[modifier];
       if (isPositionSensitive) {
         sortedModifiers.push(...unsortedModifiers.sort(), modifier);
         unsortedModifiers = [];
@@ -264,7 +332,7 @@ const createConfigUtils = (config) => ({
   cache: createLruCache(config.cacheSize),
   parseClassName: createParseClassName(config),
   sortModifiers: createSortModifiers(config),
-  ...createClassGroupUtils(config)
+  ...createClassGroupUtils(config),
 });
 const SPLIT_CLASSES_REGEX = /\s+/;
 const mergeClassList = (classList, configUtils) => {
@@ -272,7 +340,7 @@ const mergeClassList = (classList, configUtils) => {
     parseClassName,
     getClassGroupId,
     getConflictingClassGroupIds,
-    sortModifiers
+    sortModifiers,
   } = configUtils;
   const classGroupsInConflict = [];
   const classNames = classList.trim().split(SPLIT_CLASSES_REGEX);
@@ -284,34 +352,45 @@ const mergeClassList = (classList, configUtils) => {
       modifiers,
       hasImportantModifier,
       baseClassName,
-      maybePostfixModifierPosition
+      maybePostfixModifierPosition,
     } = parseClassName(originalClassName);
     if (isExternal) {
       result = originalClassName + (result.length > 0 ? " " + result : result);
       continue;
     }
     let hasPostfixModifier = !!maybePostfixModifierPosition;
-    let classGroupId = getClassGroupId(hasPostfixModifier ? baseClassName.substring(0, maybePostfixModifierPosition) : baseClassName);
+    let classGroupId = getClassGroupId(
+      hasPostfixModifier
+        ? baseClassName.substring(0, maybePostfixModifierPosition)
+        : baseClassName,
+    );
     if (!classGroupId) {
       if (!hasPostfixModifier) {
-        result = originalClassName + (result.length > 0 ? " " + result : result);
+        result =
+          originalClassName + (result.length > 0 ? " " + result : result);
         continue;
       }
       classGroupId = getClassGroupId(baseClassName);
       if (!classGroupId) {
-        result = originalClassName + (result.length > 0 ? " " + result : result);
+        result =
+          originalClassName + (result.length > 0 ? " " + result : result);
         continue;
       }
       hasPostfixModifier = false;
     }
     const variantModifier = sortModifiers(modifiers).join(":");
-    const modifierId = hasImportantModifier ? variantModifier + IMPORTANT_MODIFIER : variantModifier;
+    const modifierId = hasImportantModifier
+      ? variantModifier + IMPORTANT_MODIFIER
+      : variantModifier;
     const classId = modifierId + classGroupId;
     if (classGroupsInConflict.includes(classId)) {
       continue;
     }
     classGroupsInConflict.push(classId);
-    const conflictGroups = getConflictingClassGroupIds(classGroupId, hasPostfixModifier);
+    const conflictGroups = getConflictingClassGroupIds(
+      classGroupId,
+      hasPostfixModifier,
+    );
     for (let i = 0; i < conflictGroups.length; ++i) {
       const group = conflictGroups[i];
       classGroupsInConflict.push(modifierId + group);
@@ -326,8 +405,8 @@ function twJoin() {
   let resolvedValue;
   let string = "";
   while (index < arguments.length) {
-    if (argument = arguments[index++]) {
-      if (resolvedValue = toValue(argument)) {
+    if ((argument = arguments[index++])) {
+      if ((resolvedValue = toValue(argument))) {
         string && (string += " ");
         string += resolvedValue;
       }
@@ -343,7 +422,7 @@ const toValue = (mix) => {
   let string = "";
   for (let k = 0; k < mix.length; k++) {
     if (mix[k]) {
-      if (resolvedValue = toValue(mix[k])) {
+      if ((resolvedValue = toValue(mix[k]))) {
         string && (string += " ");
         string += resolvedValue;
       }
@@ -357,7 +436,11 @@ function createTailwindMerge(createConfigFirst, ...createConfigRest) {
   let cacheSet;
   let functionToCall = initTailwindMerge;
   function initTailwindMerge(classList) {
-    const config = createConfigRest.reduce((previousConfig, createConfigCurrent) => createConfigCurrent(previousConfig), createConfigFirst());
+    const config = createConfigRest.reduce(
+      (previousConfig, createConfigCurrent) =>
+        createConfigCurrent(previousConfig),
+      createConfigFirst(),
+    );
     configUtils = createConfigUtils(config);
     cacheGet = configUtils.cache.get;
     cacheSet = configUtils.cache.set;
@@ -386,40 +469,56 @@ const arbitraryValueRegex = /^\[(?:(\w[\w-]*):)?(.+)\]$/i;
 const arbitraryVariableRegex = /^\((?:(\w[\w-]*):)?(.+)\)$/i;
 const fractionRegex = /^\d+\/\d+$/;
 const tshirtUnitRegex = /^(\d+(\.\d+)?)?(xs|sm|md|lg|xl)$/;
-const lengthUnitRegex = /\d+(%|px|r?em|[sdl]?v([hwib]|min|max)|pt|pc|in|cm|mm|cap|ch|ex|r?lh|cq(w|h|i|b|min|max))|\b(calc|min|max|clamp)\(.+\)|^0$/;
+const lengthUnitRegex =
+  /\d+(%|px|r?em|[sdl]?v([hwib]|min|max)|pt|pc|in|cm|mm|cap|ch|ex|r?lh|cq(w|h|i|b|min|max))|\b(calc|min|max|clamp)\(.+\)|^0$/;
 const colorFunctionRegex = /^(rgba?|hsla?|hwb|(ok)?(lab|lch))\(.+\)$/;
-const shadowRegex = /^(inset_)?-?((\d+)?\.?(\d+)[a-z]+|0)_-?((\d+)?\.?(\d+)[a-z]+|0)/;
-const imageRegex = /^(url|image|image-set|cross-fade|element|(repeating-)?(linear|radial|conic)-gradient)\(.+\)$/;
+const shadowRegex =
+  /^(inset_)?-?((\d+)?\.?(\d+)[a-z]+|0)_-?((\d+)?\.?(\d+)[a-z]+|0)/;
+const imageRegex =
+  /^(url|image|image-set|cross-fade|element|(repeating-)?(linear|radial|conic)-gradient)\(.+\)$/;
 const isFraction = (value) => fractionRegex.test(value);
 const isNumber = (value) => Boolean(value) && !Number.isNaN(Number(value));
 const isInteger = (value) => Boolean(value) && Number.isInteger(Number(value));
-const isPercent = (value) => value.endsWith("%") && isNumber(value.slice(0, -1));
+const isPercent = (value) =>
+  value.endsWith("%") && isNumber(value.slice(0, -1));
 const isTshirtSize = (value) => tshirtUnitRegex.test(value);
 const isAny = () => true;
-const isLengthOnly = (value) => (
+const isLengthOnly = (value) =>
   // `colorFunctionRegex` check is necessary because color functions can have percentages in them which which would be incorrectly classified as lengths.
   // For example, `hsl(0 0% 0%)` would be classified as a length without this check.
   // I could also use lookbehind assertion in `lengthUnitRegex` but that isn't supported widely enough.
-  lengthUnitRegex.test(value) && !colorFunctionRegex.test(value)
-);
+  lengthUnitRegex.test(value) && !colorFunctionRegex.test(value);
 const isNever = () => false;
 const isShadow = (value) => shadowRegex.test(value);
 const isImage = (value) => imageRegex.test(value);
-const isAnyNonArbitrary = (value) => !isArbitraryValue(value) && !isArbitraryVariable(value);
-const isArbitrarySize = (value) => getIsArbitraryValue(value, isLabelSize, isNever);
+const isAnyNonArbitrary = (value) =>
+  !isArbitraryValue(value) && !isArbitraryVariable(value);
+const isArbitrarySize = (value) =>
+  getIsArbitraryValue(value, isLabelSize, isNever);
 const isArbitraryValue = (value) => arbitraryValueRegex.test(value);
-const isArbitraryLength = (value) => getIsArbitraryValue(value, isLabelLength, isLengthOnly);
-const isArbitraryNumber = (value) => getIsArbitraryValue(value, isLabelNumber, isNumber);
-const isArbitraryPosition = (value) => getIsArbitraryValue(value, isLabelPosition, isNever);
-const isArbitraryImage = (value) => getIsArbitraryValue(value, isLabelImage, isImage);
-const isArbitraryShadow = (value) => getIsArbitraryValue(value, isNever, isShadow);
+const isArbitraryLength = (value) =>
+  getIsArbitraryValue(value, isLabelLength, isLengthOnly);
+const isArbitraryNumber = (value) =>
+  getIsArbitraryValue(value, isLabelNumber, isNumber);
+const isArbitraryPosition = (value) =>
+  getIsArbitraryValue(value, isLabelPosition, isNever);
+const isArbitraryImage = (value) =>
+  getIsArbitraryValue(value, isLabelImage, isImage);
+const isArbitraryShadow = (value) =>
+  getIsArbitraryValue(value, isNever, isShadow);
 const isArbitraryVariable = (value) => arbitraryVariableRegex.test(value);
-const isArbitraryVariableLength = (value) => getIsArbitraryVariable(value, isLabelLength);
-const isArbitraryVariableFamilyName = (value) => getIsArbitraryVariable(value, isLabelFamilyName);
-const isArbitraryVariablePosition = (value) => getIsArbitraryVariable(value, isLabelPosition);
-const isArbitraryVariableSize = (value) => getIsArbitraryVariable(value, isLabelSize);
-const isArbitraryVariableImage = (value) => getIsArbitraryVariable(value, isLabelImage);
-const isArbitraryVariableShadow = (value) => getIsArbitraryVariable(value, isLabelShadow, true);
+const isArbitraryVariableLength = (value) =>
+  getIsArbitraryVariable(value, isLabelLength);
+const isArbitraryVariableFamilyName = (value) =>
+  getIsArbitraryVariable(value, isLabelFamilyName);
+const isArbitraryVariablePosition = (value) =>
+  getIsArbitraryVariable(value, isLabelPosition);
+const isArbitraryVariableSize = (value) =>
+  getIsArbitraryVariable(value, isLabelSize);
+const isArbitraryVariableImage = (value) =>
+  getIsArbitraryVariable(value, isLabelImage);
+const isArbitraryVariableShadow = (value) =>
+  getIsArbitraryVariable(value, isLabelShadow, true);
 const getIsArbitraryValue = (value, testLabel, testValue) => {
   const result = arbitraryValueRegex.exec(value);
   if (result) {
@@ -430,7 +529,11 @@ const getIsArbitraryValue = (value, testLabel, testValue) => {
   }
   return false;
 };
-const getIsArbitraryVariable = (value, testLabel, shouldMatchNoLabel = false) => {
+const getIsArbitraryVariable = (
+  value,
+  testLabel,
+  shouldMatchNoLabel = false,
+) => {
   const result = arbitraryVariableRegex.exec(value);
   if (result) {
     if (result[1]) {
@@ -468,24 +571,103 @@ const getDefaultConfig = () => {
   const themeAspect = fromTheme("aspect");
   const themeEase = fromTheme("ease");
   const themeAnimate = fromTheme("animate");
-  const scaleBreak = () => ["auto", "avoid", "all", "avoid-page", "page", "left", "right", "column"];
-  const scalePosition = () => ["bottom", "center", "left", "left-bottom", "left-top", "right", "right-bottom", "right-top", "top"];
+  const scaleBreak = () => [
+    "auto",
+    "avoid",
+    "all",
+    "avoid-page",
+    "page",
+    "left",
+    "right",
+    "column",
+  ];
+  const scalePosition = () => [
+    "bottom",
+    "center",
+    "left",
+    "left-bottom",
+    "left-top",
+    "right",
+    "right-bottom",
+    "right-top",
+    "top",
+  ];
   const scaleOverflow = () => ["auto", "hidden", "clip", "visible", "scroll"];
   const scaleOverscroll = () => ["auto", "contain", "none"];
-  const scaleUnambiguousSpacing = () => [isArbitraryVariable, isArbitraryValue, themeSpacing];
-  const scaleInset = () => [isFraction, "full", "auto", ...scaleUnambiguousSpacing()];
-  const scaleGridTemplateColsRows = () => [isInteger, "none", "subgrid", isArbitraryVariable, isArbitraryValue];
-  const scaleGridColRowStartAndEnd = () => ["auto", {
-    span: ["full", isInteger, isArbitraryVariable, isArbitraryValue]
-  }, isInteger, isArbitraryVariable, isArbitraryValue];
-  const scaleGridColRowStartOrEnd = () => [isInteger, "auto", isArbitraryVariable, isArbitraryValue];
-  const scaleGridAutoColsRows = () => ["auto", "min", "max", "fr", isArbitraryVariable, isArbitraryValue];
-  const scaleAlignPrimaryAxis = () => ["start", "end", "center", "between", "around", "evenly", "stretch", "baseline"];
+  const scaleUnambiguousSpacing = () => [
+    isArbitraryVariable,
+    isArbitraryValue,
+    themeSpacing,
+  ];
+  const scaleInset = () => [
+    isFraction,
+    "full",
+    "auto",
+    ...scaleUnambiguousSpacing(),
+  ];
+  const scaleGridTemplateColsRows = () => [
+    isInteger,
+    "none",
+    "subgrid",
+    isArbitraryVariable,
+    isArbitraryValue,
+  ];
+  const scaleGridColRowStartAndEnd = () => [
+    "auto",
+    {
+      span: ["full", isInteger, isArbitraryVariable, isArbitraryValue],
+    },
+    isInteger,
+    isArbitraryVariable,
+    isArbitraryValue,
+  ];
+  const scaleGridColRowStartOrEnd = () => [
+    isInteger,
+    "auto",
+    isArbitraryVariable,
+    isArbitraryValue,
+  ];
+  const scaleGridAutoColsRows = () => [
+    "auto",
+    "min",
+    "max",
+    "fr",
+    isArbitraryVariable,
+    isArbitraryValue,
+  ];
+  const scaleAlignPrimaryAxis = () => [
+    "start",
+    "end",
+    "center",
+    "between",
+    "around",
+    "evenly",
+    "stretch",
+    "baseline",
+  ];
   const scaleAlignSecondaryAxis = () => ["start", "end", "center", "stretch"];
   const scaleMargin = () => ["auto", ...scaleUnambiguousSpacing()];
-  const scaleSizing = () => [isFraction, "auto", "full", "dvw", "dvh", "lvw", "lvh", "svw", "svh", "min", "max", "fit", ...scaleUnambiguousSpacing()];
+  const scaleSizing = () => [
+    isFraction,
+    "auto",
+    "full",
+    "dvw",
+    "dvh",
+    "lvw",
+    "lvh",
+    "svw",
+    "svh",
+    "min",
+    "max",
+    "fit",
+    ...scaleUnambiguousSpacing(),
+  ];
   const scaleColor = () => [themeColor, isArbitraryVariable, isArbitraryValue];
-  const scaleGradientStopPosition = () => [isPercent, isArbitraryVariableLength, isArbitraryLength];
+  const scaleGradientStopPosition = () => [
+    isPercent,
+    isArbitraryVariableLength,
+    isArbitraryLength,
+  ];
   const scaleRadius = () => [
     // Deprecated since Tailwind CSS v4.0.0
     "",
@@ -493,24 +675,72 @@ const getDefaultConfig = () => {
     "full",
     themeRadius,
     isArbitraryVariable,
-    isArbitraryValue
+    isArbitraryValue,
   ];
-  const scaleBorderWidth = () => ["", isNumber, isArbitraryVariableLength, isArbitraryLength];
+  const scaleBorderWidth = () => [
+    "",
+    isNumber,
+    isArbitraryVariableLength,
+    isArbitraryLength,
+  ];
   const scaleLineStyle = () => ["solid", "dashed", "dotted", "double"];
-  const scaleBlendMode = () => ["normal", "multiply", "screen", "overlay", "darken", "lighten", "color-dodge", "color-burn", "hard-light", "soft-light", "difference", "exclusion", "hue", "saturation", "color", "luminosity"];
+  const scaleBlendMode = () => [
+    "normal",
+    "multiply",
+    "screen",
+    "overlay",
+    "darken",
+    "lighten",
+    "color-dodge",
+    "color-burn",
+    "hard-light",
+    "soft-light",
+    "difference",
+    "exclusion",
+    "hue",
+    "saturation",
+    "color",
+    "luminosity",
+  ];
   const scaleBlur = () => [
     // Deprecated since Tailwind CSS v4.0.0
     "",
     "none",
     themeBlur,
     isArbitraryVariable,
-    isArbitraryValue
+    isArbitraryValue,
   ];
-  const scaleOrigin = () => ["center", "top", "top-right", "right", "bottom-right", "bottom", "bottom-left", "left", "top-left", isArbitraryVariable, isArbitraryValue];
-  const scaleRotate = () => ["none", isNumber, isArbitraryVariable, isArbitraryValue];
-  const scaleScale = () => ["none", isNumber, isArbitraryVariable, isArbitraryValue];
+  const scaleOrigin = () => [
+    "center",
+    "top",
+    "top-right",
+    "right",
+    "bottom-right",
+    "bottom",
+    "bottom-left",
+    "left",
+    "top-left",
+    isArbitraryVariable,
+    isArbitraryValue,
+  ];
+  const scaleRotate = () => [
+    "none",
+    isNumber,
+    isArbitraryVariable,
+    isArbitraryValue,
+  ];
+  const scaleScale = () => [
+    "none",
+    isNumber,
+    isArbitraryVariable,
+    isArbitraryValue,
+  ];
   const scaleSkew = () => [isNumber, isArbitraryVariable, isArbitraryValue];
-  const scaleTranslate = () => [isFraction, "full", ...scaleUnambiguousSpacing()];
+  const scaleTranslate = () => [
+    isFraction,
+    "full",
+    ...scaleUnambiguousSpacing(),
+  ];
   return {
     cacheSize: 500,
     theme: {
@@ -523,15 +753,32 @@ const getDefaultConfig = () => {
       "drop-shadow": [isTshirtSize],
       ease: ["in", "out", "in-out"],
       font: [isAnyNonArbitrary],
-      "font-weight": ["thin", "extralight", "light", "normal", "medium", "semibold", "bold", "extrabold", "black"],
+      "font-weight": [
+        "thin",
+        "extralight",
+        "light",
+        "normal",
+        "medium",
+        "semibold",
+        "bold",
+        "extrabold",
+        "black",
+      ],
       "inset-shadow": [isTshirtSize],
       leading: ["none", "tight", "snug", "normal", "relaxed", "loose"],
-      perspective: ["dramatic", "near", "normal", "midrange", "distant", "none"],
+      perspective: [
+        "dramatic",
+        "near",
+        "normal",
+        "midrange",
+        "distant",
+        "none",
+      ],
       radius: [isTshirtSize],
       shadow: [isTshirtSize],
       spacing: ["px", isNumber],
       text: [isTshirtSize],
-      tracking: ["tighter", "tight", "normal", "wide", "wider", "widest"]
+      tracking: ["tighter", "tight", "normal", "wide", "wider", "widest"],
     },
     classGroups: {
       // --------------
@@ -541,9 +788,18 @@ const getDefaultConfig = () => {
        * Aspect Ratio
        * @see https://tailwindcss.com/docs/aspect-ratio
        */
-      aspect: [{
-        aspect: ["auto", "square", isFraction, isArbitraryValue, isArbitraryVariable, themeAspect]
-      }],
+      aspect: [
+        {
+          aspect: [
+            "auto",
+            "square",
+            isFraction,
+            isArbitraryValue,
+            isArbitraryVariable,
+            themeAspect,
+          ],
+        },
+      ],
       /**
        * Container
        * @see https://tailwindcss.com/docs/container
@@ -554,49 +810,88 @@ const getDefaultConfig = () => {
        * Columns
        * @see https://tailwindcss.com/docs/columns
        */
-      columns: [{
-        columns: [isNumber, isArbitraryValue, isArbitraryVariable, themeContainer]
-      }],
+      columns: [
+        {
+          columns: [
+            isNumber,
+            isArbitraryValue,
+            isArbitraryVariable,
+            themeContainer,
+          ],
+        },
+      ],
       /**
        * Break After
        * @see https://tailwindcss.com/docs/break-after
        */
-      "break-after": [{
-        "break-after": scaleBreak()
-      }],
+      "break-after": [
+        {
+          "break-after": scaleBreak(),
+        },
+      ],
       /**
        * Break Before
        * @see https://tailwindcss.com/docs/break-before
        */
-      "break-before": [{
-        "break-before": scaleBreak()
-      }],
+      "break-before": [
+        {
+          "break-before": scaleBreak(),
+        },
+      ],
       /**
        * Break Inside
        * @see https://tailwindcss.com/docs/break-inside
        */
-      "break-inside": [{
-        "break-inside": ["auto", "avoid", "avoid-page", "avoid-column"]
-      }],
+      "break-inside": [
+        {
+          "break-inside": ["auto", "avoid", "avoid-page", "avoid-column"],
+        },
+      ],
       /**
        * Box Decoration Break
        * @see https://tailwindcss.com/docs/box-decoration-break
        */
-      "box-decoration": [{
-        "box-decoration": ["slice", "clone"]
-      }],
+      "box-decoration": [
+        {
+          "box-decoration": ["slice", "clone"],
+        },
+      ],
       /**
        * Box Sizing
        * @see https://tailwindcss.com/docs/box-sizing
        */
-      box: [{
-        box: ["border", "content"]
-      }],
+      box: [
+        {
+          box: ["border", "content"],
+        },
+      ],
       /**
        * Display
        * @see https://tailwindcss.com/docs/display
        */
-      display: ["block", "inline-block", "inline", "flex", "inline-flex", "table", "inline-table", "table-caption", "table-cell", "table-column", "table-column-group", "table-footer-group", "table-header-group", "table-row-group", "table-row", "flow-root", "grid", "inline-grid", "contents", "list-item", "hidden"],
+      display: [
+        "block",
+        "inline-block",
+        "inline",
+        "flex",
+        "inline-flex",
+        "table",
+        "inline-table",
+        "table-caption",
+        "table-cell",
+        "table-column",
+        "table-column-group",
+        "table-footer-group",
+        "table-header-group",
+        "table-row-group",
+        "table-row",
+        "flow-root",
+        "grid",
+        "inline-grid",
+        "contents",
+        "list-item",
+        "hidden",
+      ],
       /**
        * Screen Reader Only
        * @see https://tailwindcss.com/docs/display#screen-reader-only
@@ -606,16 +901,20 @@ const getDefaultConfig = () => {
        * Floats
        * @see https://tailwindcss.com/docs/float
        */
-      float: [{
-        float: ["right", "left", "none", "start", "end"]
-      }],
+      float: [
+        {
+          float: ["right", "left", "none", "start", "end"],
+        },
+      ],
       /**
        * Clear
        * @see https://tailwindcss.com/docs/clear
        */
-      clear: [{
-        clear: ["left", "right", "both", "none", "start", "end"]
-      }],
+      clear: [
+        {
+          clear: ["left", "right", "both", "none", "start", "end"],
+        },
+      ],
       /**
        * Isolation
        * @see https://tailwindcss.com/docs/isolation
@@ -625,58 +924,74 @@ const getDefaultConfig = () => {
        * Object Fit
        * @see https://tailwindcss.com/docs/object-fit
        */
-      "object-fit": [{
-        object: ["contain", "cover", "fill", "none", "scale-down"]
-      }],
+      "object-fit": [
+        {
+          object: ["contain", "cover", "fill", "none", "scale-down"],
+        },
+      ],
       /**
        * Object Position
        * @see https://tailwindcss.com/docs/object-position
        */
-      "object-position": [{
-        object: [...scalePosition(), isArbitraryValue, isArbitraryVariable]
-      }],
+      "object-position": [
+        {
+          object: [...scalePosition(), isArbitraryValue, isArbitraryVariable],
+        },
+      ],
       /**
        * Overflow
        * @see https://tailwindcss.com/docs/overflow
        */
-      overflow: [{
-        overflow: scaleOverflow()
-      }],
+      overflow: [
+        {
+          overflow: scaleOverflow(),
+        },
+      ],
       /**
        * Overflow X
        * @see https://tailwindcss.com/docs/overflow
        */
-      "overflow-x": [{
-        "overflow-x": scaleOverflow()
-      }],
+      "overflow-x": [
+        {
+          "overflow-x": scaleOverflow(),
+        },
+      ],
       /**
        * Overflow Y
        * @see https://tailwindcss.com/docs/overflow
        */
-      "overflow-y": [{
-        "overflow-y": scaleOverflow()
-      }],
+      "overflow-y": [
+        {
+          "overflow-y": scaleOverflow(),
+        },
+      ],
       /**
        * Overscroll Behavior
        * @see https://tailwindcss.com/docs/overscroll-behavior
        */
-      overscroll: [{
-        overscroll: scaleOverscroll()
-      }],
+      overscroll: [
+        {
+          overscroll: scaleOverscroll(),
+        },
+      ],
       /**
        * Overscroll Behavior X
        * @see https://tailwindcss.com/docs/overscroll-behavior
        */
-      "overscroll-x": [{
-        "overscroll-x": scaleOverscroll()
-      }],
+      "overscroll-x": [
+        {
+          "overscroll-x": scaleOverscroll(),
+        },
+      ],
       /**
        * Overscroll Behavior Y
        * @see https://tailwindcss.com/docs/overscroll-behavior
        */
-      "overscroll-y": [{
-        "overscroll-y": scaleOverscroll()
-      }],
+      "overscroll-y": [
+        {
+          "overscroll-y": scaleOverscroll(),
+        },
+      ],
       /**
        * Position
        * @see https://tailwindcss.com/docs/position
@@ -686,65 +1001,83 @@ const getDefaultConfig = () => {
        * Top / Right / Bottom / Left
        * @see https://tailwindcss.com/docs/top-right-bottom-left
        */
-      inset: [{
-        inset: scaleInset()
-      }],
+      inset: [
+        {
+          inset: scaleInset(),
+        },
+      ],
       /**
        * Right / Left
        * @see https://tailwindcss.com/docs/top-right-bottom-left
        */
-      "inset-x": [{
-        "inset-x": scaleInset()
-      }],
+      "inset-x": [
+        {
+          "inset-x": scaleInset(),
+        },
+      ],
       /**
        * Top / Bottom
        * @see https://tailwindcss.com/docs/top-right-bottom-left
        */
-      "inset-y": [{
-        "inset-y": scaleInset()
-      }],
+      "inset-y": [
+        {
+          "inset-y": scaleInset(),
+        },
+      ],
       /**
        * Start
        * @see https://tailwindcss.com/docs/top-right-bottom-left
        */
-      start: [{
-        start: scaleInset()
-      }],
+      start: [
+        {
+          start: scaleInset(),
+        },
+      ],
       /**
        * End
        * @see https://tailwindcss.com/docs/top-right-bottom-left
        */
-      end: [{
-        end: scaleInset()
-      }],
+      end: [
+        {
+          end: scaleInset(),
+        },
+      ],
       /**
        * Top
        * @see https://tailwindcss.com/docs/top-right-bottom-left
        */
-      top: [{
-        top: scaleInset()
-      }],
+      top: [
+        {
+          top: scaleInset(),
+        },
+      ],
       /**
        * Right
        * @see https://tailwindcss.com/docs/top-right-bottom-left
        */
-      right: [{
-        right: scaleInset()
-      }],
+      right: [
+        {
+          right: scaleInset(),
+        },
+      ],
       /**
        * Bottom
        * @see https://tailwindcss.com/docs/top-right-bottom-left
        */
-      bottom: [{
-        bottom: scaleInset()
-      }],
+      bottom: [
+        {
+          bottom: scaleInset(),
+        },
+      ],
       /**
        * Left
        * @see https://tailwindcss.com/docs/top-right-bottom-left
        */
-      left: [{
-        left: scaleInset()
-      }],
+      left: [
+        {
+          left: scaleInset(),
+        },
+      ],
       /**
        * Visibility
        * @see https://tailwindcss.com/docs/visibility
@@ -754,9 +1087,11 @@ const getDefaultConfig = () => {
        * Z-Index
        * @see https://tailwindcss.com/docs/z-index
        */
-      z: [{
-        z: [isInteger, "auto", isArbitraryVariable, isArbitraryValue]
-      }],
+      z: [
+        {
+          z: [isInteger, "auto", isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       // ------------------------
       // --- Flexbox and Grid ---
       // ------------------------
@@ -764,346 +1099,464 @@ const getDefaultConfig = () => {
        * Flex Basis
        * @see https://tailwindcss.com/docs/flex-basis
        */
-      basis: [{
-        basis: [isFraction, "full", "auto", themeContainer, ...scaleUnambiguousSpacing()]
-      }],
+      basis: [
+        {
+          basis: [
+            isFraction,
+            "full",
+            "auto",
+            themeContainer,
+            ...scaleUnambiguousSpacing(),
+          ],
+        },
+      ],
       /**
        * Flex Direction
        * @see https://tailwindcss.com/docs/flex-direction
        */
-      "flex-direction": [{
-        flex: ["row", "row-reverse", "col", "col-reverse"]
-      }],
+      "flex-direction": [
+        {
+          flex: ["row", "row-reverse", "col", "col-reverse"],
+        },
+      ],
       /**
        * Flex Wrap
        * @see https://tailwindcss.com/docs/flex-wrap
        */
-      "flex-wrap": [{
-        flex: ["nowrap", "wrap", "wrap-reverse"]
-      }],
+      "flex-wrap": [
+        {
+          flex: ["nowrap", "wrap", "wrap-reverse"],
+        },
+      ],
       /**
        * Flex
        * @see https://tailwindcss.com/docs/flex
        */
-      flex: [{
-        flex: [isNumber, isFraction, "auto", "initial", "none", isArbitraryValue]
-      }],
+      flex: [
+        {
+          flex: [
+            isNumber,
+            isFraction,
+            "auto",
+            "initial",
+            "none",
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Flex Grow
        * @see https://tailwindcss.com/docs/flex-grow
        */
-      grow: [{
-        grow: ["", isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      grow: [
+        {
+          grow: ["", isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Flex Shrink
        * @see https://tailwindcss.com/docs/flex-shrink
        */
-      shrink: [{
-        shrink: ["", isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      shrink: [
+        {
+          shrink: ["", isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Order
        * @see https://tailwindcss.com/docs/order
        */
-      order: [{
-        order: [isInteger, "first", "last", "none", isArbitraryVariable, isArbitraryValue]
-      }],
+      order: [
+        {
+          order: [
+            isInteger,
+            "first",
+            "last",
+            "none",
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Grid Template Columns
        * @see https://tailwindcss.com/docs/grid-template-columns
        */
-      "grid-cols": [{
-        "grid-cols": scaleGridTemplateColsRows()
-      }],
+      "grid-cols": [
+        {
+          "grid-cols": scaleGridTemplateColsRows(),
+        },
+      ],
       /**
        * Grid Column Start / End
        * @see https://tailwindcss.com/docs/grid-column
        */
-      "col-start-end": [{
-        col: scaleGridColRowStartAndEnd()
-      }],
+      "col-start-end": [
+        {
+          col: scaleGridColRowStartAndEnd(),
+        },
+      ],
       /**
        * Grid Column Start
        * @see https://tailwindcss.com/docs/grid-column
        */
-      "col-start": [{
-        "col-start": scaleGridColRowStartOrEnd()
-      }],
+      "col-start": [
+        {
+          "col-start": scaleGridColRowStartOrEnd(),
+        },
+      ],
       /**
        * Grid Column End
        * @see https://tailwindcss.com/docs/grid-column
        */
-      "col-end": [{
-        "col-end": scaleGridColRowStartOrEnd()
-      }],
+      "col-end": [
+        {
+          "col-end": scaleGridColRowStartOrEnd(),
+        },
+      ],
       /**
        * Grid Template Rows
        * @see https://tailwindcss.com/docs/grid-template-rows
        */
-      "grid-rows": [{
-        "grid-rows": scaleGridTemplateColsRows()
-      }],
+      "grid-rows": [
+        {
+          "grid-rows": scaleGridTemplateColsRows(),
+        },
+      ],
       /**
        * Grid Row Start / End
        * @see https://tailwindcss.com/docs/grid-row
        */
-      "row-start-end": [{
-        row: scaleGridColRowStartAndEnd()
-      }],
+      "row-start-end": [
+        {
+          row: scaleGridColRowStartAndEnd(),
+        },
+      ],
       /**
        * Grid Row Start
        * @see https://tailwindcss.com/docs/grid-row
        */
-      "row-start": [{
-        "row-start": scaleGridColRowStartOrEnd()
-      }],
+      "row-start": [
+        {
+          "row-start": scaleGridColRowStartOrEnd(),
+        },
+      ],
       /**
        * Grid Row End
        * @see https://tailwindcss.com/docs/grid-row
        */
-      "row-end": [{
-        "row-end": scaleGridColRowStartOrEnd()
-      }],
+      "row-end": [
+        {
+          "row-end": scaleGridColRowStartOrEnd(),
+        },
+      ],
       /**
        * Grid Auto Flow
        * @see https://tailwindcss.com/docs/grid-auto-flow
        */
-      "grid-flow": [{
-        "grid-flow": ["row", "col", "dense", "row-dense", "col-dense"]
-      }],
+      "grid-flow": [
+        {
+          "grid-flow": ["row", "col", "dense", "row-dense", "col-dense"],
+        },
+      ],
       /**
        * Grid Auto Columns
        * @see https://tailwindcss.com/docs/grid-auto-columns
        */
-      "auto-cols": [{
-        "auto-cols": scaleGridAutoColsRows()
-      }],
+      "auto-cols": [
+        {
+          "auto-cols": scaleGridAutoColsRows(),
+        },
+      ],
       /**
        * Grid Auto Rows
        * @see https://tailwindcss.com/docs/grid-auto-rows
        */
-      "auto-rows": [{
-        "auto-rows": scaleGridAutoColsRows()
-      }],
+      "auto-rows": [
+        {
+          "auto-rows": scaleGridAutoColsRows(),
+        },
+      ],
       /**
        * Gap
        * @see https://tailwindcss.com/docs/gap
        */
-      gap: [{
-        gap: scaleUnambiguousSpacing()
-      }],
+      gap: [
+        {
+          gap: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Gap X
        * @see https://tailwindcss.com/docs/gap
        */
-      "gap-x": [{
-        "gap-x": scaleUnambiguousSpacing()
-      }],
+      "gap-x": [
+        {
+          "gap-x": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Gap Y
        * @see https://tailwindcss.com/docs/gap
        */
-      "gap-y": [{
-        "gap-y": scaleUnambiguousSpacing()
-      }],
+      "gap-y": [
+        {
+          "gap-y": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Justify Content
        * @see https://tailwindcss.com/docs/justify-content
        */
-      "justify-content": [{
-        justify: [...scaleAlignPrimaryAxis(), "normal"]
-      }],
+      "justify-content": [
+        {
+          justify: [...scaleAlignPrimaryAxis(), "normal"],
+        },
+      ],
       /**
        * Justify Items
        * @see https://tailwindcss.com/docs/justify-items
        */
-      "justify-items": [{
-        "justify-items": [...scaleAlignSecondaryAxis(), "normal"]
-      }],
+      "justify-items": [
+        {
+          "justify-items": [...scaleAlignSecondaryAxis(), "normal"],
+        },
+      ],
       /**
        * Justify Self
        * @see https://tailwindcss.com/docs/justify-self
        */
-      "justify-self": [{
-        "justify-self": ["auto", ...scaleAlignSecondaryAxis()]
-      }],
+      "justify-self": [
+        {
+          "justify-self": ["auto", ...scaleAlignSecondaryAxis()],
+        },
+      ],
       /**
        * Align Content
        * @see https://tailwindcss.com/docs/align-content
        */
-      "align-content": [{
-        content: ["normal", ...scaleAlignPrimaryAxis()]
-      }],
+      "align-content": [
+        {
+          content: ["normal", ...scaleAlignPrimaryAxis()],
+        },
+      ],
       /**
        * Align Items
        * @see https://tailwindcss.com/docs/align-items
        */
-      "align-items": [{
-        items: [...scaleAlignSecondaryAxis(), "baseline"]
-      }],
+      "align-items": [
+        {
+          items: [...scaleAlignSecondaryAxis(), "baseline"],
+        },
+      ],
       /**
        * Align Self
        * @see https://tailwindcss.com/docs/align-self
        */
-      "align-self": [{
-        self: ["auto", ...scaleAlignSecondaryAxis(), "baseline"]
-      }],
+      "align-self": [
+        {
+          self: ["auto", ...scaleAlignSecondaryAxis(), "baseline"],
+        },
+      ],
       /**
        * Place Content
        * @see https://tailwindcss.com/docs/place-content
        */
-      "place-content": [{
-        "place-content": scaleAlignPrimaryAxis()
-      }],
+      "place-content": [
+        {
+          "place-content": scaleAlignPrimaryAxis(),
+        },
+      ],
       /**
        * Place Items
        * @see https://tailwindcss.com/docs/place-items
        */
-      "place-items": [{
-        "place-items": [...scaleAlignSecondaryAxis(), "baseline"]
-      }],
+      "place-items": [
+        {
+          "place-items": [...scaleAlignSecondaryAxis(), "baseline"],
+        },
+      ],
       /**
        * Place Self
        * @see https://tailwindcss.com/docs/place-self
        */
-      "place-self": [{
-        "place-self": ["auto", ...scaleAlignSecondaryAxis()]
-      }],
+      "place-self": [
+        {
+          "place-self": ["auto", ...scaleAlignSecondaryAxis()],
+        },
+      ],
       // Spacing
       /**
        * Padding
        * @see https://tailwindcss.com/docs/padding
        */
-      p: [{
-        p: scaleUnambiguousSpacing()
-      }],
+      p: [
+        {
+          p: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Padding X
        * @see https://tailwindcss.com/docs/padding
        */
-      px: [{
-        px: scaleUnambiguousSpacing()
-      }],
+      px: [
+        {
+          px: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Padding Y
        * @see https://tailwindcss.com/docs/padding
        */
-      py: [{
-        py: scaleUnambiguousSpacing()
-      }],
+      py: [
+        {
+          py: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Padding Start
        * @see https://tailwindcss.com/docs/padding
        */
-      ps: [{
-        ps: scaleUnambiguousSpacing()
-      }],
+      ps: [
+        {
+          ps: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Padding End
        * @see https://tailwindcss.com/docs/padding
        */
-      pe: [{
-        pe: scaleUnambiguousSpacing()
-      }],
+      pe: [
+        {
+          pe: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Padding Top
        * @see https://tailwindcss.com/docs/padding
        */
-      pt: [{
-        pt: scaleUnambiguousSpacing()
-      }],
+      pt: [
+        {
+          pt: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Padding Right
        * @see https://tailwindcss.com/docs/padding
        */
-      pr: [{
-        pr: scaleUnambiguousSpacing()
-      }],
+      pr: [
+        {
+          pr: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Padding Bottom
        * @see https://tailwindcss.com/docs/padding
        */
-      pb: [{
-        pb: scaleUnambiguousSpacing()
-      }],
+      pb: [
+        {
+          pb: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Padding Left
        * @see https://tailwindcss.com/docs/padding
        */
-      pl: [{
-        pl: scaleUnambiguousSpacing()
-      }],
+      pl: [
+        {
+          pl: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Margin
        * @see https://tailwindcss.com/docs/margin
        */
-      m: [{
-        m: scaleMargin()
-      }],
+      m: [
+        {
+          m: scaleMargin(),
+        },
+      ],
       /**
        * Margin X
        * @see https://tailwindcss.com/docs/margin
        */
-      mx: [{
-        mx: scaleMargin()
-      }],
+      mx: [
+        {
+          mx: scaleMargin(),
+        },
+      ],
       /**
        * Margin Y
        * @see https://tailwindcss.com/docs/margin
        */
-      my: [{
-        my: scaleMargin()
-      }],
+      my: [
+        {
+          my: scaleMargin(),
+        },
+      ],
       /**
        * Margin Start
        * @see https://tailwindcss.com/docs/margin
        */
-      ms: [{
-        ms: scaleMargin()
-      }],
+      ms: [
+        {
+          ms: scaleMargin(),
+        },
+      ],
       /**
        * Margin End
        * @see https://tailwindcss.com/docs/margin
        */
-      me: [{
-        me: scaleMargin()
-      }],
+      me: [
+        {
+          me: scaleMargin(),
+        },
+      ],
       /**
        * Margin Top
        * @see https://tailwindcss.com/docs/margin
        */
-      mt: [{
-        mt: scaleMargin()
-      }],
+      mt: [
+        {
+          mt: scaleMargin(),
+        },
+      ],
       /**
        * Margin Right
        * @see https://tailwindcss.com/docs/margin
        */
-      mr: [{
-        mr: scaleMargin()
-      }],
+      mr: [
+        {
+          mr: scaleMargin(),
+        },
+      ],
       /**
        * Margin Bottom
        * @see https://tailwindcss.com/docs/margin
        */
-      mb: [{
-        mb: scaleMargin()
-      }],
+      mb: [
+        {
+          mb: scaleMargin(),
+        },
+      ],
       /**
        * Margin Left
        * @see https://tailwindcss.com/docs/margin
        */
-      ml: [{
-        ml: scaleMargin()
-      }],
+      ml: [
+        {
+          ml: scaleMargin(),
+        },
+      ],
       /**
        * Space Between X
        * @see https://tailwindcss.com/docs/margin#adding-space-between-children
        */
-      "space-x": [{
-        "space-x": scaleUnambiguousSpacing()
-      }],
+      "space-x": [
+        {
+          "space-x": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Space Between X Reverse
        * @see https://tailwindcss.com/docs/margin#adding-space-between-children
@@ -1113,9 +1566,11 @@ const getDefaultConfig = () => {
        * Space Between Y
        * @see https://tailwindcss.com/docs/margin#adding-space-between-children
        */
-      "space-y": [{
-        "space-y": scaleUnambiguousSpacing()
-      }],
+      "space-y": [
+        {
+          "space-y": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Space Between Y Reverse
        * @see https://tailwindcss.com/docs/margin#adding-space-between-children
@@ -1128,68 +1583,82 @@ const getDefaultConfig = () => {
        * Size
        * @see https://tailwindcss.com/docs/width#setting-both-width-and-height
        */
-      size: [{
-        size: scaleSizing()
-      }],
+      size: [
+        {
+          size: scaleSizing(),
+        },
+      ],
       /**
        * Width
        * @see https://tailwindcss.com/docs/width
        */
-      w: [{
-        w: [themeContainer, "screen", ...scaleSizing()]
-      }],
+      w: [
+        {
+          w: [themeContainer, "screen", ...scaleSizing()],
+        },
+      ],
       /**
        * Min-Width
        * @see https://tailwindcss.com/docs/min-width
        */
-      "min-w": [{
-        "min-w": [
-          themeContainer,
-          "screen",
-          /** Deprecated. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */
-          "none",
-          ...scaleSizing()
-        ]
-      }],
+      "min-w": [
+        {
+          "min-w": [
+            themeContainer,
+            "screen",
+            /** Deprecated. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */
+            "none",
+            ...scaleSizing(),
+          ],
+        },
+      ],
       /**
        * Max-Width
        * @see https://tailwindcss.com/docs/max-width
        */
-      "max-w": [{
-        "max-w": [
-          themeContainer,
-          "screen",
-          "none",
-          /** Deprecated since Tailwind CSS v4.0.0. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */
-          "prose",
-          /** Deprecated since Tailwind CSS v4.0.0. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */
-          {
-            screen: [themeBreakpoint]
-          },
-          ...scaleSizing()
-        ]
-      }],
+      "max-w": [
+        {
+          "max-w": [
+            themeContainer,
+            "screen",
+            "none",
+            /** Deprecated since Tailwind CSS v4.0.0. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */
+            "prose",
+            /** Deprecated since Tailwind CSS v4.0.0. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */
+            {
+              screen: [themeBreakpoint],
+            },
+            ...scaleSizing(),
+          ],
+        },
+      ],
       /**
        * Height
        * @see https://tailwindcss.com/docs/height
        */
-      h: [{
-        h: ["screen", ...scaleSizing()]
-      }],
+      h: [
+        {
+          h: ["screen", ...scaleSizing()],
+        },
+      ],
       /**
        * Min-Height
        * @see https://tailwindcss.com/docs/min-height
        */
-      "min-h": [{
-        "min-h": ["screen", "none", ...scaleSizing()]
-      }],
+      "min-h": [
+        {
+          "min-h": ["screen", "none", ...scaleSizing()],
+        },
+      ],
       /**
        * Max-Height
        * @see https://tailwindcss.com/docs/max-height
        */
-      "max-h": [{
-        "max-h": ["screen", ...scaleSizing()]
-      }],
+      "max-h": [
+        {
+          "max-h": ["screen", ...scaleSizing()],
+        },
+      ],
       // ------------------
       // --- Typography ---
       // ------------------
@@ -1197,9 +1666,16 @@ const getDefaultConfig = () => {
        * Font Size
        * @see https://tailwindcss.com/docs/font-size
        */
-      "font-size": [{
-        text: ["base", themeText, isArbitraryVariableLength, isArbitraryLength]
-      }],
+      "font-size": [
+        {
+          text: [
+            "base",
+            themeText,
+            isArbitraryVariableLength,
+            isArbitraryLength,
+          ],
+        },
+      ],
       /**
        * Font Smoothing
        * @see https://tailwindcss.com/docs/font-smoothing
@@ -1214,23 +1690,41 @@ const getDefaultConfig = () => {
        * Font Weight
        * @see https://tailwindcss.com/docs/font-weight
        */
-      "font-weight": [{
-        font: [themeFontWeight, isArbitraryVariable, isArbitraryNumber]
-      }],
+      "font-weight": [
+        {
+          font: [themeFontWeight, isArbitraryVariable, isArbitraryNumber],
+        },
+      ],
       /**
        * Font Stretch
        * @see https://tailwindcss.com/docs/font-stretch
        */
-      "font-stretch": [{
-        "font-stretch": ["ultra-condensed", "extra-condensed", "condensed", "semi-condensed", "normal", "semi-expanded", "expanded", "extra-expanded", "ultra-expanded", isPercent, isArbitraryValue]
-      }],
+      "font-stretch": [
+        {
+          "font-stretch": [
+            "ultra-condensed",
+            "extra-condensed",
+            "condensed",
+            "semi-condensed",
+            "normal",
+            "semi-expanded",
+            "expanded",
+            "extra-expanded",
+            "ultra-expanded",
+            isPercent,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Font Family
        * @see https://tailwindcss.com/docs/font-family
        */
-      "font-family": [{
-        font: [isArbitraryVariableFamilyName, isArbitraryValue, themeFont]
-      }],
+      "font-family": [
+        {
+          font: [isArbitraryVariableFamilyName, isArbitraryValue, themeFont],
+        },
+      ],
       /**
        * Font Variant Numeric
        * @see https://tailwindcss.com/docs/font-variant-numeric
@@ -1265,103 +1759,156 @@ const getDefaultConfig = () => {
        * Letter Spacing
        * @see https://tailwindcss.com/docs/letter-spacing
        */
-      tracking: [{
-        tracking: [themeTracking, isArbitraryVariable, isArbitraryValue]
-      }],
+      tracking: [
+        {
+          tracking: [themeTracking, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Line Clamp
        * @see https://tailwindcss.com/docs/line-clamp
        */
-      "line-clamp": [{
-        "line-clamp": [isNumber, "none", isArbitraryVariable, isArbitraryNumber]
-      }],
+      "line-clamp": [
+        {
+          "line-clamp": [
+            isNumber,
+            "none",
+            isArbitraryVariable,
+            isArbitraryNumber,
+          ],
+        },
+      ],
       /**
        * Line Height
        * @see https://tailwindcss.com/docs/line-height
        */
-      leading: [{
-        leading: [
-          /** Deprecated since Tailwind CSS v4.0.0. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */
-          themeLeading,
-          ...scaleUnambiguousSpacing()
-        ]
-      }],
+      leading: [
+        {
+          leading: [
+            /** Deprecated since Tailwind CSS v4.0.0. @see https://github.com/tailwindlabs/tailwindcss.com/issues/2027#issuecomment-2620152757 */
+            themeLeading,
+            ...scaleUnambiguousSpacing(),
+          ],
+        },
+      ],
       /**
        * List Style Image
        * @see https://tailwindcss.com/docs/list-style-image
        */
-      "list-image": [{
-        "list-image": ["none", isArbitraryVariable, isArbitraryValue]
-      }],
+      "list-image": [
+        {
+          "list-image": ["none", isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * List Style Position
        * @see https://tailwindcss.com/docs/list-style-position
        */
-      "list-style-position": [{
-        list: ["inside", "outside"]
-      }],
+      "list-style-position": [
+        {
+          list: ["inside", "outside"],
+        },
+      ],
       /**
        * List Style Type
        * @see https://tailwindcss.com/docs/list-style-type
        */
-      "list-style-type": [{
-        list: ["disc", "decimal", "none", isArbitraryVariable, isArbitraryValue]
-      }],
+      "list-style-type": [
+        {
+          list: [
+            "disc",
+            "decimal",
+            "none",
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Text Alignment
        * @see https://tailwindcss.com/docs/text-align
        */
-      "text-alignment": [{
-        text: ["left", "center", "right", "justify", "start", "end"]
-      }],
+      "text-alignment": [
+        {
+          text: ["left", "center", "right", "justify", "start", "end"],
+        },
+      ],
       /**
        * Placeholder Color
        * @deprecated since Tailwind CSS v3.0.0
        * @see https://v3.tailwindcss.com/docs/placeholder-color
        */
-      "placeholder-color": [{
-        placeholder: scaleColor()
-      }],
+      "placeholder-color": [
+        {
+          placeholder: scaleColor(),
+        },
+      ],
       /**
        * Text Color
        * @see https://tailwindcss.com/docs/text-color
        */
-      "text-color": [{
-        text: scaleColor()
-      }],
+      "text-color": [
+        {
+          text: scaleColor(),
+        },
+      ],
       /**
        * Text Decoration
        * @see https://tailwindcss.com/docs/text-decoration
        */
-      "text-decoration": ["underline", "overline", "line-through", "no-underline"],
+      "text-decoration": [
+        "underline",
+        "overline",
+        "line-through",
+        "no-underline",
+      ],
       /**
        * Text Decoration Style
        * @see https://tailwindcss.com/docs/text-decoration-style
        */
-      "text-decoration-style": [{
-        decoration: [...scaleLineStyle(), "wavy"]
-      }],
+      "text-decoration-style": [
+        {
+          decoration: [...scaleLineStyle(), "wavy"],
+        },
+      ],
       /**
        * Text Decoration Thickness
        * @see https://tailwindcss.com/docs/text-decoration-thickness
        */
-      "text-decoration-thickness": [{
-        decoration: [isNumber, "from-font", "auto", isArbitraryVariable, isArbitraryLength]
-      }],
+      "text-decoration-thickness": [
+        {
+          decoration: [
+            isNumber,
+            "from-font",
+            "auto",
+            isArbitraryVariable,
+            isArbitraryLength,
+          ],
+        },
+      ],
       /**
        * Text Decoration Color
        * @see https://tailwindcss.com/docs/text-decoration-color
        */
-      "text-decoration-color": [{
-        decoration: scaleColor()
-      }],
+      "text-decoration-color": [
+        {
+          decoration: scaleColor(),
+        },
+      ],
       /**
        * Text Underline Offset
        * @see https://tailwindcss.com/docs/text-underline-offset
        */
-      "underline-offset": [{
-        "underline-offset": [isNumber, "auto", isArbitraryVariable, isArbitraryValue]
-      }],
+      "underline-offset": [
+        {
+          "underline-offset": [
+            isNumber,
+            "auto",
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Text Transform
        * @see https://tailwindcss.com/docs/text-transform
@@ -1376,51 +1923,83 @@ const getDefaultConfig = () => {
        * Text Wrap
        * @see https://tailwindcss.com/docs/text-wrap
        */
-      "text-wrap": [{
-        text: ["wrap", "nowrap", "balance", "pretty"]
-      }],
+      "text-wrap": [
+        {
+          text: ["wrap", "nowrap", "balance", "pretty"],
+        },
+      ],
       /**
        * Text Indent
        * @see https://tailwindcss.com/docs/text-indent
        */
-      indent: [{
-        indent: scaleUnambiguousSpacing()
-      }],
+      indent: [
+        {
+          indent: scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Vertical Alignment
        * @see https://tailwindcss.com/docs/vertical-align
        */
-      "vertical-align": [{
-        align: ["baseline", "top", "middle", "bottom", "text-top", "text-bottom", "sub", "super", isArbitraryVariable, isArbitraryValue]
-      }],
+      "vertical-align": [
+        {
+          align: [
+            "baseline",
+            "top",
+            "middle",
+            "bottom",
+            "text-top",
+            "text-bottom",
+            "sub",
+            "super",
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Whitespace
        * @see https://tailwindcss.com/docs/whitespace
        */
-      whitespace: [{
-        whitespace: ["normal", "nowrap", "pre", "pre-line", "pre-wrap", "break-spaces"]
-      }],
+      whitespace: [
+        {
+          whitespace: [
+            "normal",
+            "nowrap",
+            "pre",
+            "pre-line",
+            "pre-wrap",
+            "break-spaces",
+          ],
+        },
+      ],
       /**
        * Word Break
        * @see https://tailwindcss.com/docs/word-break
        */
-      break: [{
-        break: ["normal", "words", "all", "keep"]
-      }],
+      break: [
+        {
+          break: ["normal", "words", "all", "keep"],
+        },
+      ],
       /**
        * Hyphens
        * @see https://tailwindcss.com/docs/hyphens
        */
-      hyphens: [{
-        hyphens: ["none", "manual", "auto"]
-      }],
+      hyphens: [
+        {
+          hyphens: ["none", "manual", "auto"],
+        },
+      ],
       /**
        * Content
        * @see https://tailwindcss.com/docs/content
        */
-      content: [{
-        content: ["none", isArbitraryVariable, isArbitraryValue]
-      }],
+      content: [
+        {
+          content: ["none", isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       // -------------------
       // --- Backgrounds ---
       // -------------------
@@ -1428,108 +2007,159 @@ const getDefaultConfig = () => {
        * Background Attachment
        * @see https://tailwindcss.com/docs/background-attachment
        */
-      "bg-attachment": [{
-        bg: ["fixed", "local", "scroll"]
-      }],
+      "bg-attachment": [
+        {
+          bg: ["fixed", "local", "scroll"],
+        },
+      ],
       /**
        * Background Clip
        * @see https://tailwindcss.com/docs/background-clip
        */
-      "bg-clip": [{
-        "bg-clip": ["border", "padding", "content", "text"]
-      }],
+      "bg-clip": [
+        {
+          "bg-clip": ["border", "padding", "content", "text"],
+        },
+      ],
       /**
        * Background Origin
        * @see https://tailwindcss.com/docs/background-origin
        */
-      "bg-origin": [{
-        "bg-origin": ["border", "padding", "content"]
-      }],
+      "bg-origin": [
+        {
+          "bg-origin": ["border", "padding", "content"],
+        },
+      ],
       /**
        * Background Position
        * @see https://tailwindcss.com/docs/background-position
        */
-      "bg-position": [{
-        bg: [...scalePosition(), isArbitraryVariablePosition, isArbitraryPosition]
-      }],
+      "bg-position": [
+        {
+          bg: [
+            ...scalePosition(),
+            isArbitraryVariablePosition,
+            isArbitraryPosition,
+          ],
+        },
+      ],
       /**
        * Background Repeat
        * @see https://tailwindcss.com/docs/background-repeat
        */
-      "bg-repeat": [{
-        bg: ["no-repeat", {
-          repeat: ["", "x", "y", "space", "round"]
-        }]
-      }],
+      "bg-repeat": [
+        {
+          bg: [
+            "no-repeat",
+            {
+              repeat: ["", "x", "y", "space", "round"],
+            },
+          ],
+        },
+      ],
       /**
        * Background Size
        * @see https://tailwindcss.com/docs/background-size
        */
-      "bg-size": [{
-        bg: ["auto", "cover", "contain", isArbitraryVariableSize, isArbitrarySize]
-      }],
+      "bg-size": [
+        {
+          bg: [
+            "auto",
+            "cover",
+            "contain",
+            isArbitraryVariableSize,
+            isArbitrarySize,
+          ],
+        },
+      ],
       /**
        * Background Image
        * @see https://tailwindcss.com/docs/background-image
        */
-      "bg-image": [{
-        bg: ["none", {
-          linear: [{
-            to: ["t", "tr", "r", "br", "b", "bl", "l", "tl"]
-          }, isInteger, isArbitraryVariable, isArbitraryValue],
-          radial: ["", isArbitraryVariable, isArbitraryValue],
-          conic: [isInteger, isArbitraryVariable, isArbitraryValue]
-        }, isArbitraryVariableImage, isArbitraryImage]
-      }],
+      "bg-image": [
+        {
+          bg: [
+            "none",
+            {
+              linear: [
+                {
+                  to: ["t", "tr", "r", "br", "b", "bl", "l", "tl"],
+                },
+                isInteger,
+                isArbitraryVariable,
+                isArbitraryValue,
+              ],
+              radial: ["", isArbitraryVariable, isArbitraryValue],
+              conic: [isInteger, isArbitraryVariable, isArbitraryValue],
+            },
+            isArbitraryVariableImage,
+            isArbitraryImage,
+          ],
+        },
+      ],
       /**
        * Background Color
        * @see https://tailwindcss.com/docs/background-color
        */
-      "bg-color": [{
-        bg: scaleColor()
-      }],
+      "bg-color": [
+        {
+          bg: scaleColor(),
+        },
+      ],
       /**
        * Gradient Color Stops From Position
        * @see https://tailwindcss.com/docs/gradient-color-stops
        */
-      "gradient-from-pos": [{
-        from: scaleGradientStopPosition()
-      }],
+      "gradient-from-pos": [
+        {
+          from: scaleGradientStopPosition(),
+        },
+      ],
       /**
        * Gradient Color Stops Via Position
        * @see https://tailwindcss.com/docs/gradient-color-stops
        */
-      "gradient-via-pos": [{
-        via: scaleGradientStopPosition()
-      }],
+      "gradient-via-pos": [
+        {
+          via: scaleGradientStopPosition(),
+        },
+      ],
       /**
        * Gradient Color Stops To Position
        * @see https://tailwindcss.com/docs/gradient-color-stops
        */
-      "gradient-to-pos": [{
-        to: scaleGradientStopPosition()
-      }],
+      "gradient-to-pos": [
+        {
+          to: scaleGradientStopPosition(),
+        },
+      ],
       /**
        * Gradient Color Stops From
        * @see https://tailwindcss.com/docs/gradient-color-stops
        */
-      "gradient-from": [{
-        from: scaleColor()
-      }],
+      "gradient-from": [
+        {
+          from: scaleColor(),
+        },
+      ],
       /**
        * Gradient Color Stops Via
        * @see https://tailwindcss.com/docs/gradient-color-stops
        */
-      "gradient-via": [{
-        via: scaleColor()
-      }],
+      "gradient-via": [
+        {
+          via: scaleColor(),
+        },
+      ],
       /**
        * Gradient Color Stops To
        * @see https://tailwindcss.com/docs/gradient-color-stops
        */
-      "gradient-to": [{
-        to: scaleColor()
-      }],
+      "gradient-to": [
+        {
+          to: scaleColor(),
+        },
+      ],
       // ---------------
       // --- Borders ---
       // ---------------
@@ -1537,177 +2167,227 @@ const getDefaultConfig = () => {
        * Border Radius
        * @see https://tailwindcss.com/docs/border-radius
        */
-      rounded: [{
-        rounded: scaleRadius()
-      }],
+      rounded: [
+        {
+          rounded: scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Start
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-s": [{
-        "rounded-s": scaleRadius()
-      }],
+      "rounded-s": [
+        {
+          "rounded-s": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius End
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-e": [{
-        "rounded-e": scaleRadius()
-      }],
+      "rounded-e": [
+        {
+          "rounded-e": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Top
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-t": [{
-        "rounded-t": scaleRadius()
-      }],
+      "rounded-t": [
+        {
+          "rounded-t": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Right
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-r": [{
-        "rounded-r": scaleRadius()
-      }],
+      "rounded-r": [
+        {
+          "rounded-r": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Bottom
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-b": [{
-        "rounded-b": scaleRadius()
-      }],
+      "rounded-b": [
+        {
+          "rounded-b": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Left
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-l": [{
-        "rounded-l": scaleRadius()
-      }],
+      "rounded-l": [
+        {
+          "rounded-l": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Start Start
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-ss": [{
-        "rounded-ss": scaleRadius()
-      }],
+      "rounded-ss": [
+        {
+          "rounded-ss": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Start End
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-se": [{
-        "rounded-se": scaleRadius()
-      }],
+      "rounded-se": [
+        {
+          "rounded-se": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius End End
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-ee": [{
-        "rounded-ee": scaleRadius()
-      }],
+      "rounded-ee": [
+        {
+          "rounded-ee": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius End Start
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-es": [{
-        "rounded-es": scaleRadius()
-      }],
+      "rounded-es": [
+        {
+          "rounded-es": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Top Left
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-tl": [{
-        "rounded-tl": scaleRadius()
-      }],
+      "rounded-tl": [
+        {
+          "rounded-tl": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Top Right
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-tr": [{
-        "rounded-tr": scaleRadius()
-      }],
+      "rounded-tr": [
+        {
+          "rounded-tr": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Bottom Right
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-br": [{
-        "rounded-br": scaleRadius()
-      }],
+      "rounded-br": [
+        {
+          "rounded-br": scaleRadius(),
+        },
+      ],
       /**
        * Border Radius Bottom Left
        * @see https://tailwindcss.com/docs/border-radius
        */
-      "rounded-bl": [{
-        "rounded-bl": scaleRadius()
-      }],
+      "rounded-bl": [
+        {
+          "rounded-bl": scaleRadius(),
+        },
+      ],
       /**
        * Border Width
        * @see https://tailwindcss.com/docs/border-width
        */
-      "border-w": [{
-        border: scaleBorderWidth()
-      }],
+      "border-w": [
+        {
+          border: scaleBorderWidth(),
+        },
+      ],
       /**
        * Border Width X
        * @see https://tailwindcss.com/docs/border-width
        */
-      "border-w-x": [{
-        "border-x": scaleBorderWidth()
-      }],
+      "border-w-x": [
+        {
+          "border-x": scaleBorderWidth(),
+        },
+      ],
       /**
        * Border Width Y
        * @see https://tailwindcss.com/docs/border-width
        */
-      "border-w-y": [{
-        "border-y": scaleBorderWidth()
-      }],
+      "border-w-y": [
+        {
+          "border-y": scaleBorderWidth(),
+        },
+      ],
       /**
        * Border Width Start
        * @see https://tailwindcss.com/docs/border-width
        */
-      "border-w-s": [{
-        "border-s": scaleBorderWidth()
-      }],
+      "border-w-s": [
+        {
+          "border-s": scaleBorderWidth(),
+        },
+      ],
       /**
        * Border Width End
        * @see https://tailwindcss.com/docs/border-width
        */
-      "border-w-e": [{
-        "border-e": scaleBorderWidth()
-      }],
+      "border-w-e": [
+        {
+          "border-e": scaleBorderWidth(),
+        },
+      ],
       /**
        * Border Width Top
        * @see https://tailwindcss.com/docs/border-width
        */
-      "border-w-t": [{
-        "border-t": scaleBorderWidth()
-      }],
+      "border-w-t": [
+        {
+          "border-t": scaleBorderWidth(),
+        },
+      ],
       /**
        * Border Width Right
        * @see https://tailwindcss.com/docs/border-width
        */
-      "border-w-r": [{
-        "border-r": scaleBorderWidth()
-      }],
+      "border-w-r": [
+        {
+          "border-r": scaleBorderWidth(),
+        },
+      ],
       /**
        * Border Width Bottom
        * @see https://tailwindcss.com/docs/border-width
        */
-      "border-w-b": [{
-        "border-b": scaleBorderWidth()
-      }],
+      "border-w-b": [
+        {
+          "border-b": scaleBorderWidth(),
+        },
+      ],
       /**
        * Border Width Left
        * @see https://tailwindcss.com/docs/border-width
        */
-      "border-w-l": [{
-        "border-l": scaleBorderWidth()
-      }],
+      "border-w-l": [
+        {
+          "border-l": scaleBorderWidth(),
+        },
+      ],
       /**
        * Divide Width X
        * @see https://tailwindcss.com/docs/border-width#between-children
        */
-      "divide-x": [{
-        "divide-x": scaleBorderWidth()
-      }],
+      "divide-x": [
+        {
+          "divide-x": scaleBorderWidth(),
+        },
+      ],
       /**
        * Divide Width X Reverse
        * @see https://tailwindcss.com/docs/border-width#between-children
@@ -1717,9 +2397,11 @@ const getDefaultConfig = () => {
        * Divide Width Y
        * @see https://tailwindcss.com/docs/border-width#between-children
        */
-      "divide-y": [{
-        "divide-y": scaleBorderWidth()
-      }],
+      "divide-y": [
+        {
+          "divide-y": scaleBorderWidth(),
+        },
+      ],
       /**
        * Divide Width Y Reverse
        * @see https://tailwindcss.com/docs/border-width#between-children
@@ -1729,114 +2411,146 @@ const getDefaultConfig = () => {
        * Border Style
        * @see https://tailwindcss.com/docs/border-style
        */
-      "border-style": [{
-        border: [...scaleLineStyle(), "hidden", "none"]
-      }],
+      "border-style": [
+        {
+          border: [...scaleLineStyle(), "hidden", "none"],
+        },
+      ],
       /**
        * Divide Style
        * @see https://tailwindcss.com/docs/border-style#setting-the-divider-style
        */
-      "divide-style": [{
-        divide: [...scaleLineStyle(), "hidden", "none"]
-      }],
+      "divide-style": [
+        {
+          divide: [...scaleLineStyle(), "hidden", "none"],
+        },
+      ],
       /**
        * Border Color
        * @see https://tailwindcss.com/docs/border-color
        */
-      "border-color": [{
-        border: scaleColor()
-      }],
+      "border-color": [
+        {
+          border: scaleColor(),
+        },
+      ],
       /**
        * Border Color X
        * @see https://tailwindcss.com/docs/border-color
        */
-      "border-color-x": [{
-        "border-x": scaleColor()
-      }],
+      "border-color-x": [
+        {
+          "border-x": scaleColor(),
+        },
+      ],
       /**
        * Border Color Y
        * @see https://tailwindcss.com/docs/border-color
        */
-      "border-color-y": [{
-        "border-y": scaleColor()
-      }],
+      "border-color-y": [
+        {
+          "border-y": scaleColor(),
+        },
+      ],
       /**
        * Border Color S
        * @see https://tailwindcss.com/docs/border-color
        */
-      "border-color-s": [{
-        "border-s": scaleColor()
-      }],
+      "border-color-s": [
+        {
+          "border-s": scaleColor(),
+        },
+      ],
       /**
        * Border Color E
        * @see https://tailwindcss.com/docs/border-color
        */
-      "border-color-e": [{
-        "border-e": scaleColor()
-      }],
+      "border-color-e": [
+        {
+          "border-e": scaleColor(),
+        },
+      ],
       /**
        * Border Color Top
        * @see https://tailwindcss.com/docs/border-color
        */
-      "border-color-t": [{
-        "border-t": scaleColor()
-      }],
+      "border-color-t": [
+        {
+          "border-t": scaleColor(),
+        },
+      ],
       /**
        * Border Color Right
        * @see https://tailwindcss.com/docs/border-color
        */
-      "border-color-r": [{
-        "border-r": scaleColor()
-      }],
+      "border-color-r": [
+        {
+          "border-r": scaleColor(),
+        },
+      ],
       /**
        * Border Color Bottom
        * @see https://tailwindcss.com/docs/border-color
        */
-      "border-color-b": [{
-        "border-b": scaleColor()
-      }],
+      "border-color-b": [
+        {
+          "border-b": scaleColor(),
+        },
+      ],
       /**
        * Border Color Left
        * @see https://tailwindcss.com/docs/border-color
        */
-      "border-color-l": [{
-        "border-l": scaleColor()
-      }],
+      "border-color-l": [
+        {
+          "border-l": scaleColor(),
+        },
+      ],
       /**
        * Divide Color
        * @see https://tailwindcss.com/docs/divide-color
        */
-      "divide-color": [{
-        divide: scaleColor()
-      }],
+      "divide-color": [
+        {
+          divide: scaleColor(),
+        },
+      ],
       /**
        * Outline Style
        * @see https://tailwindcss.com/docs/outline-style
        */
-      "outline-style": [{
-        outline: [...scaleLineStyle(), "none", "hidden"]
-      }],
+      "outline-style": [
+        {
+          outline: [...scaleLineStyle(), "none", "hidden"],
+        },
+      ],
       /**
        * Outline Offset
        * @see https://tailwindcss.com/docs/outline-offset
        */
-      "outline-offset": [{
-        "outline-offset": [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      "outline-offset": [
+        {
+          "outline-offset": [isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Outline Width
        * @see https://tailwindcss.com/docs/outline-width
        */
-      "outline-w": [{
-        outline: ["", isNumber, isArbitraryVariableLength, isArbitraryLength]
-      }],
+      "outline-w": [
+        {
+          outline: ["", isNumber, isArbitraryVariableLength, isArbitraryLength],
+        },
+      ],
       /**
        * Outline Color
        * @see https://tailwindcss.com/docs/outline-color
        */
-      "outline-color": [{
-        outline: [themeColor]
-      }],
+      "outline-color": [
+        {
+          outline: [themeColor],
+        },
+      ],
       // ---------------
       // --- Effects ---
       // ---------------
@@ -1844,44 +2558,59 @@ const getDefaultConfig = () => {
        * Box Shadow
        * @see https://tailwindcss.com/docs/box-shadow
        */
-      shadow: [{
-        shadow: [
-          // Deprecated since Tailwind CSS v4.0.0
-          "",
-          "none",
-          themeShadow,
-          isArbitraryVariableShadow,
-          isArbitraryShadow
-        ]
-      }],
+      shadow: [
+        {
+          shadow: [
+            // Deprecated since Tailwind CSS v4.0.0
+            "",
+            "none",
+            themeShadow,
+            isArbitraryVariableShadow,
+            isArbitraryShadow,
+          ],
+        },
+      ],
       /**
        * Box Shadow Color
        * @see https://tailwindcss.com/docs/box-shadow#setting-the-shadow-color
        */
-      "shadow-color": [{
-        shadow: scaleColor()
-      }],
+      "shadow-color": [
+        {
+          shadow: scaleColor(),
+        },
+      ],
       /**
        * Inset Box Shadow
        * @see https://tailwindcss.com/docs/box-shadow#adding-an-inset-shadow
        */
-      "inset-shadow": [{
-        "inset-shadow": ["none", isArbitraryVariable, isArbitraryValue, themeInsetShadow]
-      }],
+      "inset-shadow": [
+        {
+          "inset-shadow": [
+            "none",
+            isArbitraryVariable,
+            isArbitraryValue,
+            themeInsetShadow,
+          ],
+        },
+      ],
       /**
        * Inset Box Shadow Color
        * @see https://tailwindcss.com/docs/box-shadow#setting-the-inset-shadow-color
        */
-      "inset-shadow-color": [{
-        "inset-shadow": scaleColor()
-      }],
+      "inset-shadow-color": [
+        {
+          "inset-shadow": scaleColor(),
+        },
+      ],
       /**
        * Ring Width
        * @see https://tailwindcss.com/docs/box-shadow#adding-a-ring
        */
-      "ring-w": [{
-        ring: scaleBorderWidth()
-      }],
+      "ring-w": [
+        {
+          ring: scaleBorderWidth(),
+        },
+      ],
       /**
        * Ring Width Inset
        * @see https://v3.tailwindcss.com/docs/ring-width#inset-rings
@@ -1893,62 +2622,78 @@ const getDefaultConfig = () => {
        * Ring Color
        * @see https://tailwindcss.com/docs/box-shadow#setting-the-ring-color
        */
-      "ring-color": [{
-        ring: scaleColor()
-      }],
+      "ring-color": [
+        {
+          ring: scaleColor(),
+        },
+      ],
       /**
        * Ring Offset Width
        * @see https://v3.tailwindcss.com/docs/ring-offset-width
        * @deprecated since Tailwind CSS v4.0.0
        * @see https://github.com/tailwindlabs/tailwindcss/blob/v4.0.0/packages/tailwindcss/src/utilities.ts#L4158
        */
-      "ring-offset-w": [{
-        "ring-offset": [isNumber, isArbitraryLength]
-      }],
+      "ring-offset-w": [
+        {
+          "ring-offset": [isNumber, isArbitraryLength],
+        },
+      ],
       /**
        * Ring Offset Color
        * @see https://v3.tailwindcss.com/docs/ring-offset-color
        * @deprecated since Tailwind CSS v4.0.0
        * @see https://github.com/tailwindlabs/tailwindcss/blob/v4.0.0/packages/tailwindcss/src/utilities.ts#L4158
        */
-      "ring-offset-color": [{
-        "ring-offset": scaleColor()
-      }],
+      "ring-offset-color": [
+        {
+          "ring-offset": scaleColor(),
+        },
+      ],
       /**
        * Inset Ring Width
        * @see https://tailwindcss.com/docs/box-shadow#adding-an-inset-ring
        */
-      "inset-ring-w": [{
-        "inset-ring": scaleBorderWidth()
-      }],
+      "inset-ring-w": [
+        {
+          "inset-ring": scaleBorderWidth(),
+        },
+      ],
       /**
        * Inset Ring Color
        * @see https://tailwindcss.com/docs/box-shadow#setting-the-inset-ring-color
        */
-      "inset-ring-color": [{
-        "inset-ring": scaleColor()
-      }],
+      "inset-ring-color": [
+        {
+          "inset-ring": scaleColor(),
+        },
+      ],
       /**
        * Opacity
        * @see https://tailwindcss.com/docs/opacity
        */
-      opacity: [{
-        opacity: [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      opacity: [
+        {
+          opacity: [isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Mix Blend Mode
        * @see https://tailwindcss.com/docs/mix-blend-mode
        */
-      "mix-blend": [{
-        "mix-blend": [...scaleBlendMode(), "plus-darker", "plus-lighter"]
-      }],
+      "mix-blend": [
+        {
+          "mix-blend": [...scaleBlendMode(), "plus-darker", "plus-lighter"],
+        },
+      ],
       /**
        * Background Blend Mode
        * @see https://tailwindcss.com/docs/background-blend-mode
        */
-      "bg-blend": [{
-        "bg-blend": scaleBlendMode()
-      }],
+      "bg-blend": [
+        {
+          "bg-blend": scaleBlendMode(),
+        },
+      ],
       // ---------------
       // --- Filters ---
       // ---------------
@@ -1956,161 +2701,232 @@ const getDefaultConfig = () => {
        * Filter
        * @see https://tailwindcss.com/docs/filter
        */
-      filter: [{
-        filter: [
-          // Deprecated since Tailwind CSS v3.0.0
-          "",
-          "none",
-          isArbitraryVariable,
-          isArbitraryValue
-        ]
-      }],
+      filter: [
+        {
+          filter: [
+            // Deprecated since Tailwind CSS v3.0.0
+            "",
+            "none",
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Blur
        * @see https://tailwindcss.com/docs/blur
        */
-      blur: [{
-        blur: scaleBlur()
-      }],
+      blur: [
+        {
+          blur: scaleBlur(),
+        },
+      ],
       /**
        * Brightness
        * @see https://tailwindcss.com/docs/brightness
        */
-      brightness: [{
-        brightness: [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      brightness: [
+        {
+          brightness: [isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Contrast
        * @see https://tailwindcss.com/docs/contrast
        */
-      contrast: [{
-        contrast: [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      contrast: [
+        {
+          contrast: [isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Drop Shadow
        * @see https://tailwindcss.com/docs/drop-shadow
        */
-      "drop-shadow": [{
-        "drop-shadow": [
-          // Deprecated since Tailwind CSS v4.0.0
-          "",
-          "none",
-          themeDropShadow,
-          isArbitraryVariable,
-          isArbitraryValue
-        ]
-      }],
+      "drop-shadow": [
+        {
+          "drop-shadow": [
+            // Deprecated since Tailwind CSS v4.0.0
+            "",
+            "none",
+            themeDropShadow,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Grayscale
        * @see https://tailwindcss.com/docs/grayscale
        */
-      grayscale: [{
-        grayscale: ["", isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      grayscale: [
+        {
+          grayscale: ["", isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Hue Rotate
        * @see https://tailwindcss.com/docs/hue-rotate
        */
-      "hue-rotate": [{
-        "hue-rotate": [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      "hue-rotate": [
+        {
+          "hue-rotate": [isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Invert
        * @see https://tailwindcss.com/docs/invert
        */
-      invert: [{
-        invert: ["", isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      invert: [
+        {
+          invert: ["", isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Saturate
        * @see https://tailwindcss.com/docs/saturate
        */
-      saturate: [{
-        saturate: [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      saturate: [
+        {
+          saturate: [isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Sepia
        * @see https://tailwindcss.com/docs/sepia
        */
-      sepia: [{
-        sepia: ["", isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      sepia: [
+        {
+          sepia: ["", isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Backdrop Filter
        * @see https://tailwindcss.com/docs/backdrop-filter
        */
-      "backdrop-filter": [{
-        "backdrop-filter": [
-          // Deprecated since Tailwind CSS v3.0.0
-          "",
-          "none",
-          isArbitraryVariable,
-          isArbitraryValue
-        ]
-      }],
+      "backdrop-filter": [
+        {
+          "backdrop-filter": [
+            // Deprecated since Tailwind CSS v3.0.0
+            "",
+            "none",
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Backdrop Blur
        * @see https://tailwindcss.com/docs/backdrop-blur
        */
-      "backdrop-blur": [{
-        "backdrop-blur": scaleBlur()
-      }],
+      "backdrop-blur": [
+        {
+          "backdrop-blur": scaleBlur(),
+        },
+      ],
       /**
        * Backdrop Brightness
        * @see https://tailwindcss.com/docs/backdrop-brightness
        */
-      "backdrop-brightness": [{
-        "backdrop-brightness": [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      "backdrop-brightness": [
+        {
+          "backdrop-brightness": [
+            isNumber,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Backdrop Contrast
        * @see https://tailwindcss.com/docs/backdrop-contrast
        */
-      "backdrop-contrast": [{
-        "backdrop-contrast": [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      "backdrop-contrast": [
+        {
+          "backdrop-contrast": [
+            isNumber,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Backdrop Grayscale
        * @see https://tailwindcss.com/docs/backdrop-grayscale
        */
-      "backdrop-grayscale": [{
-        "backdrop-grayscale": ["", isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      "backdrop-grayscale": [
+        {
+          "backdrop-grayscale": [
+            "",
+            isNumber,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Backdrop Hue Rotate
        * @see https://tailwindcss.com/docs/backdrop-hue-rotate
        */
-      "backdrop-hue-rotate": [{
-        "backdrop-hue-rotate": [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      "backdrop-hue-rotate": [
+        {
+          "backdrop-hue-rotate": [
+            isNumber,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Backdrop Invert
        * @see https://tailwindcss.com/docs/backdrop-invert
        */
-      "backdrop-invert": [{
-        "backdrop-invert": ["", isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      "backdrop-invert": [
+        {
+          "backdrop-invert": [
+            "",
+            isNumber,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Backdrop Opacity
        * @see https://tailwindcss.com/docs/backdrop-opacity
        */
-      "backdrop-opacity": [{
-        "backdrop-opacity": [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      "backdrop-opacity": [
+        {
+          "backdrop-opacity": [isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Backdrop Saturate
        * @see https://tailwindcss.com/docs/backdrop-saturate
        */
-      "backdrop-saturate": [{
-        "backdrop-saturate": [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      "backdrop-saturate": [
+        {
+          "backdrop-saturate": [
+            isNumber,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Backdrop Sepia
        * @see https://tailwindcss.com/docs/backdrop-sepia
        */
-      "backdrop-sepia": [{
-        "backdrop-sepia": ["", isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      "backdrop-sepia": [
+        {
+          "backdrop-sepia": [
+            "",
+            isNumber,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       // --------------
       // --- Tables ---
       // --------------
@@ -2118,44 +2934,56 @@ const getDefaultConfig = () => {
        * Border Collapse
        * @see https://tailwindcss.com/docs/border-collapse
        */
-      "border-collapse": [{
-        border: ["collapse", "separate"]
-      }],
+      "border-collapse": [
+        {
+          border: ["collapse", "separate"],
+        },
+      ],
       /**
        * Border Spacing
        * @see https://tailwindcss.com/docs/border-spacing
        */
-      "border-spacing": [{
-        "border-spacing": scaleUnambiguousSpacing()
-      }],
+      "border-spacing": [
+        {
+          "border-spacing": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Border Spacing X
        * @see https://tailwindcss.com/docs/border-spacing
        */
-      "border-spacing-x": [{
-        "border-spacing-x": scaleUnambiguousSpacing()
-      }],
+      "border-spacing-x": [
+        {
+          "border-spacing-x": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Border Spacing Y
        * @see https://tailwindcss.com/docs/border-spacing
        */
-      "border-spacing-y": [{
-        "border-spacing-y": scaleUnambiguousSpacing()
-      }],
+      "border-spacing-y": [
+        {
+          "border-spacing-y": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Table Layout
        * @see https://tailwindcss.com/docs/table-layout
        */
-      "table-layout": [{
-        table: ["auto", "fixed"]
-      }],
+      "table-layout": [
+        {
+          table: ["auto", "fixed"],
+        },
+      ],
       /**
        * Caption Side
        * @see https://tailwindcss.com/docs/caption-side
        */
-      caption: [{
-        caption: ["top", "bottom"]
-      }],
+      caption: [
+        {
+          caption: ["top", "bottom"],
+        },
+      ],
       // ---------------------------------
       // --- Transitions and Animation ---
       // ---------------------------------
@@ -2163,44 +2991,82 @@ const getDefaultConfig = () => {
        * Transition Property
        * @see https://tailwindcss.com/docs/transition-property
        */
-      transition: [{
-        transition: ["", "all", "colors", "opacity", "shadow", "transform", "none", isArbitraryVariable, isArbitraryValue]
-      }],
+      transition: [
+        {
+          transition: [
+            "",
+            "all",
+            "colors",
+            "opacity",
+            "shadow",
+            "transform",
+            "none",
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Transition Behavior
        * @see https://tailwindcss.com/docs/transition-behavior
        */
-      "transition-behavior": [{
-        transition: ["normal", "discrete"]
-      }],
+      "transition-behavior": [
+        {
+          transition: ["normal", "discrete"],
+        },
+      ],
       /**
        * Transition Duration
        * @see https://tailwindcss.com/docs/transition-duration
        */
-      duration: [{
-        duration: [isNumber, "initial", isArbitraryVariable, isArbitraryValue]
-      }],
+      duration: [
+        {
+          duration: [
+            isNumber,
+            "initial",
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Transition Timing Function
        * @see https://tailwindcss.com/docs/transition-timing-function
        */
-      ease: [{
-        ease: ["linear", "initial", themeEase, isArbitraryVariable, isArbitraryValue]
-      }],
+      ease: [
+        {
+          ease: [
+            "linear",
+            "initial",
+            themeEase,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Transition Delay
        * @see https://tailwindcss.com/docs/transition-delay
        */
-      delay: [{
-        delay: [isNumber, isArbitraryVariable, isArbitraryValue]
-      }],
+      delay: [
+        {
+          delay: [isNumber, isArbitraryVariable, isArbitraryValue],
+        },
+      ],
       /**
        * Animation
        * @see https://tailwindcss.com/docs/animation
        */
-      animate: [{
-        animate: ["none", themeAnimate, isArbitraryVariable, isArbitraryValue]
-      }],
+      animate: [
+        {
+          animate: [
+            "none",
+            themeAnimate,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       // ------------------
       // --- Transforms ---
       // ------------------
@@ -2208,79 +3074,105 @@ const getDefaultConfig = () => {
        * Backface Visibility
        * @see https://tailwindcss.com/docs/backface-visibility
        */
-      backface: [{
-        backface: ["hidden", "visible"]
-      }],
+      backface: [
+        {
+          backface: ["hidden", "visible"],
+        },
+      ],
       /**
        * Perspective
        * @see https://tailwindcss.com/docs/perspective
        */
-      perspective: [{
-        perspective: [themePerspective, isArbitraryVariable, isArbitraryValue]
-      }],
+      perspective: [
+        {
+          perspective: [
+            themePerspective,
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Perspective Origin
        * @see https://tailwindcss.com/docs/perspective-origin
        */
-      "perspective-origin": [{
-        "perspective-origin": scaleOrigin()
-      }],
+      "perspective-origin": [
+        {
+          "perspective-origin": scaleOrigin(),
+        },
+      ],
       /**
        * Rotate
        * @see https://tailwindcss.com/docs/rotate
        */
-      rotate: [{
-        rotate: scaleRotate()
-      }],
+      rotate: [
+        {
+          rotate: scaleRotate(),
+        },
+      ],
       /**
        * Rotate X
        * @see https://tailwindcss.com/docs/rotate
        */
-      "rotate-x": [{
-        "rotate-x": scaleRotate()
-      }],
+      "rotate-x": [
+        {
+          "rotate-x": scaleRotate(),
+        },
+      ],
       /**
        * Rotate Y
        * @see https://tailwindcss.com/docs/rotate
        */
-      "rotate-y": [{
-        "rotate-y": scaleRotate()
-      }],
+      "rotate-y": [
+        {
+          "rotate-y": scaleRotate(),
+        },
+      ],
       /**
        * Rotate Z
        * @see https://tailwindcss.com/docs/rotate
        */
-      "rotate-z": [{
-        "rotate-z": scaleRotate()
-      }],
+      "rotate-z": [
+        {
+          "rotate-z": scaleRotate(),
+        },
+      ],
       /**
        * Scale
        * @see https://tailwindcss.com/docs/scale
        */
-      scale: [{
-        scale: scaleScale()
-      }],
+      scale: [
+        {
+          scale: scaleScale(),
+        },
+      ],
       /**
        * Scale X
        * @see https://tailwindcss.com/docs/scale
        */
-      "scale-x": [{
-        "scale-x": scaleScale()
-      }],
+      "scale-x": [
+        {
+          "scale-x": scaleScale(),
+        },
+      ],
       /**
        * Scale Y
        * @see https://tailwindcss.com/docs/scale
        */
-      "scale-y": [{
-        "scale-y": scaleScale()
-      }],
+      "scale-y": [
+        {
+          "scale-y": scaleScale(),
+        },
+      ],
       /**
        * Scale Z
        * @see https://tailwindcss.com/docs/scale
        */
-      "scale-z": [{
-        "scale-z": scaleScale()
-      }],
+      "scale-z": [
+        {
+          "scale-z": scaleScale(),
+        },
+      ],
       /**
        * Scale 3D
        * @see https://tailwindcss.com/docs/scale
@@ -2290,72 +3182,99 @@ const getDefaultConfig = () => {
        * Skew
        * @see https://tailwindcss.com/docs/skew
        */
-      skew: [{
-        skew: scaleSkew()
-      }],
+      skew: [
+        {
+          skew: scaleSkew(),
+        },
+      ],
       /**
        * Skew X
        * @see https://tailwindcss.com/docs/skew
        */
-      "skew-x": [{
-        "skew-x": scaleSkew()
-      }],
+      "skew-x": [
+        {
+          "skew-x": scaleSkew(),
+        },
+      ],
       /**
        * Skew Y
        * @see https://tailwindcss.com/docs/skew
        */
-      "skew-y": [{
-        "skew-y": scaleSkew()
-      }],
+      "skew-y": [
+        {
+          "skew-y": scaleSkew(),
+        },
+      ],
       /**
        * Transform
        * @see https://tailwindcss.com/docs/transform
        */
-      transform: [{
-        transform: [isArbitraryVariable, isArbitraryValue, "", "none", "gpu", "cpu"]
-      }],
+      transform: [
+        {
+          transform: [
+            isArbitraryVariable,
+            isArbitraryValue,
+            "",
+            "none",
+            "gpu",
+            "cpu",
+          ],
+        },
+      ],
       /**
        * Transform Origin
        * @see https://tailwindcss.com/docs/transform-origin
        */
-      "transform-origin": [{
-        origin: scaleOrigin()
-      }],
+      "transform-origin": [
+        {
+          origin: scaleOrigin(),
+        },
+      ],
       /**
        * Transform Style
        * @see https://tailwindcss.com/docs/transform-style
        */
-      "transform-style": [{
-        transform: ["3d", "flat"]
-      }],
+      "transform-style": [
+        {
+          transform: ["3d", "flat"],
+        },
+      ],
       /**
        * Translate
        * @see https://tailwindcss.com/docs/translate
        */
-      translate: [{
-        translate: scaleTranslate()
-      }],
+      translate: [
+        {
+          translate: scaleTranslate(),
+        },
+      ],
       /**
        * Translate X
        * @see https://tailwindcss.com/docs/translate
        */
-      "translate-x": [{
-        "translate-x": scaleTranslate()
-      }],
+      "translate-x": [
+        {
+          "translate-x": scaleTranslate(),
+        },
+      ],
       /**
        * Translate Y
        * @see https://tailwindcss.com/docs/translate
        */
-      "translate-y": [{
-        "translate-y": scaleTranslate()
-      }],
+      "translate-y": [
+        {
+          "translate-y": scaleTranslate(),
+        },
+      ],
       /**
        * Translate Z
        * @see https://tailwindcss.com/docs/translate
        */
-      "translate-z": [{
-        "translate-z": scaleTranslate()
-      }],
+      "translate-z": [
+        {
+          "translate-z": scaleTranslate(),
+        },
+      ],
       /**
        * Translate None
        * @see https://tailwindcss.com/docs/translate
@@ -2368,240 +3287,354 @@ const getDefaultConfig = () => {
        * Accent Color
        * @see https://tailwindcss.com/docs/accent-color
        */
-      accent: [{
-        accent: scaleColor()
-      }],
+      accent: [
+        {
+          accent: scaleColor(),
+        },
+      ],
       /**
        * Appearance
        * @see https://tailwindcss.com/docs/appearance
        */
-      appearance: [{
-        appearance: ["none", "auto"]
-      }],
+      appearance: [
+        {
+          appearance: ["none", "auto"],
+        },
+      ],
       /**
        * Caret Color
        * @see https://tailwindcss.com/docs/just-in-time-mode#caret-color-utilities
        */
-      "caret-color": [{
-        caret: scaleColor()
-      }],
+      "caret-color": [
+        {
+          caret: scaleColor(),
+        },
+      ],
       /**
        * Color Scheme
        * @see https://tailwindcss.com/docs/color-scheme
        */
-      "color-scheme": [{
-        scheme: ["normal", "dark", "light", "light-dark", "only-dark", "only-light"]
-      }],
+      "color-scheme": [
+        {
+          scheme: [
+            "normal",
+            "dark",
+            "light",
+            "light-dark",
+            "only-dark",
+            "only-light",
+          ],
+        },
+      ],
       /**
        * Cursor
        * @see https://tailwindcss.com/docs/cursor
        */
-      cursor: [{
-        cursor: ["auto", "default", "pointer", "wait", "text", "move", "help", "not-allowed", "none", "context-menu", "progress", "cell", "crosshair", "vertical-text", "alias", "copy", "no-drop", "grab", "grabbing", "all-scroll", "col-resize", "row-resize", "n-resize", "e-resize", "s-resize", "w-resize", "ne-resize", "nw-resize", "se-resize", "sw-resize", "ew-resize", "ns-resize", "nesw-resize", "nwse-resize", "zoom-in", "zoom-out", isArbitraryVariable, isArbitraryValue]
-      }],
+      cursor: [
+        {
+          cursor: [
+            "auto",
+            "default",
+            "pointer",
+            "wait",
+            "text",
+            "move",
+            "help",
+            "not-allowed",
+            "none",
+            "context-menu",
+            "progress",
+            "cell",
+            "crosshair",
+            "vertical-text",
+            "alias",
+            "copy",
+            "no-drop",
+            "grab",
+            "grabbing",
+            "all-scroll",
+            "col-resize",
+            "row-resize",
+            "n-resize",
+            "e-resize",
+            "s-resize",
+            "w-resize",
+            "ne-resize",
+            "nw-resize",
+            "se-resize",
+            "sw-resize",
+            "ew-resize",
+            "ns-resize",
+            "nesw-resize",
+            "nwse-resize",
+            "zoom-in",
+            "zoom-out",
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       /**
        * Field Sizing
        * @see https://tailwindcss.com/docs/field-sizing
        */
-      "field-sizing": [{
-        "field-sizing": ["fixed", "content"]
-      }],
+      "field-sizing": [
+        {
+          "field-sizing": ["fixed", "content"],
+        },
+      ],
       /**
        * Pointer Events
        * @see https://tailwindcss.com/docs/pointer-events
        */
-      "pointer-events": [{
-        "pointer-events": ["auto", "none"]
-      }],
+      "pointer-events": [
+        {
+          "pointer-events": ["auto", "none"],
+        },
+      ],
       /**
        * Resize
        * @see https://tailwindcss.com/docs/resize
        */
-      resize: [{
-        resize: ["none", "", "y", "x"]
-      }],
+      resize: [
+        {
+          resize: ["none", "", "y", "x"],
+        },
+      ],
       /**
        * Scroll Behavior
        * @see https://tailwindcss.com/docs/scroll-behavior
        */
-      "scroll-behavior": [{
-        scroll: ["auto", "smooth"]
-      }],
+      "scroll-behavior": [
+        {
+          scroll: ["auto", "smooth"],
+        },
+      ],
       /**
        * Scroll Margin
        * @see https://tailwindcss.com/docs/scroll-margin
        */
-      "scroll-m": [{
-        "scroll-m": scaleUnambiguousSpacing()
-      }],
+      "scroll-m": [
+        {
+          "scroll-m": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Margin X
        * @see https://tailwindcss.com/docs/scroll-margin
        */
-      "scroll-mx": [{
-        "scroll-mx": scaleUnambiguousSpacing()
-      }],
+      "scroll-mx": [
+        {
+          "scroll-mx": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Margin Y
        * @see https://tailwindcss.com/docs/scroll-margin
        */
-      "scroll-my": [{
-        "scroll-my": scaleUnambiguousSpacing()
-      }],
+      "scroll-my": [
+        {
+          "scroll-my": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Margin Start
        * @see https://tailwindcss.com/docs/scroll-margin
        */
-      "scroll-ms": [{
-        "scroll-ms": scaleUnambiguousSpacing()
-      }],
+      "scroll-ms": [
+        {
+          "scroll-ms": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Margin End
        * @see https://tailwindcss.com/docs/scroll-margin
        */
-      "scroll-me": [{
-        "scroll-me": scaleUnambiguousSpacing()
-      }],
+      "scroll-me": [
+        {
+          "scroll-me": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Margin Top
        * @see https://tailwindcss.com/docs/scroll-margin
        */
-      "scroll-mt": [{
-        "scroll-mt": scaleUnambiguousSpacing()
-      }],
+      "scroll-mt": [
+        {
+          "scroll-mt": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Margin Right
        * @see https://tailwindcss.com/docs/scroll-margin
        */
-      "scroll-mr": [{
-        "scroll-mr": scaleUnambiguousSpacing()
-      }],
+      "scroll-mr": [
+        {
+          "scroll-mr": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Margin Bottom
        * @see https://tailwindcss.com/docs/scroll-margin
        */
-      "scroll-mb": [{
-        "scroll-mb": scaleUnambiguousSpacing()
-      }],
+      "scroll-mb": [
+        {
+          "scroll-mb": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Margin Left
        * @see https://tailwindcss.com/docs/scroll-margin
        */
-      "scroll-ml": [{
-        "scroll-ml": scaleUnambiguousSpacing()
-      }],
+      "scroll-ml": [
+        {
+          "scroll-ml": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Padding
        * @see https://tailwindcss.com/docs/scroll-padding
        */
-      "scroll-p": [{
-        "scroll-p": scaleUnambiguousSpacing()
-      }],
+      "scroll-p": [
+        {
+          "scroll-p": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Padding X
        * @see https://tailwindcss.com/docs/scroll-padding
        */
-      "scroll-px": [{
-        "scroll-px": scaleUnambiguousSpacing()
-      }],
+      "scroll-px": [
+        {
+          "scroll-px": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Padding Y
        * @see https://tailwindcss.com/docs/scroll-padding
        */
-      "scroll-py": [{
-        "scroll-py": scaleUnambiguousSpacing()
-      }],
+      "scroll-py": [
+        {
+          "scroll-py": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Padding Start
        * @see https://tailwindcss.com/docs/scroll-padding
        */
-      "scroll-ps": [{
-        "scroll-ps": scaleUnambiguousSpacing()
-      }],
+      "scroll-ps": [
+        {
+          "scroll-ps": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Padding End
        * @see https://tailwindcss.com/docs/scroll-padding
        */
-      "scroll-pe": [{
-        "scroll-pe": scaleUnambiguousSpacing()
-      }],
+      "scroll-pe": [
+        {
+          "scroll-pe": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Padding Top
        * @see https://tailwindcss.com/docs/scroll-padding
        */
-      "scroll-pt": [{
-        "scroll-pt": scaleUnambiguousSpacing()
-      }],
+      "scroll-pt": [
+        {
+          "scroll-pt": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Padding Right
        * @see https://tailwindcss.com/docs/scroll-padding
        */
-      "scroll-pr": [{
-        "scroll-pr": scaleUnambiguousSpacing()
-      }],
+      "scroll-pr": [
+        {
+          "scroll-pr": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Padding Bottom
        * @see https://tailwindcss.com/docs/scroll-padding
        */
-      "scroll-pb": [{
-        "scroll-pb": scaleUnambiguousSpacing()
-      }],
+      "scroll-pb": [
+        {
+          "scroll-pb": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Padding Left
        * @see https://tailwindcss.com/docs/scroll-padding
        */
-      "scroll-pl": [{
-        "scroll-pl": scaleUnambiguousSpacing()
-      }],
+      "scroll-pl": [
+        {
+          "scroll-pl": scaleUnambiguousSpacing(),
+        },
+      ],
       /**
        * Scroll Snap Align
        * @see https://tailwindcss.com/docs/scroll-snap-align
        */
-      "snap-align": [{
-        snap: ["start", "end", "center", "align-none"]
-      }],
+      "snap-align": [
+        {
+          snap: ["start", "end", "center", "align-none"],
+        },
+      ],
       /**
        * Scroll Snap Stop
        * @see https://tailwindcss.com/docs/scroll-snap-stop
        */
-      "snap-stop": [{
-        snap: ["normal", "always"]
-      }],
+      "snap-stop": [
+        {
+          snap: ["normal", "always"],
+        },
+      ],
       /**
        * Scroll Snap Type
        * @see https://tailwindcss.com/docs/scroll-snap-type
        */
-      "snap-type": [{
-        snap: ["none", "x", "y", "both"]
-      }],
+      "snap-type": [
+        {
+          snap: ["none", "x", "y", "both"],
+        },
+      ],
       /**
        * Scroll Snap Type Strictness
        * @see https://tailwindcss.com/docs/scroll-snap-type
        */
-      "snap-strictness": [{
-        snap: ["mandatory", "proximity"]
-      }],
+      "snap-strictness": [
+        {
+          snap: ["mandatory", "proximity"],
+        },
+      ],
       /**
        * Touch Action
        * @see https://tailwindcss.com/docs/touch-action
        */
-      touch: [{
-        touch: ["auto", "none", "manipulation"]
-      }],
+      touch: [
+        {
+          touch: ["auto", "none", "manipulation"],
+        },
+      ],
       /**
        * Touch Action X
        * @see https://tailwindcss.com/docs/touch-action
        */
-      "touch-x": [{
-        "touch-pan": ["x", "left", "right"]
-      }],
+      "touch-x": [
+        {
+          "touch-pan": ["x", "left", "right"],
+        },
+      ],
       /**
        * Touch Action Y
        * @see https://tailwindcss.com/docs/touch-action
        */
-      "touch-y": [{
-        "touch-pan": ["y", "up", "down"]
-      }],
+      "touch-y": [
+        {
+          "touch-pan": ["y", "up", "down"],
+        },
+      ],
       /**
        * Touch Action Pinch Zoom
        * @see https://tailwindcss.com/docs/touch-action
@@ -2611,16 +3644,27 @@ const getDefaultConfig = () => {
        * User Select
        * @see https://tailwindcss.com/docs/user-select
        */
-      select: [{
-        select: ["none", "text", "all", "auto"]
-      }],
+      select: [
+        {
+          select: ["none", "text", "all", "auto"],
+        },
+      ],
       /**
        * Will Change
        * @see https://tailwindcss.com/docs/will-change
        */
-      "will-change": [{
-        "will-change": ["auto", "scroll", "contents", "transform", isArbitraryVariable, isArbitraryValue]
-      }],
+      "will-change": [
+        {
+          "will-change": [
+            "auto",
+            "scroll",
+            "contents",
+            "transform",
+            isArbitraryVariable,
+            isArbitraryValue,
+          ],
+        },
+      ],
       // -----------
       // --- SVG ---
       // -----------
@@ -2628,23 +3672,34 @@ const getDefaultConfig = () => {
        * Fill
        * @see https://tailwindcss.com/docs/fill
        */
-      fill: [{
-        fill: ["none", ...scaleColor()]
-      }],
+      fill: [
+        {
+          fill: ["none", ...scaleColor()],
+        },
+      ],
       /**
        * Stroke Width
        * @see https://tailwindcss.com/docs/stroke-width
        */
-      "stroke-w": [{
-        stroke: [isNumber, isArbitraryVariableLength, isArbitraryLength, isArbitraryNumber]
-      }],
+      "stroke-w": [
+        {
+          stroke: [
+            isNumber,
+            isArbitraryVariableLength,
+            isArbitraryLength,
+            isArbitraryNumber,
+          ],
+        },
+      ],
       /**
        * Stroke
        * @see https://tailwindcss.com/docs/stroke
        */
-      stroke: [{
-        stroke: ["none", ...scaleColor()]
-      }],
+      stroke: [
+        {
+          stroke: ["none", ...scaleColor()],
+        },
+      ],
       // ---------------------
       // --- Accessibility ---
       // ---------------------
@@ -2652,14 +3707,25 @@ const getDefaultConfig = () => {
        * Forced Color Adjust
        * @see https://tailwindcss.com/docs/forced-color-adjust
        */
-      "forced-color-adjust": [{
-        "forced-color-adjust": ["auto", "none"]
-      }]
+      "forced-color-adjust": [
+        {
+          "forced-color-adjust": ["auto", "none"],
+        },
+      ],
     },
     conflictingClassGroups: {
       overflow: ["overflow-x", "overflow-y"],
       overscroll: ["overscroll-x", "overscroll-y"],
-      inset: ["inset-x", "inset-y", "start", "end", "top", "right", "bottom", "left"],
+      inset: [
+        "inset-x",
+        "inset-y",
+        "start",
+        "end",
+        "top",
+        "right",
+        "bottom",
+        "left",
+      ],
       "inset-x": ["right", "left"],
       "inset-y": ["top", "bottom"],
       flex: ["basis", "grow", "shrink"],
@@ -2672,14 +3738,35 @@ const getDefaultConfig = () => {
       my: ["mt", "mb"],
       size: ["w", "h"],
       "font-size": ["leading"],
-      "fvn-normal": ["fvn-ordinal", "fvn-slashed-zero", "fvn-figure", "fvn-spacing", "fvn-fraction"],
+      "fvn-normal": [
+        "fvn-ordinal",
+        "fvn-slashed-zero",
+        "fvn-figure",
+        "fvn-spacing",
+        "fvn-fraction",
+      ],
       "fvn-ordinal": ["fvn-normal"],
       "fvn-slashed-zero": ["fvn-normal"],
       "fvn-figure": ["fvn-normal"],
       "fvn-spacing": ["fvn-normal"],
       "fvn-fraction": ["fvn-normal"],
       "line-clamp": ["display", "overflow"],
-      rounded: ["rounded-s", "rounded-e", "rounded-t", "rounded-r", "rounded-b", "rounded-l", "rounded-ss", "rounded-se", "rounded-ee", "rounded-es", "rounded-tl", "rounded-tr", "rounded-br", "rounded-bl"],
+      rounded: [
+        "rounded-s",
+        "rounded-e",
+        "rounded-t",
+        "rounded-r",
+        "rounded-b",
+        "rounded-l",
+        "rounded-ss",
+        "rounded-se",
+        "rounded-ee",
+        "rounded-es",
+        "rounded-tl",
+        "rounded-tr",
+        "rounded-br",
+        "rounded-bl",
+      ],
       "rounded-s": ["rounded-ss", "rounded-es"],
       "rounded-e": ["rounded-se", "rounded-ee"],
       "rounded-t": ["rounded-tl", "rounded-tr"],
@@ -2687,29 +3774,78 @@ const getDefaultConfig = () => {
       "rounded-b": ["rounded-br", "rounded-bl"],
       "rounded-l": ["rounded-tl", "rounded-bl"],
       "border-spacing": ["border-spacing-x", "border-spacing-y"],
-      "border-w": ["border-w-s", "border-w-e", "border-w-t", "border-w-r", "border-w-b", "border-w-l"],
+      "border-w": [
+        "border-w-s",
+        "border-w-e",
+        "border-w-t",
+        "border-w-r",
+        "border-w-b",
+        "border-w-l",
+      ],
       "border-w-x": ["border-w-r", "border-w-l"],
       "border-w-y": ["border-w-t", "border-w-b"],
-      "border-color": ["border-color-s", "border-color-e", "border-color-t", "border-color-r", "border-color-b", "border-color-l"],
+      "border-color": [
+        "border-color-s",
+        "border-color-e",
+        "border-color-t",
+        "border-color-r",
+        "border-color-b",
+        "border-color-l",
+      ],
       "border-color-x": ["border-color-r", "border-color-l"],
       "border-color-y": ["border-color-t", "border-color-b"],
       translate: ["translate-x", "translate-y", "translate-none"],
-      "translate-none": ["translate", "translate-x", "translate-y", "translate-z"],
-      "scroll-m": ["scroll-mx", "scroll-my", "scroll-ms", "scroll-me", "scroll-mt", "scroll-mr", "scroll-mb", "scroll-ml"],
+      "translate-none": [
+        "translate",
+        "translate-x",
+        "translate-y",
+        "translate-z",
+      ],
+      "scroll-m": [
+        "scroll-mx",
+        "scroll-my",
+        "scroll-ms",
+        "scroll-me",
+        "scroll-mt",
+        "scroll-mr",
+        "scroll-mb",
+        "scroll-ml",
+      ],
       "scroll-mx": ["scroll-mr", "scroll-ml"],
       "scroll-my": ["scroll-mt", "scroll-mb"],
-      "scroll-p": ["scroll-px", "scroll-py", "scroll-ps", "scroll-pe", "scroll-pt", "scroll-pr", "scroll-pb", "scroll-pl"],
+      "scroll-p": [
+        "scroll-px",
+        "scroll-py",
+        "scroll-ps",
+        "scroll-pe",
+        "scroll-pt",
+        "scroll-pr",
+        "scroll-pb",
+        "scroll-pl",
+      ],
       "scroll-px": ["scroll-pr", "scroll-pl"],
       "scroll-py": ["scroll-pt", "scroll-pb"],
       touch: ["touch-x", "touch-y", "touch-pz"],
       "touch-x": ["touch"],
       "touch-y": ["touch"],
-      "touch-pz": ["touch"]
+      "touch-pz": ["touch"],
     },
     conflictingClassGroupModifiers: {
-      "font-size": ["leading"]
+      "font-size": ["leading"],
     },
-    orderSensitiveModifiers: ["before", "after", "placeholder", "file", "marker", "selection", "first-line", "first-letter", "backdrop", "*", "**"]
+    orderSensitiveModifiers: [
+      "before",
+      "after",
+      "placeholder",
+      "file",
+      "marker",
+      "selection",
+      "first-line",
+      "first-letter",
+      "backdrop",
+      "*",
+      "**",
+    ],
   };
 };
 const twMerge = /* @__PURE__ */ createTailwindMerge(getDefaultConfig);
@@ -2724,15 +3860,15 @@ const ManageConsent$1 = ({
   initialPreferences = {
     Analytics: false,
     Customization: false,
-    Advertising: false
+    Advertising: false,
   },
   cookieCategories = {
     Analytics: true,
     Customization: true,
-    Advertising: true
+    Advertising: true,
   },
   detailedConsent,
-  classNames
+  classNames,
 }) => {
   const [consent, setConsent] = useState(initialPreferences);
   useEffect(() => {
@@ -2741,7 +3877,7 @@ const ManageConsent$1 = ({
   const handleToggle = (category) => {
     setConsent((prev) => ({
       ...prev,
-      [category]: !prev[category]
+      [category]: !prev[category],
     }));
   };
   const handleSave = () => {
@@ -2755,7 +3891,7 @@ const ManageConsent$1 = ({
         month: "short",
         day: "numeric",
         hour: "2-digit",
-        minute: "2-digit"
+        minute: "2-digit",
       });
     } catch (e) {
       return "Invalid date";
@@ -2764,301 +3900,381 @@ const ManageConsent$1 = ({
   const renderConsentStatus = (category) => {
     if (!detailedConsent || !detailedConsent[category]) return null;
     const status = detailedConsent[category];
-    return /* @__PURE__ */ jsx(
-      "p",
-      {
-        className: (classNames == null ? void 0 : classNames.manageCookieStatusText) ? cn(classNames.manageCookieStatusText) : cn(
-          "text-xs mt-1 text-left",
-          theme === "light" ? "text-gray-500" : "text-gray-500"
-        ),
-        children: tFunction("manageCookiesStatus", {
-          status: status.consented ? tFunction("manageCookiesStatusConsented") : tFunction("manageCookiesStatusDeclined"),
-          date: formatDate(status.timestamp)
-        })
-      }
-    );
+    return /* @__PURE__ */ jsx("p", {
+      className: (
+        classNames == null ? void 0 : classNames.manageCookieStatusText
+      )
+        ? cn(classNames.manageCookieStatusText)
+        : cn(
+            "text-xs mt-1 text-left",
+            theme === "light" ? "text-gray-500" : "text-gray-500",
+          ),
+      children: tFunction("manageCookiesStatus", {
+        status: status.consented
+          ? tFunction("manageCookiesStatusConsented")
+          : tFunction("manageCookiesStatusDeclined"),
+        date: formatDate(status.timestamp),
+      }),
+    });
   };
-  return /* @__PURE__ */ jsxs(
-    "div",
-    {
-      className: (classNames == null ? void 0 : classNames.manageCookieContainer) ? cn(classNames.manageCookieContainer) : "flex flex-col gap-6",
-      children: [
-        /* @__PURE__ */ jsxs("div", { children: [
-          /* @__PURE__ */ jsx(
-            "h3",
-            {
-              className: (classNames == null ? void 0 : classNames.manageCookieTitle) ? cn(classNames.manageCookieTitle) : cn(
-                "text-sm font-semibold mb-2",
-                theme === "light" ? "text-gray-900" : "text-white"
-              ),
-              children: tFunction("manageTitle")
-            }
-          ),
-          /* @__PURE__ */ jsx(
-            "p",
-            {
-              className: (classNames == null ? void 0 : classNames.manageCookieMessage) ? cn(classNames.manageCookieMessage) : cn(
-                "text-xs",
-                theme === "light" ? "text-gray-700" : "text-gray-200"
-              ),
-              children: tFunction("manageMessage")
-            }
-          )
-        ] }),
-        /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-4", children: [
-          /* @__PURE__ */ jsxs(
-            "div",
-            {
-              className: (classNames == null ? void 0 : classNames.manageCookieCategory) ? cn(classNames.manageCookieCategory) : "flex items-start justify-between",
+  return /* @__PURE__ */ jsxs("div", {
+    className: (classNames == null ? void 0 : classNames.manageCookieContainer)
+      ? cn(classNames.manageCookieContainer)
+      : "flex flex-col gap-6",
+    children: [
+      /* @__PURE__ */ jsxs("div", {
+        children: [
+          /* @__PURE__ */ jsx("h3", {
+            className: (
+              classNames == null ? void 0 : classNames.manageCookieTitle
+            )
+              ? cn(classNames.manageCookieTitle)
+              : cn(
+                  "text-sm font-semibold mb-2",
+                  theme === "light" ? "text-gray-900" : "text-white",
+                ),
+            children: tFunction("manageTitle"),
+          }),
+          /* @__PURE__ */ jsx("p", {
+            className: (
+              classNames == null ? void 0 : classNames.manageCookieMessage
+            )
+              ? cn(classNames.manageCookieMessage)
+              : cn(
+                  "text-xs",
+                  theme === "light" ? "text-gray-700" : "text-gray-200",
+                ),
+            children: tFunction("manageMessage"),
+          }),
+        ],
+      }),
+      /* @__PURE__ */ jsxs("div", {
+        className: "flex flex-col gap-4",
+        children: [
+          /* @__PURE__ */ jsxs("div", {
+            className: (
+              classNames == null ? void 0 : classNames.manageCookieCategory
+            )
+              ? cn(classNames.manageCookieCategory)
+              : "flex items-start justify-between",
+            children: [
+              /* @__PURE__ */ jsxs("div", {
+                children: [
+                  /* @__PURE__ */ jsx("h4", {
+                    className: (
+                      classNames == null
+                        ? void 0
+                        : classNames.manageCookieCategoryTitle
+                    )
+                      ? cn(classNames.manageCookieCategoryTitle)
+                      : cn(
+                          "text-xs font-medium text-left",
+                          theme === "light" ? "text-gray-900" : "text-white",
+                        ),
+                    children: tFunction("manageEssentialTitle"),
+                  }),
+                  /* @__PURE__ */ jsx("p", {
+                    className: (
+                      classNames == null
+                        ? void 0
+                        : classNames.manageCookieCategorySubtitle
+                    )
+                      ? cn(classNames.manageCookieCategorySubtitle)
+                      : cn(
+                          "text-xs text-left",
+                          theme === "light" ? "text-gray-600" : "text-gray-400",
+                        ),
+                    children: tFunction("manageEssentialSubtitle"),
+                  }),
+                  /* @__PURE__ */ jsx("p", {
+                    className: (
+                      classNames == null
+                        ? void 0
+                        : classNames.manageCookieStatusText
+                    )
+                      ? cn(classNames.manageCookieStatusText)
+                      : cn(
+                          "text-xs mt-1 text-left",
+                          theme === "light" ? "text-gray-500" : "text-gray-500",
+                        ),
+                    children: tFunction("manageEssentialStatus"),
+                  }),
+                ],
+              }),
+              /* @__PURE__ */ jsx("div", {
+                className: `px-3 py-1 text-xs text-center font-medium rounded-full ${theme === "light" ? "bg-gray-200 text-gray-600" : "bg-gray-800 text-gray-300"}`,
+                children: tFunction("manageEssentialStatusButtonText"),
+              }),
+            ],
+          }),
+          cookieCategories.Analytics !== false &&
+            /* @__PURE__ */ jsxs("div", {
+              className: (
+                classNames == null ? void 0 : classNames.manageCookieCategory
+              )
+                ? cn(classNames.manageCookieCategory)
+                : "flex items-start justify-between",
               children: [
-                /* @__PURE__ */ jsxs("div", { children: [
-                  /* @__PURE__ */ jsx(
-                    "h4",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieCategoryTitle) ? cn(classNames.manageCookieCategoryTitle) : cn(
-                        "text-xs font-medium text-left",
-                        theme === "light" ? "text-gray-900" : "text-white"
-                      ),
-                      children: tFunction("manageEssentialTitle")
-                    }
-                  ),
-                  /* @__PURE__ */ jsx(
-                    "p",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieCategorySubtitle) ? cn(classNames.manageCookieCategorySubtitle) : cn(
-                        "text-xs text-left",
-                        theme === "light" ? "text-gray-600" : "text-gray-400"
-                      ),
-                      children: tFunction("manageEssentialSubtitle")
-                    }
-                  ),
-                  /* @__PURE__ */ jsx(
-                    "p",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieStatusText) ? cn(classNames.manageCookieStatusText) : cn(
-                        "text-xs mt-1 text-left",
-                        theme === "light" ? "text-gray-500" : "text-gray-500"
-                      ),
-                      children: tFunction("manageEssentialStatus")
-                    }
-                  )
-                ] }),
-                /* @__PURE__ */ jsx(
-                  "div",
-                  {
-                    className: `px-3 py-1 text-xs text-center font-medium rounded-full ${theme === "light" ? "bg-gray-200 text-gray-600" : "bg-gray-800 text-gray-300"}`,
-                    children: tFunction("manageEssentialStatusButtonText")
-                  }
-                )
-              ]
-            }
-          ),
-          cookieCategories.Analytics !== false && /* @__PURE__ */ jsxs(
-            "div",
-            {
-              className: (classNames == null ? void 0 : classNames.manageCookieCategory) ? cn(classNames.manageCookieCategory) : "flex items-start justify-between",
-              children: [
-                /* @__PURE__ */ jsxs("div", { children: [
-                  /* @__PURE__ */ jsx(
-                    "h4",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieCategoryTitle) ? cn(classNames.manageCookieCategoryTitle) : cn(
-                        "text-xs font-medium text-left",
-                        theme === "light" ? "text-gray-900" : "text-white"
-                      ),
-                      children: tFunction("manageAnalyticsTitle")
-                    }
-                  ),
-                  /* @__PURE__ */ jsx(
-                    "p",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieCategorySubtitle) ? cn(classNames.manageCookieCategorySubtitle) : cn(
-                        "text-xs text-left",
-                        theme === "light" ? "text-gray-600" : "text-gray-400"
-                      ),
-                      children: tFunction("manageAnalyticsSubtitle")
-                    }
-                  ),
-                  renderConsentStatus("Analytics")
-                ] }),
-                /* @__PURE__ */ jsxs("label", { className: "relative inline-flex items-center cursor-pointer", children: [
-                  /* @__PURE__ */ jsx(
-                    "input",
-                    {
+                /* @__PURE__ */ jsxs("div", {
+                  children: [
+                    /* @__PURE__ */ jsx("h4", {
+                      className: (
+                        classNames == null
+                          ? void 0
+                          : classNames.manageCookieCategoryTitle
+                      )
+                        ? cn(classNames.manageCookieCategoryTitle)
+                        : cn(
+                            "text-xs font-medium text-left",
+                            theme === "light" ? "text-gray-900" : "text-white",
+                          ),
+                      children: tFunction("manageAnalyticsTitle"),
+                    }),
+                    /* @__PURE__ */ jsx("p", {
+                      className: (
+                        classNames == null
+                          ? void 0
+                          : classNames.manageCookieCategorySubtitle
+                      )
+                        ? cn(classNames.manageCookieCategorySubtitle)
+                        : cn(
+                            "text-xs text-left",
+                            theme === "light"
+                              ? "text-gray-600"
+                              : "text-gray-400",
+                          ),
+                      children: tFunction("manageAnalyticsSubtitle"),
+                    }),
+                    renderConsentStatus("Analytics"),
+                  ],
+                }),
+                /* @__PURE__ */ jsxs("label", {
+                  className: "relative inline-flex items-center cursor-pointer",
+                  children: [
+                    /* @__PURE__ */ jsx("input", {
                       type: "checkbox",
                       checked: consent.Analytics,
                       onChange: () => handleToggle("Analytics"),
-                      className: "sr-only peer"
-                    }
-                  ),
-                  /* @__PURE__ */ jsx(
-                    "div",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieToggle) ? cn(
-                        classNames.manageCookieToggle,
-                        consent.Analytics && classNames.manageCookieToggleChecked
-                      ) : cn(`w-11 h-6 rounded-full peer peer-focus:ring-2 peer-focus:ring-blue-500 
+                      className: "sr-only peer",
+                    }),
+                    /* @__PURE__ */ jsx("div", {
+                      className: (
+                        classNames == null
+                          ? void 0
+                          : classNames.manageCookieToggle
+                      )
+                        ? cn(
+                            classNames.manageCookieToggle,
+                            consent.Analytics &&
+                              classNames.manageCookieToggleChecked,
+                          )
+                        : cn(`w-11 h-6 rounded-full peer peer-focus:ring-2 peer-focus:ring-blue-500 
                 ${theme === "light" ? "bg-gray-200 peer-checked:bg-blue-500" : "bg-gray-700 peer-checked:bg-blue-500"} 
                 peer-checked:after:translate-x-full after:content-[''] after:absolute after:top-0.5 
                 after:left-[2px] after:bg-white after:rounded-full after:h-5 after:w-5 
-                after:transition-all`)
-                    }
-                  )
-                ] })
-              ]
-            }
-          ),
-          cookieCategories.Customization !== false && /* @__PURE__ */ jsxs(
-            "div",
-            {
-              className: (classNames == null ? void 0 : classNames.manageCookieCategory) ? cn(classNames.manageCookieCategory) : "flex items-start justify-between",
+                after:transition-all`),
+                    }),
+                  ],
+                }),
+              ],
+            }),
+          cookieCategories.Customization !== false &&
+            /* @__PURE__ */ jsxs("div", {
+              className: (
+                classNames == null ? void 0 : classNames.manageCookieCategory
+              )
+                ? cn(classNames.manageCookieCategory)
+                : "flex items-start justify-between",
               children: [
-                /* @__PURE__ */ jsxs("div", { children: [
-                  /* @__PURE__ */ jsx(
-                    "h4",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieCategoryTitle) ? cn(classNames.manageCookieCategoryTitle) : cn(
-                        "text-xs font-medium text-left",
-                        theme === "light" ? "text-gray-900" : "text-white"
-                      ),
-                      children: tFunction("manageCustomizationTitle")
-                    }
-                  ),
-                  /* @__PURE__ */ jsx(
-                    "p",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieCategorySubtitle) ? cn(classNames.manageCookieCategorySubtitle) : cn(
-                        "text-xs text-left",
-                        theme === "light" ? "text-gray-600" : "text-gray-400"
-                      ),
-                      children: tFunction("manageCustomizationSubtitle")
-                    }
-                  ),
-                  renderConsentStatus("Customization")
-                ] }),
-                /* @__PURE__ */ jsxs("label", { className: "relative inline-flex items-center cursor-pointer", children: [
-                  /* @__PURE__ */ jsx(
-                    "input",
-                    {
+                /* @__PURE__ */ jsxs("div", {
+                  children: [
+                    /* @__PURE__ */ jsx("h4", {
+                      className: (
+                        classNames == null
+                          ? void 0
+                          : classNames.manageCookieCategoryTitle
+                      )
+                        ? cn(classNames.manageCookieCategoryTitle)
+                        : cn(
+                            "text-xs font-medium text-left",
+                            theme === "light" ? "text-gray-900" : "text-white",
+                          ),
+                      children: tFunction("manageCustomizationTitle"),
+                    }),
+                    /* @__PURE__ */ jsx("p", {
+                      className: (
+                        classNames == null
+                          ? void 0
+                          : classNames.manageCookieCategorySubtitle
+                      )
+                        ? cn(classNames.manageCookieCategorySubtitle)
+                        : cn(
+                            "text-xs text-left",
+                            theme === "light"
+                              ? "text-gray-600"
+                              : "text-gray-400",
+                          ),
+                      children: tFunction("manageCustomizationSubtitle"),
+                    }),
+                    renderConsentStatus("Customization"),
+                  ],
+                }),
+                /* @__PURE__ */ jsxs("label", {
+                  className: "relative inline-flex items-center cursor-pointer",
+                  children: [
+                    /* @__PURE__ */ jsx("input", {
                       type: "checkbox",
                       checked: consent.Customization,
                       onChange: () => handleToggle("Customization"),
-                      className: "sr-only peer"
-                    }
-                  ),
-                  /* @__PURE__ */ jsx(
-                    "div",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieToggle) ? cn(
-                        classNames.manageCookieToggle,
-                        consent.Customization && classNames.manageCookieToggleChecked
-                      ) : cn(`w-11 h-6 rounded-full peer peer-focus:ring-2 peer-focus:ring-blue-500 
+                      className: "sr-only peer",
+                    }),
+                    /* @__PURE__ */ jsx("div", {
+                      className: (
+                        classNames == null
+                          ? void 0
+                          : classNames.manageCookieToggle
+                      )
+                        ? cn(
+                            classNames.manageCookieToggle,
+                            consent.Customization &&
+                              classNames.manageCookieToggleChecked,
+                          )
+                        : cn(`w-11 h-6 rounded-full peer peer-focus:ring-2 peer-focus:ring-blue-500 
                 ${theme === "light" ? "bg-gray-200 peer-checked:bg-blue-500" : "bg-gray-700 peer-checked:bg-blue-500"} 
                 peer-checked:after:translate-x-full after:content-[''] after:absolute after:top-0.5 
                 after:left-[2px] after:bg-white after:rounded-full after:h-5 after:w-5 
-                after:transition-all`)
-                    }
-                  )
-                ] })
-              ]
-            }
-          ),
-          cookieCategories.Advertising !== false && /* @__PURE__ */ jsxs(
-            "div",
-            {
-              className: (classNames == null ? void 0 : classNames.manageCookieCategory) ? cn(classNames.manageCookieCategory) : "flex items-start justify-between",
+                after:transition-all`),
+                    }),
+                  ],
+                }),
+              ],
+            }),
+          cookieCategories.Advertising !== false &&
+            /* @__PURE__ */ jsxs("div", {
+              className: (
+                classNames == null ? void 0 : classNames.manageCookieCategory
+              )
+                ? cn(classNames.manageCookieCategory)
+                : "flex items-start justify-between",
               children: [
-                /* @__PURE__ */ jsxs("div", { children: [
-                  /* @__PURE__ */ jsx(
-                    "h4",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieCategoryTitle) ? cn(classNames.manageCookieCategoryTitle) : cn(
-                        "text-xs font-medium text-left",
-                        theme === "light" ? "text-gray-900" : "text-white"
-                      ),
-                      children: tFunction("manageAdvertTitle")
-                    }
-                  ),
-                  /* @__PURE__ */ jsx(
-                    "p",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieCategorySubtitle) ? cn(classNames.manageCookieCategorySubtitle) : cn(
-                        "text-xs text-left",
-                        theme === "light" ? "text-gray-600" : "text-gray-400"
-                      ),
-                      children: tFunction("manageAdvertSubtitle")
-                    }
-                  ),
-                  renderConsentStatus("Advertising")
-                ] }),
-                /* @__PURE__ */ jsxs("label", { className: "relative inline-flex items-center cursor-pointer", children: [
-                  /* @__PURE__ */ jsx(
-                    "input",
-                    {
+                /* @__PURE__ */ jsxs("div", {
+                  children: [
+                    /* @__PURE__ */ jsx("h4", {
+                      className: (
+                        classNames == null
+                          ? void 0
+                          : classNames.manageCookieCategoryTitle
+                      )
+                        ? cn(classNames.manageCookieCategoryTitle)
+                        : cn(
+                            "text-xs font-medium text-left",
+                            theme === "light" ? "text-gray-900" : "text-white",
+                          ),
+                      children: tFunction("manageAdvertTitle"),
+                    }),
+                    /* @__PURE__ */ jsx("p", {
+                      className: (
+                        classNames == null
+                          ? void 0
+                          : classNames.manageCookieCategorySubtitle
+                      )
+                        ? cn(classNames.manageCookieCategorySubtitle)
+                        : cn(
+                            "text-xs text-left",
+                            theme === "light"
+                              ? "text-gray-600"
+                              : "text-gray-400",
+                          ),
+                      children: tFunction("manageAdvertSubtitle"),
+                    }),
+                    renderConsentStatus("Advertising"),
+                  ],
+                }),
+                /* @__PURE__ */ jsxs("label", {
+                  className: "relative inline-flex items-center cursor-pointer",
+                  children: [
+                    /* @__PURE__ */ jsx("input", {
                       type: "checkbox",
                       checked: consent.Advertising,
                       onChange: () => handleToggle("Advertising"),
-                      className: "sr-only peer"
-                    }
-                  ),
-                  /* @__PURE__ */ jsx(
-                    "div",
-                    {
-                      className: (classNames == null ? void 0 : classNames.manageCookieToggle) ? cn(
-                        classNames.manageCookieToggle,
-                        consent.Advertising && classNames.manageCookieToggleChecked
-                      ) : cn(`w-11 h-6 rounded-full peer peer-focus:ring-2 peer-focus:ring-blue-500 
+                      className: "sr-only peer",
+                    }),
+                    /* @__PURE__ */ jsx("div", {
+                      className: (
+                        classNames == null
+                          ? void 0
+                          : classNames.manageCookieToggle
+                      )
+                        ? cn(
+                            classNames.manageCookieToggle,
+                            consent.Advertising &&
+                              classNames.manageCookieToggleChecked,
+                          )
+                        : cn(`w-11 h-6 rounded-full peer peer-focus:ring-2 peer-focus:ring-blue-500 
                 ${theme === "light" ? "bg-gray-200 peer-checked:bg-blue-500" : "bg-gray-700 peer-checked:bg-blue-500"} 
                 peer-checked:after:translate-x-full after:content-[''] after:absolute after:top-0.5 
                 after:left-[2px] after:bg-white after:rounded-full after:h-5 after:w-5 
-                after:transition-all`)
-                    }
-                  )
-                ] })
-              ]
-            }
-          )
-        ] }),
-        /* @__PURE__ */ jsxs("div", { className: "flex flex-col sm:flex-row gap-3 mt-2 sm:justify-end", children: [
-          onCancel && /* @__PURE__ */ jsx(
-            "button",
-            {
+                after:transition-all`),
+                    }),
+                  ],
+                }),
+              ],
+            }),
+        ],
+      }),
+      /* @__PURE__ */ jsxs("div", {
+        className: "flex flex-col sm:flex-row gap-3 mt-2 sm:justify-end",
+        children: [
+          onCancel &&
+            /* @__PURE__ */ jsx("button", {
               onClick: onCancel,
-              className: (classNames == null ? void 0 : classNames.manageCancelButton) ? cn(classNames.manageCancelButton) : cn(
-                `w-full sm:w-auto px-3 py-2 sm:py-1.5 text-xs font-medium rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all duration-200 hover:scale-105 ${theme === "light" ? "bg-gray-200 hover:bg-gray-300 text-gray-800" : "bg-gray-800 hover:bg-gray-700 text-gray-300"}`
+              className: (
+                classNames == null ? void 0 : classNames.manageCancelButton
+              )
+                ? cn(classNames.manageCancelButton)
+                : cn(
+                    `w-full sm:w-auto px-3 py-2 sm:py-1.5 text-xs font-medium rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all duration-200 hover:scale-105 ${theme === "light" ? "bg-gray-200 hover:bg-gray-300 text-gray-800" : "bg-gray-800 hover:bg-gray-700 text-gray-300"}`,
+                  ),
+              children: tFunction("manageCancelButtonText"),
+            }),
+          /* @__PURE__ */ jsx("button", {
+            onClick: handleSave,
+            className: (
+              classNames == null ? void 0 : classNames.manageSaveButton
+            )
+              ? cn(classNames.manageSaveButton)
+              : "w-full sm:w-auto px-3 py-2 sm:py-1.5 text-xs font-medium text-white bg-blue-500 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all duration-200 hover:scale-105",
+            children: tFunction("manageSaveButtonText"),
+          }),
+        ],
+      }),
+      /* @__PURE__ */ jsx("div", {
+        className: "text-center mt-4",
+        children: /* @__PURE__ */ jsx("a", {
+          href: "https://cookiekit.io",
+          target: "_blank",
+          rel: "noopener noreferrer",
+          className: (classNames == null ? void 0 : classNames.poweredByLink)
+            ? cn(classNames.poweredByLink)
+            : cn(
+                `text-xs transition-opacity duration-200 ${theme === "light" ? "text-gray-500 hover:text-gray-700" : "text-gray-400 hover:text-gray-200"}`,
               ),
-              children: tFunction("manageCancelButtonText")
-            }
-          ),
-          /* @__PURE__ */ jsx(
-            "button",
-            {
-              onClick: handleSave,
-              className: (classNames == null ? void 0 : classNames.manageSaveButton) ? cn(classNames.manageSaveButton) : "w-full sm:w-auto px-3 py-2 sm:py-1.5 text-xs font-medium text-white bg-blue-500 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all duration-200 hover:scale-105",
-              children: tFunction("manageSaveButtonText")
-            }
-          )
-        ] }),
-        /* @__PURE__ */ jsx("div", { className: "text-center mt-4", children: /* @__PURE__ */ jsx(
-          "a",
-          {
-            href: "https://cookiekit.io",
-            target: "_blank",
-            rel: "noopener noreferrer",
-            className: (classNames == null ? void 0 : classNames.poweredByLink) ? cn(classNames.poweredByLink) : cn(
-              `text-xs transition-opacity duration-200 ${theme === "light" ? "text-gray-500 hover:text-gray-700" : "text-gray-400 hover:text-gray-200"}`
-            ),
-            children: "Powered by CookieKit"
-          }
-        ) })
-      ]
-    }
-  );
+          children: "Powered by CookieKit",
+        }),
+      }),
+    ],
+  });
 };
-const ManageConsent$2 = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.defineProperty({
-  __proto__: null,
-  ManageConsent: ManageConsent$1
-}, Symbol.toStringTag, { value: "Module" }));
+const ManageConsent$2 = /* @__PURE__ */ Object.freeze(
+  /* @__PURE__ */ Object.defineProperty(
+    {
+      __proto__: null,
+      ManageConsent: ManageConsent$1,
+    },
+    Symbol.toStringTag,
+    { value: "Module" },
+  ),
+);
 const useIsMobile = () => {
   const [isMobile, setIsMobile] = useState(false);
   useEffect(() => {
@@ -3088,32 +4304,49 @@ const MobileModal = ({
   initialPreferences,
   detailedConsent,
   cookieCategories,
-  classNames
+  classNames,
 }) => {
   const title = tFunction("title");
-  const mobileContentOverride = displayType === "modal" ? classNames == null ? void 0 : classNames.modalContent : displayType === "popup" ? classNames == null ? void 0 : classNames.popupContent : classNames == null ? void 0 : classNames.bannerContent;
-  return /* @__PURE__ */ jsxs("div", { className: "cookie-manager", children: [
-    displayType === "modal" && /* @__PURE__ */ jsx("div", { className: "fixed inset-0 z-[99999] bg-black/40 backdrop-blur-sm" }),
-    /* @__PURE__ */ jsx(
-      "div",
-      {
+  const mobileContentOverride =
+    displayType === "modal"
+      ? classNames == null
+        ? void 0
+        : classNames.modalContent
+      : displayType === "popup"
+        ? classNames == null
+          ? void 0
+          : classNames.popupContent
+        : classNames == null
+          ? void 0
+          : classNames.bannerContent;
+  return /* @__PURE__ */ jsxs("div", {
+    className: "cookie-manager",
+    children: [
+      displayType === "modal" &&
+        /* @__PURE__ */ jsx("div", {
+          className: "fixed inset-0 z-[99999] bg-black/40 backdrop-blur-sm",
+        }),
+      /* @__PURE__ */ jsx("div", {
         className: cn(
           "fixed inset-x-0 bottom-0 px-4 pb-4 pt-2 z-[99999]",
           "transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]",
-          isExiting ? "translate-y-full" : isEntering ? "translate-y-full" : "translate-y-0"
+          isExiting
+            ? "translate-y-full"
+            : isEntering
+              ? "translate-y-full"
+              : "translate-y-0",
         ),
-        children: /* @__PURE__ */ jsx(
-          "div",
-          {
-            className: cn(
-              "p-4 mx-auto max-w-[calc(100vw-32px)]",
-              theme === "light" ? "bg-white/95 ring-1 ring-black/10" : "bg-black/95 ring-1 ring-white/10",
-              "rounded-2xl backdrop-blur-sm backdrop-saturate-150",
-              mobileContentOverride && cn(mobileContentOverride)
-            ),
-            children: isManaging ? /* @__PURE__ */ jsx(
-              ManageConsent$1,
-              {
+        children: /* @__PURE__ */ jsx("div", {
+          className: cn(
+            "p-4 mx-auto max-w-[calc(100vw-32px)]",
+            theme === "light"
+              ? "bg-white/95 ring-1 ring-black/10"
+              : "bg-black/95 ring-1 ring-white/10",
+            "rounded-2xl backdrop-blur-sm backdrop-saturate-150",
+            mobileContentOverride && cn(mobileContentOverride),
+          ),
+          children: isManaging
+            ? /* @__PURE__ */ jsx(ManageConsent$1, {
                 theme,
                 tFunction,
                 onSave: handleSavePreferences,
@@ -3121,81 +4354,99 @@ const MobileModal = ({
                 initialPreferences,
                 cookieCategories,
                 detailedConsent,
-                classNames
-              }
-            ) : /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-3", children: [
-              title && /* @__PURE__ */ jsx(
-                "h3",
-                {
-                  className: cn(
-                    (classNames == null ? void 0 : classNames.bannerTitle) || "font-semibold my-0",
-                    theme === "light" ? "text-gray-900" : "text-white"
-                  ),
-                  children: title
-                }
-              ),
-              /* @__PURE__ */ jsx(
-                "p",
-                {
-                  className: cn(
-                    (classNames == null ? void 0 : classNames.bannerMessage) || "text-sm",
-                    theme === "light" ? "text-gray-700" : "text-gray-200"
-                  ),
-                  children: tFunction("message")
-                }
-              ),
-              /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-3", children: [
-                /* @__PURE__ */ jsx(
-                  "button",
-                  {
-                    onClick: handleAccept,
-                    className: (classNames == null ? void 0 : classNames.acceptButton) ? cn(classNames.acceptButton) : cn(
-                      "w-full px-3 py-2.5 text-sm font-medium text-white bg-blue-500 rounded-lg hover:bg-blue-600 focus-visible:outline-none focus:outline-none focus-visible:outline-transparent focus:outline-transparent"
+                classNames,
+              })
+            : /* @__PURE__ */ jsxs("div", {
+                className: "flex flex-col gap-3",
+                children: [
+                  title &&
+                    /* @__PURE__ */ jsx("h3", {
+                      className: cn(
+                        (classNames == null
+                          ? void 0
+                          : classNames.bannerTitle) || "font-semibold my-0",
+                        theme === "light" ? "text-gray-900" : "text-white",
+                      ),
+                      children: title,
+                    }),
+                  /* @__PURE__ */ jsx("p", {
+                    className: cn(
+                      (classNames == null
+                        ? void 0
+                        : classNames.bannerMessage) || "text-sm",
+                      theme === "light" ? "text-gray-700" : "text-gray-200",
                     ),
-                    children: tFunction("buttonText")
-                  }
-                ),
-                /* @__PURE__ */ jsx(
-                  "button",
-                  {
-                    onClick: handleDecline,
-                    className: (classNames == null ? void 0 : classNames.declineButton) ? cn(classNames.declineButton) : cn(
-                      "w-full px-3 py-2.5 text-sm font-medium rounded-lg focus-visible:outline-none focus:outline-none focus-visible:outline-transparent focus:outline-transparent",
-                      theme === "light" ? "bg-gray-200 hover:bg-gray-300 text-gray-800" : "bg-gray-800 hover:bg-gray-700 text-gray-300"
-                    ),
-                    children: tFunction("declineButtonText")
-                  }
-                ),
-                showManageButton && /* @__PURE__ */ jsx(
-                  "button",
-                  {
-                    onClick: handleManage,
-                    className: (classNames == null ? void 0 : classNames.manageButton) ? cn(classNames.manageButton) : cn(
-                      "w-full px-3 py-2.5 text-sm font-medium bg-transparent text-blue-500 border border-blue-500 rounded-lg hover:text-blue-400 hover:border-blue-400 focus-visible:outline-none focus:outline-none focus-visible:outline-transparent focus:outline-transparent"
-                    ),
-                    children: tFunction("manageButtonText")
-                  }
-                )
-              ] }),
-              privacyPolicyUrl && /* @__PURE__ */ jsx(
-                "a",
-                {
-                  href: privacyPolicyUrl,
-                  target: "_blank",
-                  rel: "noopener noreferrer",
-                  className: (classNames == null ? void 0 : classNames.privacyPolicyLink) ? cn(classNames.privacyPolicyLink) : cn(
-                    "text-xs text-right",
-                    theme === "light" ? "text-gray-500 hover:text-gray-700" : "text-gray-400 hover:text-gray-200"
-                  ),
-                  children: tFunction("privacyPolicyText")
-                }
-              )
-            ] })
-          }
-        )
-      }
-    )
-  ] });
+                    children: tFunction("message"),
+                  }),
+                  /* @__PURE__ */ jsxs("div", {
+                    className: "flex flex-col gap-3",
+                    children: [
+                      /* @__PURE__ */ jsx("button", {
+                        onClick: handleAccept,
+                        className: (
+                          classNames == null ? void 0 : classNames.acceptButton
+                        )
+                          ? cn(classNames.acceptButton)
+                          : cn(
+                              "w-full px-3 py-2.5 text-sm font-medium text-white bg-blue-500 rounded-lg hover:bg-blue-600 focus-visible:outline-none focus:outline-none focus-visible:outline-transparent focus:outline-transparent",
+                            ),
+                        children: tFunction("buttonText"),
+                      }),
+                      /* @__PURE__ */ jsx("button", {
+                        onClick: handleDecline,
+                        className: (
+                          classNames == null ? void 0 : classNames.declineButton
+                        )
+                          ? cn(classNames.declineButton)
+                          : cn(
+                              "w-full px-3 py-2.5 text-sm font-medium rounded-lg focus-visible:outline-none focus:outline-none focus-visible:outline-transparent focus:outline-transparent",
+                              theme === "light"
+                                ? "bg-gray-200 hover:bg-gray-300 text-gray-800"
+                                : "bg-gray-800 hover:bg-gray-700 text-gray-300",
+                            ),
+                        children: tFunction("declineButtonText"),
+                      }),
+                      showManageButton &&
+                        /* @__PURE__ */ jsx("button", {
+                          onClick: handleManage,
+                          className: (
+                            classNames == null
+                              ? void 0
+                              : classNames.manageButton
+                          )
+                            ? cn(classNames.manageButton)
+                            : cn(
+                                "w-full px-3 py-2.5 text-sm font-medium bg-transparent text-blue-500 border border-blue-500 rounded-lg hover:text-blue-400 hover:border-blue-400 focus-visible:outline-none focus:outline-none focus-visible:outline-transparent focus:outline-transparent",
+                              ),
+                          children: tFunction("manageButtonText"),
+                        }),
+                    ],
+                  }),
+                  privacyPolicyUrl &&
+                    /* @__PURE__ */ jsx("a", {
+                      href: privacyPolicyUrl,
+                      target: "_blank",
+                      rel: "noopener noreferrer",
+                      className: (
+                        classNames == null
+                          ? void 0
+                          : classNames.privacyPolicyLink
+                      )
+                        ? cn(classNames.privacyPolicyLink)
+                        : cn(
+                            "text-xs text-right",
+                            theme === "light"
+                              ? "text-gray-500 hover:text-gray-700"
+                              : "text-gray-400 hover:text-gray-200",
+                          ),
+                      children: tFunction("privacyPolicyText"),
+                    }),
+                ],
+              }),
+        }),
+      }),
+    ],
+  });
 };
 const CookieConsenter = ({
   showManageButton = true,
@@ -3209,16 +4460,16 @@ const CookieConsenter = ({
   initialPreferences = {
     Analytics: false,
     Customization: false,
-    Advertising: false
+    Advertising: false,
   },
   cookieCategories = {
     Analytics: true,
     Customization: true,
-    Advertising: true
+    Advertising: true,
   },
   detailedConsent,
   isManaging = false,
-  classNames
+  classNames,
 }) => {
   const [isExiting, setIsExiting] = useState(false);
   const [isEntering, setIsEntering] = useState(true);
@@ -3276,125 +4527,206 @@ const CookieConsenter = ({
   if (isMobile) {
     if (typeof document === "undefined") return null;
     return createPortal(
-      /* @__PURE__ */ jsx(
-        MobileModal,
-        {
-          ...{
-            showManageButton,
-            privacyPolicyUrl,
-            theme,
-            tFunction,
-            handleAccept: handleAcceptClick,
-            handleDecline: handleDeclineClick,
-            handleManage: handleManageClick,
-            isExiting,
-            isEntering,
-            isManaging: false,
-            handleSavePreferences,
-            handleCancelManage,
-            displayType,
-            initialPreferences,
-            cookieCategories,
-            detailedConsent,
-            classNames
-          }
-        }
-      ),
-      document.body
+      /* @__PURE__ */ jsx(MobileModal, {
+        ...{
+          showManageButton,
+          privacyPolicyUrl,
+          theme,
+          tFunction,
+          handleAccept: handleAcceptClick,
+          handleDecline: handleDeclineClick,
+          handleManage: handleManageClick,
+          isExiting,
+          isEntering,
+          isManaging: false,
+          handleSavePreferences,
+          handleCancelManage,
+          displayType,
+          initialPreferences,
+          cookieCategories,
+          detailedConsent,
+          classNames,
+        },
+      }),
+      document.body,
     );
   }
-  const acceptButtonClasses = (classNames == null ? void 0 : classNames.acceptButton) ? cn(classNames.acceptButton) : cn(
-    "px-3 py-1.5 text-xs font-medium rounded-md",
-    "bg-blue-500 hover:bg-blue-600 text-white",
-    "transition-all duration-200",
-    "hover:scale-105 focus-visible:outline-none focus:outline-none",
-    "focus-visible:outline-transparent focus:outline-transparent",
-    displayType === "popup" ? "flex-1" : ""
-  );
-  const declineButtonClasses = (classNames == null ? void 0 : classNames.declineButton) ? cn(classNames.declineButton) : cn(
-    "px-3 py-1.5 text-xs font-medium rounded-md",
-    theme === "light" ? "bg-gray-200 hover:bg-gray-300 text-gray-800" : "bg-gray-800 hover:bg-gray-700 text-gray-300",
-    "transition-all duration-200",
-    "hover:scale-105 focus-visible:outline-none focus:outline-none",
-    "focus-visible:outline-transparent focus:outline-transparent",
-    displayType === "popup" ? "flex-1" : ""
-  );
-  const manageButtonClasses = (classNames == null ? void 0 : classNames.manageButton) ? cn(classNames.manageButton) : cn(
-    "px-3 py-1.5 text-xs font-medium rounded-md",
-    "border border-blue-500 text-blue-500",
-    "bg-transparent",
-    "hover:text-blue-600 hover:border-blue-600",
-    "transition-all duration-200",
-    "hover:scale-105 focus-visible:outline-none focus:outline-none",
-    "focus-visible:outline-transparent focus:outline-transparent",
-    displayType === "popup" ? "flex-1" : ""
-  );
-  const privacyLinkClasses = (classNames == null ? void 0 : classNames.privacyPolicyLink) ? cn(classNames.privacyPolicyLink) : cn(
-    "text-xs font-medium",
-    theme === "light" ? "text-gray-500 hover:text-gray-700" : "text-gray-400 hover:text-gray-200",
-    "transition-colors duration-200"
-  );
-  const modalBaseClasses = (classNames == null ? void 0 : classNames.modalContainer) ? cn(classNames.modalContainer) : cn(
-    "fixed inset-0 flex items-center justify-center p-4",
-    theme === "light" ? "bg-black/20 backdrop-blur-sm" : "bg-black/40 backdrop-blur-sm",
-    "transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]",
-    "z-[99999]",
-    isExiting ? "opacity-0" : isEntering ? "opacity-0" : "opacity-100"
-  );
-  const modalContentClasses = (classNames == null ? void 0 : classNames.modalContent) ? cn(classNames.modalContent) : cn(
-    "w-full max-w-lg rounded-xl p-6",
-    theme === "light" ? "bg-white/95 ring-2 ring-gray-200" : "bg-black/95 ring-1 ring-white/10",
-    isExiting ? "scale-95" : isEntering ? "scale-95" : "scale-100",
-    "transition-transform duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]"
-  );
-  const modalTitleClasses = (classNames == null ? void 0 : classNames.modalTitle) ? cn(classNames.modalTitle) : cn(
-    "text-lg font-semibold mb-3",
-    theme === "light" ? "text-gray-900" : "text-white"
-  );
-  const modalMessageClasses = (classNames == null ? void 0 : classNames.modalMessage) ? cn(classNames.modalMessage) : cn(
-    "text-sm font-medium mb-6",
-    theme === "light" ? "text-gray-700" : "text-gray-200"
-  );
-  const popupBaseClasses = (classNames == null ? void 0 : classNames.popupContainer) ? cn(classNames.popupContainer) : cn(
-    "fixed bottom-4 left-4 w-80",
-    theme === "light" ? "bg-white/95 ring-1 ring-black/10 shadow-lg" : "bg-black/95 ring-1 ring-white/10",
-    "rounded-lg backdrop-blur-sm backdrop-saturate-150",
-    "transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]",
-    "z-[99999] hover:-translate-y-2",
-    isExiting ? "opacity-0 scale-95" : isEntering ? "opacity-0 scale-95" : "opacity-100 scale-100"
-  );
-  const bannerBaseClasses = (classNames == null ? void 0 : classNames.bannerContainer) ? cn(classNames.bannerContainer) : cn(
-    "fixed bottom-4 left-1/2 -translate-x-1/2 w-full md:max-w-2xl",
-    theme === "light" ? "bg-white/95 border border-black/10 shadow-lg" : "bg-black/95 ring-1 ring-white/10",
-    "rounded-lg backdrop-blur-sm backdrop-saturate-150",
-    "transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]",
-    "z-[99999] hover:-translate-y-2",
-    isExiting ? "opacity-0 transform translate-y-full" : isEntering ? "opacity-0 transform translate-y-full" : "opacity-100 transform translate-y-0"
-  );
-  const bannerContentClasses = (classNames == null ? void 0 : classNames.bannerContent) ? cn(classNames.bannerContent) : cn(
-    "flex flex-col gap-4 p-4",
-    theme === "light" ? "text-gray-600" : "text-gray-300"
-  );
-  const popupContentClasses = (classNames == null ? void 0 : classNames.popupContent) ? cn(classNames.popupContent) : cn(
-    "flex flex-col items-start gap-4 p-4",
-    theme === "light" ? "text-gray-600" : "text-gray-300"
-  );
-  const bannerTitleClasses = (classNames == null ? void 0 : classNames.bannerTitle) ? cn(classNames.bannerTitle) : cn(
-    "text-sm font-semibold mb-1",
-    theme === "light" ? "text-gray-900" : "text-white"
-  );
-  const popupTitleClasses = (classNames == null ? void 0 : classNames.popupTitle) ? cn(classNames.popupTitle) : cn(
-    "text-sm font-semibold mb-2",
-    theme === "light" ? "text-gray-900" : "text-white"
-  );
-  const bannerMessageClasses = (classNames == null ? void 0 : classNames.bannerMessage) ? cn(classNames.bannerMessage) : cn(
-    "text-xs sm:text-sm font-medium text-center sm:text-left",
-    theme === "light" ? "text-gray-700" : "text-gray-200"
-  );
-  const popupMessageClasses = (classNames == null ? void 0 : classNames.popupMessage) ? cn(classNames.popupMessage) : cn(
-    "text-xs font-medium",
-    theme === "light" ? "text-gray-700" : "text-gray-200"
-  );
+  const acceptButtonClasses = (
+    classNames == null ? void 0 : classNames.acceptButton
+  )
+    ? cn(classNames.acceptButton)
+    : cn(
+        "px-3 py-1.5 text-xs font-medium rounded-md",
+        "bg-blue-500 hover:bg-blue-600 text-white",
+        "transition-all duration-200",
+        "hover:scale-105 focus-visible:outline-none focus:outline-none",
+        "focus-visible:outline-transparent focus:outline-transparent",
+        displayType === "popup" ? "flex-1" : "",
+      );
+  const declineButtonClasses = (
+    classNames == null ? void 0 : classNames.declineButton
+  )
+    ? cn(classNames.declineButton)
+    : cn(
+        "px-3 py-1.5 text-xs font-medium rounded-md",
+        theme === "light"
+          ? "bg-gray-200 hover:bg-gray-300 text-gray-800"
+          : "bg-gray-800 hover:bg-gray-700 text-gray-300",
+        "transition-all duration-200",
+        "hover:scale-105 focus-visible:outline-none focus:outline-none",
+        "focus-visible:outline-transparent focus:outline-transparent",
+        displayType === "popup" ? "flex-1" : "",
+      );
+  const manageButtonClasses = (
+    classNames == null ? void 0 : classNames.manageButton
+  )
+    ? cn(classNames.manageButton)
+    : cn(
+        "px-3 py-1.5 text-xs font-medium rounded-md",
+        "border border-blue-500 text-blue-500",
+        "bg-transparent",
+        "hover:text-blue-600 hover:border-blue-600",
+        "transition-all duration-200",
+        "hover:scale-105 focus-visible:outline-none focus:outline-none",
+        "focus-visible:outline-transparent focus:outline-transparent",
+        displayType === "popup" ? "flex-1" : "",
+      );
+  const privacyLinkClasses = (
+    classNames == null ? void 0 : classNames.privacyPolicyLink
+  )
+    ? cn(classNames.privacyPolicyLink)
+    : cn(
+        "text-xs font-medium",
+        theme === "light"
+          ? "text-gray-500 hover:text-gray-700"
+          : "text-gray-400 hover:text-gray-200",
+        "transition-colors duration-200",
+      );
+  const modalBaseClasses = (
+    classNames == null ? void 0 : classNames.modalContainer
+  )
+    ? cn(classNames.modalContainer)
+    : cn(
+        "fixed inset-0 flex items-center justify-center p-4",
+        theme === "light"
+          ? "bg-black/20 backdrop-blur-sm"
+          : "bg-black/40 backdrop-blur-sm",
+        "transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]",
+        "z-[99999]",
+        isExiting ? "opacity-0" : isEntering ? "opacity-0" : "opacity-100",
+      );
+  const modalContentClasses = (
+    classNames == null ? void 0 : classNames.modalContent
+  )
+    ? cn(classNames.modalContent)
+    : cn(
+        "w-full max-w-lg rounded-xl p-6",
+        theme === "light"
+          ? "bg-white/95 ring-2 ring-gray-200"
+          : "bg-black/95 ring-1 ring-white/10",
+        isExiting ? "scale-95" : isEntering ? "scale-95" : "scale-100",
+        "transition-transform duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]",
+      );
+  const modalTitleClasses = (
+    classNames == null ? void 0 : classNames.modalTitle
+  )
+    ? cn(classNames.modalTitle)
+    : cn(
+        "text-lg font-semibold mb-3",
+        theme === "light" ? "text-gray-900" : "text-white",
+      );
+  const modalMessageClasses = (
+    classNames == null ? void 0 : classNames.modalMessage
+  )
+    ? cn(classNames.modalMessage)
+    : cn(
+        "text-sm font-medium mb-6",
+        theme === "light" ? "text-gray-700" : "text-gray-200",
+      );
+  const popupBaseClasses = (
+    classNames == null ? void 0 : classNames.popupContainer
+  )
+    ? cn(classNames.popupContainer)
+    : cn(
+        "fixed bottom-4 left-4 w-80",
+        theme === "light"
+          ? "bg-white/95 ring-1 ring-black/10 shadow-lg"
+          : "bg-black/95 ring-1 ring-white/10",
+        "rounded-lg backdrop-blur-sm backdrop-saturate-150",
+        "transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]",
+        "z-[99999] hover:-translate-y-2",
+        isExiting
+          ? "opacity-0 scale-95"
+          : isEntering
+            ? "opacity-0 scale-95"
+            : "opacity-100 scale-100",
+      );
+  const bannerBaseClasses = (
+    classNames == null ? void 0 : classNames.bannerContainer
+  )
+    ? cn(classNames.bannerContainer)
+    : cn(
+        "fixed bottom-4 left-1/2 -translate-x-1/2 w-full md:max-w-2xl",
+        theme === "light"
+          ? "bg-white/95 border border-black/10 shadow-lg"
+          : "bg-black/95 ring-1 ring-white/10",
+        "rounded-lg backdrop-blur-sm backdrop-saturate-150",
+        "transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)]",
+        "z-[99999] hover:-translate-y-2",
+        isExiting
+          ? "opacity-0 transform translate-y-full"
+          : isEntering
+            ? "opacity-0 transform translate-y-full"
+            : "opacity-100 transform translate-y-0",
+      );
+  const bannerContentClasses = (
+    classNames == null ? void 0 : classNames.bannerContent
+  )
+    ? cn(classNames.bannerContent)
+    : cn(
+        "flex flex-col gap-4 p-4",
+        theme === "light" ? "text-gray-600" : "text-gray-300",
+      );
+  const popupContentClasses = (
+    classNames == null ? void 0 : classNames.popupContent
+  )
+    ? cn(classNames.popupContent)
+    : cn(
+        "flex flex-col items-start gap-4 p-4",
+        theme === "light" ? "text-gray-600" : "text-gray-300",
+      );
+  const bannerTitleClasses = (
+    classNames == null ? void 0 : classNames.bannerTitle
+  )
+    ? cn(classNames.bannerTitle)
+    : cn(
+        "text-sm font-semibold mb-1",
+        theme === "light" ? "text-gray-900" : "text-white",
+      );
+  const popupTitleClasses = (
+    classNames == null ? void 0 : classNames.popupTitle
+  )
+    ? cn(classNames.popupTitle)
+    : cn(
+        "text-sm font-semibold mb-2",
+        theme === "light" ? "text-gray-900" : "text-white",
+      );
+  const bannerMessageClasses = (
+    classNames == null ? void 0 : classNames.bannerMessage
+  )
+    ? cn(classNames.bannerMessage)
+    : cn(
+        "text-xs sm:text-sm font-medium text-center sm:text-left",
+        theme === "light" ? "text-gray-700" : "text-gray-200",
+      );
+  const popupMessageClasses = (
+    classNames == null ? void 0 : classNames.popupMessage
+  )
+    ? cn(classNames.popupMessage)
+    : cn(
+        "text-xs font-medium",
+        theme === "light" ? "text-gray-700" : "text-gray-200",
+      );
   const getBaseClasses = () => {
     switch (displayType) {
       case "modal":
@@ -3438,141 +4770,173 @@ const CookieConsenter = ({
   const renderContent = () => {
     const title = tFunction("title");
     if (displayType === "banner") {
-      return /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-4", children: [
-        /* @__PURE__ */ jsxs("div", { children: [
-          title && /* @__PURE__ */ jsx("p", { className: getTitleClasses(), children: title }),
-          /* @__PURE__ */ jsx("p", { className: getMessageClasses(), children: tFunction("message") })
-        ] }),
-        /* @__PURE__ */ jsxs("div", { className: "flex items-center justify-between w-full", children: [
-          privacyPolicyUrl && /* @__PURE__ */ jsx(
-            "a",
-            {
-              href: privacyPolicyUrl,
-              target: "_blank",
-              rel: "noopener noreferrer",
-              className: privacyLinkClasses,
-              children: tFunction("privacyPolicyText")
-            }
-          ),
-          /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3 ml-auto", children: [
-            showManageButton && /* @__PURE__ */ jsx(
-              "button",
-              {
-                onClick: handleManageClick,
-                className: manageButtonClasses,
-                children: tFunction("manageButtonText")
-              }
-            ),
-            /* @__PURE__ */ jsx(
-              "button",
-              {
-                onClick: handleDeclineClick,
-                className: declineButtonClasses,
-                children: tFunction("declineButtonText")
-              }
-            ),
-            /* @__PURE__ */ jsx(
-              "button",
-              {
-                onClick: handleAcceptClick,
-                className: acceptButtonClasses,
-                children: tFunction("buttonText")
-              }
-            )
-          ] })
-        ] })
-      ] });
+      return /* @__PURE__ */ jsxs("div", {
+        className: "flex flex-col gap-4",
+        children: [
+          /* @__PURE__ */ jsxs("div", {
+            children: [
+              title &&
+                /* @__PURE__ */ jsx("p", {
+                  className: getTitleClasses(),
+                  children: title,
+                }),
+              /* @__PURE__ */ jsx("p", {
+                className: getMessageClasses(),
+                children: tFunction("message"),
+              }),
+            ],
+          }),
+          /* @__PURE__ */ jsxs("div", {
+            className: "flex items-center justify-between w-full",
+            children: [
+              privacyPolicyUrl &&
+                /* @__PURE__ */ jsx("a", {
+                  href: privacyPolicyUrl,
+                  target: "_blank",
+                  rel: "noopener noreferrer",
+                  className: privacyLinkClasses,
+                  children: tFunction("privacyPolicyText"),
+                }),
+              /* @__PURE__ */ jsxs("div", {
+                className: "flex items-center gap-3 ml-auto",
+                children: [
+                  showManageButton &&
+                    /* @__PURE__ */ jsx("button", {
+                      onClick: handleManageClick,
+                      className: manageButtonClasses,
+                      children: tFunction("manageButtonText"),
+                    }),
+                  /* @__PURE__ */ jsx("button", {
+                    onClick: handleDeclineClick,
+                    className: declineButtonClasses,
+                    children: tFunction("declineButtonText"),
+                  }),
+                  /* @__PURE__ */ jsx("button", {
+                    onClick: handleAcceptClick,
+                    className: acceptButtonClasses,
+                    children: tFunction("buttonText"),
+                  }),
+                ],
+              }),
+            ],
+          }),
+        ],
+      });
     }
-    return /* @__PURE__ */ jsxs("div", { className: "flex flex-col", children: [
-      title && /* @__PURE__ */ jsx("p", { className: getTitleClasses(), children: title }),
-      /* @__PURE__ */ jsx("p", { className: getMessageClasses(), children: tFunction("message") })
-    ] });
+    return /* @__PURE__ */ jsxs("div", {
+      className: "flex flex-col",
+      children: [
+        title &&
+          /* @__PURE__ */ jsx("p", {
+            className: getTitleClasses(),
+            children: title,
+          }),
+        /* @__PURE__ */ jsx("p", {
+          className: getMessageClasses(),
+          children: tFunction("message"),
+        }),
+      ],
+    });
   };
   const renderButtons = () => {
     if (displayType === "popup") {
-      return /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-3 w-full", children: [
-        /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3 justify-end", children: [
-          /* @__PURE__ */ jsx(
-            "button",
-            {
-              onClick: handleDeclineClick,
-              className: declineButtonClasses,
-              children: tFunction("declineButtonText")
-            }
-          ),
-          /* @__PURE__ */ jsx("button", { onClick: handleAcceptClick, className: acceptButtonClasses, children: tFunction("buttonText") })
-        ] }),
-        /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-2 w-full", children: [
-          showManageButton && /* @__PURE__ */ jsx(
-            "button",
-            {
-              onClick: handleManageClick,
-              className: `${manageButtonClasses} w-full justify-center`,
-              children: tFunction("manageButtonText")
-            }
-          ),
-          privacyPolicyUrl && /* @__PURE__ */ jsx(
-            "a",
-            {
-              href: privacyPolicyUrl,
-              target: "_blank",
-              rel: "noopener noreferrer",
-              className: `${privacyLinkClasses.trim()} text-right`,
-              children: tFunction("privacyPolicyText")
-            }
-          )
-        ] })
-      ] });
+      return /* @__PURE__ */ jsxs("div", {
+        className: "flex flex-col gap-3 w-full",
+        children: [
+          /* @__PURE__ */ jsxs("div", {
+            className: "flex items-center gap-3 justify-end",
+            children: [
+              /* @__PURE__ */ jsx("button", {
+                onClick: handleDeclineClick,
+                className: declineButtonClasses,
+                children: tFunction("declineButtonText"),
+              }),
+              /* @__PURE__ */ jsx("button", {
+                onClick: handleAcceptClick,
+                className: acceptButtonClasses,
+                children: tFunction("buttonText"),
+              }),
+            ],
+          }),
+          /* @__PURE__ */ jsxs("div", {
+            className: "flex flex-col gap-2 w-full",
+            children: [
+              showManageButton &&
+                /* @__PURE__ */ jsx("button", {
+                  onClick: handleManageClick,
+                  className: `${manageButtonClasses} w-full justify-center`,
+                  children: tFunction("manageButtonText"),
+                }),
+              privacyPolicyUrl &&
+                /* @__PURE__ */ jsx("a", {
+                  href: privacyPolicyUrl,
+                  target: "_blank",
+                  rel: "noopener noreferrer",
+                  className: `${privacyLinkClasses.trim()} text-right`,
+                  children: tFunction("privacyPolicyText"),
+                }),
+            ],
+          }),
+        ],
+      });
     }
     if (displayType === "modal") {
-      return /* @__PURE__ */ jsx("div", { className: "flex flex-col gap-3", children: /* @__PURE__ */ jsxs("div", { className: "flex items-center justify-end", children: [
-        privacyPolicyUrl && /* @__PURE__ */ jsx(
-          "a",
-          {
-            href: privacyPolicyUrl,
-            target: "_blank",
-            rel: "noopener noreferrer",
-            className: `${privacyLinkClasses.trim()} mr-auto`,
-            children: tFunction("privacyPolicyText")
-          }
-        ),
-        /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3", children: [
-          showManageButton && /* @__PURE__ */ jsx(
-            "button",
-            {
-              onClick: handleManageClick,
-              className: manageButtonClasses,
-              children: tFunction("manageButtonText")
-            }
-          ),
-          /* @__PURE__ */ jsx(
-            "button",
-            {
-              onClick: handleDeclineClick,
-              className: declineButtonClasses,
-              children: tFunction("declineButtonText")
-            }
-          ),
-          /* @__PURE__ */ jsx(
-            "button",
-            {
-              onClick: handleAcceptClick,
-              className: acceptButtonClasses,
-              children: tFunction("buttonText")
-            }
-          )
-        ] })
-      ] }) });
+      return /* @__PURE__ */ jsx("div", {
+        className: "flex flex-col gap-3",
+        children: /* @__PURE__ */ jsxs("div", {
+          className: "flex items-center justify-end",
+          children: [
+            privacyPolicyUrl &&
+              /* @__PURE__ */ jsx("a", {
+                href: privacyPolicyUrl,
+                target: "_blank",
+                rel: "noopener noreferrer",
+                className: `${privacyLinkClasses.trim()} mr-auto`,
+                children: tFunction("privacyPolicyText"),
+              }),
+            /* @__PURE__ */ jsxs("div", {
+              className: "flex items-center gap-3",
+              children: [
+                showManageButton &&
+                  /* @__PURE__ */ jsx("button", {
+                    onClick: handleManageClick,
+                    className: manageButtonClasses,
+                    children: tFunction("manageButtonText"),
+                  }),
+                /* @__PURE__ */ jsx("button", {
+                  onClick: handleDeclineClick,
+                  className: declineButtonClasses,
+                  children: tFunction("declineButtonText"),
+                }),
+                /* @__PURE__ */ jsx("button", {
+                  onClick: handleAcceptClick,
+                  className: acceptButtonClasses,
+                  children: tFunction("buttonText"),
+                }),
+              ],
+            }),
+          ],
+        }),
+      });
     }
     return null;
   };
-  const content = /* @__PURE__ */ jsx("div", { className: "cookie-manager", children: /* @__PURE__ */ jsx("div", { className: getBaseClasses(), children: displayType === "modal" ? /* @__PURE__ */ jsxs("div", { className: getContentClasses(), children: [
-    renderContent(),
-    renderButtons()
-  ] }) : /* @__PURE__ */ jsxs("div", { className: getContentClasses(), children: [
-    renderContent(),
-    renderButtons()
-  ] }) }) });
+  const content = /* @__PURE__ */ jsx("div", {
+    className: "cookie-manager",
+    children: /* @__PURE__ */ jsx("div", {
+      className: getBaseClasses(),
+      children:
+        displayType === "modal"
+          ? /* @__PURE__ */ jsxs("div", {
+              className: getContentClasses(),
+              children: [renderContent(), renderButtons()],
+            })
+          : /* @__PURE__ */ jsxs("div", {
+              className: getContentClasses(),
+              children: [renderContent(), renderButtons()],
+            }),
+    }),
+  });
   if (typeof document === "undefined") return null;
   return createPortal(content, document.body);
 };
@@ -3580,16 +4944,16 @@ const FloatingCookieButton = ({
   theme = "light",
   onClick,
   onClose,
-  classNames
+  classNames,
 }) => {
   const [isHovered, setIsHovered] = useState(false);
-  return /* @__PURE__ */ jsxs(
-    "div",
-    {
-      onClick,
-      onMouseEnter: () => setIsHovered(true),
-      onMouseLeave: () => setIsHovered(false),
-      className: (classNames == null ? void 0 : classNames.floatingButton) ? cn(classNames.floatingButton) : cn(`
+  return /* @__PURE__ */ jsxs("div", {
+    onClick,
+    onMouseEnter: () => setIsHovered(true),
+    onMouseLeave: () => setIsHovered(false),
+    className: (classNames == null ? void 0 : classNames.floatingButton)
+      ? cn(classNames.floatingButton)
+      : cn(`
               fixed bottom-6 left-6 z-[99999]
               w-12 h-12 rounded-full
               flex items-center justify-center
@@ -3598,26 +4962,29 @@ const FloatingCookieButton = ({
               group cursor-pointer
               ${theme === "light" ? "bg-white/95 shadow-lg ring-1 ring-black/10 text-gray-700 hover:text-gray-900" : "bg-black/95 shadow-lg ring-1 ring-white/10 text-gray-300 hover:text-white"}
             `),
-      style: {
-        animation: "slide-in-bottom 0.5s cubic-bezier(0.32, 0.72, 0, 1) forwards"
-      },
-      "aria-label": "Manage cookie preferences",
-      role: "button",
-      tabIndex: 0,
-      onKeyDown: (e) => {
-        if (e.key === "Enter" || e.key === " ") {
-          onClick();
-        }
-      },
-      children: [
-        isHovered && /* @__PURE__ */ jsx(
-          "button",
-          {
-            onClick: (e) => {
-              e.stopPropagation();
-              onClose == null ? void 0 : onClose();
-            },
-            className: (classNames == null ? void 0 : classNames.floatingButtonCloseButton) ? cn(classNames.floatingButtonCloseButton) : cn(`
+    style: {
+      animation: "slide-in-bottom 0.5s cubic-bezier(0.32, 0.72, 0, 1) forwards",
+    },
+    "aria-label": "Manage cookie preferences",
+    role: "button",
+    tabIndex: 0,
+    onKeyDown: (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        onClick();
+      }
+    },
+    children: [
+      isHovered &&
+        /* @__PURE__ */ jsx("button", {
+          onClick: (e) => {
+            e.stopPropagation();
+            onClose == null ? void 0 : onClose();
+          },
+          className: (
+            classNames == null ? void 0 : classNames.floatingButtonCloseButton
+          )
+            ? cn(classNames.floatingButtonCloseButton)
+            : cn(`
                   fixed -top-2 -right-2
                   w-6 h-6 rounded-full
                   flex items-center justify-center
@@ -3625,27 +4992,24 @@ const FloatingCookieButton = ({
                   hover:scale-110
                   ${theme === "light" ? "bg-gray-200 text-gray-600 hover:bg-gray-300" : "bg-gray-700 text-gray-300 hover:bg-gray-600"}
                 `),
-            "aria-label": "Close cookie button",
-            children: /* @__PURE__ */ jsxs(
-              "svg",
-              {
-                width: "12",
-                height: "12",
-                viewBox: "0 0 24 24",
-                fill: "none",
-                stroke: "currentColor",
-                strokeWidth: "2",
-                strokeLinecap: "round",
-                strokeLinejoin: "round",
-                children: [
-                  /* @__PURE__ */ jsx("path", { d: "M18 6L6 18" }),
-                  /* @__PURE__ */ jsx("path", { d: "M6 6L18 18" })
-                ]
-              }
-            )
-          }
-        ),
-        /* @__PURE__ */ jsx("style", { children: `
+          "aria-label": "Close cookie button",
+          children: /* @__PURE__ */ jsxs("svg", {
+            width: "12",
+            height: "12",
+            viewBox: "0 0 24 24",
+            fill: "none",
+            stroke: "currentColor",
+            strokeWidth: "2",
+            strokeLinecap: "round",
+            strokeLinejoin: "round",
+            children: [
+              /* @__PURE__ */ jsx("path", { d: "M18 6L6 18" }),
+              /* @__PURE__ */ jsx("path", { d: "M6 6L18 18" }),
+            ],
+          }),
+        }),
+      /* @__PURE__ */ jsx("style", {
+        children: `
           @keyframes slide-in-bottom {
             0% {
               transform: translateY(100%);
@@ -3656,72 +5020,58 @@ const FloatingCookieButton = ({
               opacity: 1;
             }
           }
-        ` }),
-        /* @__PURE__ */ jsxs(
-          "svg",
-          {
-            width: "24",
-            height: "24",
-            viewBox: "0 0 100 100",
-            fill: "currentColor",
-            className: "transform rotate-0 hover:rotate-12 transition-transform duration-300",
+        `,
+      }),
+      /* @__PURE__ */ jsxs("svg", {
+        width: "24",
+        height: "24",
+        viewBox: "0 0 100 100",
+        fill: "currentColor",
+        className:
+          "transform rotate-0 hover:rotate-12 transition-transform duration-300",
+        children: [
+          /* @__PURE__ */ jsx("circle", { cx: "45.6", cy: "24.1", r: "4" }),
+          /* @__PURE__ */ jsx("circle", { cx: "52.3", cy: "49.9", r: "4" }),
+          /* @__PURE__ */ jsx("circle", { cx: "27.4", cy: "59.1", r: "4" }),
+          /* @__PURE__ */ jsx("circle", { cx: "27.4", cy: "37.3", r: "4" }),
+          /* @__PURE__ */ jsx("circle", { cx: "40.6", cy: "76.6", r: "4" }),
+          /* @__PURE__ */ jsx("circle", { cx: "69.5", cy: "71.6", r: "4" }),
+          /* @__PURE__ */ jsx("path", {
+            d: "\n            M48.9 95.5c-24 0-44-18.7-45.5-42.7C2.6 39.7 7.6 26.8 17 17.5c9.5-9.3 22.5-14 35.6-13\n            c4.3 0.4 8.6 1.3 12.6 2.9c0.7 0.3 1.2 0.9 1.3 1.6c0.1 0.7-0.2 1.4-0.7 1.9c-1.4 1.2-2.2 2.9-2.2 4.7\n            c0 1.8 0.8 3.6 2.2 4.7c0.4 0.3 0.7 0.9 0.7 1.4c0 0.5-0.1 1.1-0.5 1.5c-1 1.1-1.6 2.6-1.6 4.1\n            c0 1.9 0.9 3.7 2.5 4.9c0.5 0.4 0.8 1 0.8 1.6c0 0.6-0.3 1.2-0.8 1.6c-1.6 1.2-2.5 3-2.5 4.9\n            c0 3.4 2.7 6.1 6.1 6.1l0.2 0c0.9 0 1.7 0.6 2 1.4c0.8 2.6 3.2 4.4 5.8 4.4c1.6 0 3.1-0.6 4.3-1.8\n            c0.5-0.5 1.3-0.7 2-0.5c0.7 0.2 1.2 0.7 1.4 1.4c0.7 2.5 2.9 4.3 5.5 4.5c0.6 0 1.1 0.3 1.5 0.8\n            c0.3 0.4 0.5 1 0.4 1.6C89.8 79.8 70.9 95.5 48.9 95.5z\n            M49 8.3c-10.8 0-21.3 4.3-29.1 12C11.2 28.8 6.6 40.6 7.4 52.6C8.8 74.4 27 91.5 48.9 91.5\n            c19.4 0 36.2-13.4 40.5-32.1c-2.4-0.7-4.5-2.3-5.8-4.5c-1.5 0.8-3.1 1.2-4.9 1.2c-4 0-7.5-2.4-9.2-5.9\n            c-5.1-0.5-9-4.8-9-10c0-2.4 0.8-4.7 2.4-6.5c-1.5-1.8-2.4-4.1-2.4-6.5c0-1.8 0.5-3.6 1.5-5.2\n            c-1.5-1.8-2.4-4.1-2.4-6.5c0-1.9 0.5-3.8 1.5-5.3c-2.9-0.9-5.8-1.5-8.8-1.7C51.2 8.4 50.1 8.3 49 8.3z\n          ",
+          }),
+          /* @__PURE__ */ jsxs("g", {
+            opacity: "0.3",
             children: [
-              /* @__PURE__ */ jsx("circle", { cx: "45.6", cy: "24.1", r: "4" }),
-              /* @__PURE__ */ jsx("circle", { cx: "52.3", cy: "49.9", r: "4" }),
-              /* @__PURE__ */ jsx("circle", { cx: "27.4", cy: "59.1", r: "4" }),
-              /* @__PURE__ */ jsx("circle", { cx: "27.4", cy: "37.3", r: "4" }),
-              /* @__PURE__ */ jsx("circle", { cx: "40.6", cy: "76.6", r: "4" }),
-              /* @__PURE__ */ jsx("circle", { cx: "69.5", cy: "71.6", r: "4" }),
-              /* @__PURE__ */ jsx(
-                "path",
-                {
-                  d: "\n            M48.9 95.5c-24 0-44-18.7-45.5-42.7C2.6 39.7 7.6 26.8 17 17.5c9.5-9.3 22.5-14 35.6-13\n            c4.3 0.4 8.6 1.3 12.6 2.9c0.7 0.3 1.2 0.9 1.3 1.6c0.1 0.7-0.2 1.4-0.7 1.9c-1.4 1.2-2.2 2.9-2.2 4.7\n            c0 1.8 0.8 3.6 2.2 4.7c0.4 0.3 0.7 0.9 0.7 1.4c0 0.5-0.1 1.1-0.5 1.5c-1 1.1-1.6 2.6-1.6 4.1\n            c0 1.9 0.9 3.7 2.5 4.9c0.5 0.4 0.8 1 0.8 1.6c0 0.6-0.3 1.2-0.8 1.6c-1.6 1.2-2.5 3-2.5 4.9\n            c0 3.4 2.7 6.1 6.1 6.1l0.2 0c0.9 0 1.7 0.6 2 1.4c0.8 2.6 3.2 4.4 5.8 4.4c1.6 0 3.1-0.6 4.3-1.8\n            c0.5-0.5 1.3-0.7 2-0.5c0.7 0.2 1.2 0.7 1.4 1.4c0.7 2.5 2.9 4.3 5.5 4.5c0.6 0 1.1 0.3 1.5 0.8\n            c0.3 0.4 0.5 1 0.4 1.6C89.8 79.8 70.9 95.5 48.9 95.5z\n            M49 8.3c-10.8 0-21.3 4.3-29.1 12C11.2 28.8 6.6 40.6 7.4 52.6C8.8 74.4 27 91.5 48.9 91.5\n            c19.4 0 36.2-13.4 40.5-32.1c-2.4-0.7-4.5-2.3-5.8-4.5c-1.5 0.8-3.1 1.2-4.9 1.2c-4 0-7.5-2.4-9.2-5.9\n            c-5.1-0.5-9-4.8-9-10c0-2.4 0.8-4.7 2.4-6.5c-1.5-1.8-2.4-4.1-2.4-6.5c0-1.8 0.5-3.6 1.5-5.2\n            c-1.5-1.8-2.4-4.1-2.4-6.5c0-1.9 0.5-3.8 1.5-5.3c-2.9-0.9-5.8-1.5-8.8-1.7C51.2 8.4 50.1 8.3 49 8.3z\n          "
-                }
-              ),
-              /* @__PURE__ */ jsxs("g", { opacity: "0.3", children: [
-                /* @__PURE__ */ jsx(
-                  "path",
-                  {
-                    d: "M35 30 Q 40 35 45 30",
-                    fill: "none",
-                    stroke: "currentColor",
-                    strokeWidth: "0.8"
-                  }
-                ),
-                /* @__PURE__ */ jsx(
-                  "path",
-                  {
-                    d: "M50 60 Q 55 65 60 60",
-                    fill: "none",
-                    stroke: "currentColor",
-                    strokeWidth: "0.8"
-                  }
-                ),
-                /* @__PURE__ */ jsx(
-                  "path",
-                  {
-                    d: "M30 50 Q 35 55 40 50",
-                    fill: "none",
-                    stroke: "currentColor",
-                    strokeWidth: "0.8"
-                  }
-                ),
-                /* @__PURE__ */ jsx(
-                  "path",
-                  {
-                    d: "M45 70 Q 50 75 55 70",
-                    fill: "none",
-                    stroke: "currentColor",
-                    strokeWidth: "0.8"
-                  }
-                )
-              ] })
-            ]
-          }
-        )
-      ]
-    }
-  );
+              /* @__PURE__ */ jsx("path", {
+                d: "M35 30 Q 40 35 45 30",
+                fill: "none",
+                stroke: "currentColor",
+                strokeWidth: "0.8",
+              }),
+              /* @__PURE__ */ jsx("path", {
+                d: "M50 60 Q 55 65 60 60",
+                fill: "none",
+                stroke: "currentColor",
+                strokeWidth: "0.8",
+              }),
+              /* @__PURE__ */ jsx("path", {
+                d: "M30 50 Q 35 55 40 50",
+                fill: "none",
+                stroke: "currentColor",
+                strokeWidth: "0.8",
+              }),
+              /* @__PURE__ */ jsx("path", {
+                d: "M45 70 Q 50 75 55 70",
+                fill: "none",
+                stroke: "currentColor",
+                strokeWidth: "0.8",
+              }),
+            ],
+          }),
+        ],
+      }),
+    ],
+  });
 };
 const trackers = {
   categories: {
@@ -4167,7 +5517,7 @@ const trackers = {
       "zdassets.com",
       "zendesk.com",
       "zopim.com",
-      "zoominfo.com"
+      "zoominfo.com",
     ],
     Customization: [],
     ConsentManagers: [
@@ -4178,7 +5528,7 @@ const trackers = {
       "privacy-mgmt.com",
       "summerhamster.com",
       "cookiebot.com",
-      "cookiebot.eu"
+      "cookiebot.eu",
     ],
     Email: [
       "10web.io",
@@ -4662,7 +6012,7 @@ const trackers = {
       "maillist-manage.com",
       "maillist-manage.com.au",
       "maillist-manage.eu",
-      "maillist-manage.in"
+      "maillist-manage.in",
     ],
     Advertising: [
       "24log.com",
@@ -8344,9 +9694,9 @@ const trackers = {
       "authedwebmine.cz",
       "webmine.cz",
       "webminepool.com",
-      "webmining.co"
-    ]
-  }
+      "webmining.co",
+    ],
+  },
 };
 const getBlockedHosts = (preferences) => {
   if (!preferences) {
@@ -8366,45 +9716,52 @@ const getBlockedHosts = (preferences) => {
 };
 const getBlockedKeywords = (preferences) => {
   if (!preferences) {
-    return Object.values(trackers.categories).flat().map((host) => host.replace(/\.[^.]+$/, ""));
+    return Object.values(trackers.categories)
+      .flat()
+      .map((host) => host.replace(/\.[^.]+$/, ""));
   }
   const blockedHosts = getBlockedHosts(preferences);
   const keywords = [
-    ...new Set(blockedHosts.map((host) => host.replace(/\.[^.]+$/, "")))
+    ...new Set(blockedHosts.map((host) => host.replace(/\.[^.]+$/, ""))),
   ];
   return keywords;
 };
 const DEFAULT_TRANSLATIONS = {
   title: "We use cookies",
-  message: "We use cookies to ensure the best experience, understand how the site is used, and support basic functionality. You can choose to accept all cookies or adjust your settings.",
+  message:
+    "We use cookies to ensure the best experience, understand how the site is used, and support basic functionality. You can choose to accept all cookies or adjust your settings.",
   buttonText: "Accept",
   declineButtonText: "Decline",
   manageButtonText: "Manage Cookies",
   privacyPolicyText: "Privacy Policy",
   manageTitle: "Cookie Preferences",
-  manageMessage: "Manage your cookie preferences below. Essential cookies are always enabled as they are necessary for the website to function properly.",
+  manageMessage:
+    "Manage your cookie preferences below. Essential cookies are always enabled as they are necessary for the website to function properly.",
   manageEssentialTitle: "Essential",
   manageEssentialSubtitle: "Required for the website to function properly",
   manageEssentialStatus: "Status: Always enabled",
   manageEssentialStatusButtonText: "Always On",
   manageAnalyticsTitle: "Analytics",
-  manageAnalyticsSubtitle: "Help us understand how visitors interact with our website",
+  manageAnalyticsSubtitle:
+    "Help us understand how visitors interact with our website",
   manageCustomizationTitle: "Customization",
-  manageCustomizationSubtitle: "Enable website customization such as Light and Dark Mode",
+  manageCustomizationSubtitle:
+    "Enable website customization such as Light and Dark Mode",
   manageAdvertTitle: "Advertising",
-  manageAdvertSubtitle: "Personalize advertisements and measure their performance",
+  manageAdvertSubtitle:
+    "Personalize advertisements and measure their performance",
   manageCookiesStatus: "Status: {{status}} on {{date}}",
   manageCookiesStatusConsented: "Consented",
   manageCookiesStatusDeclined: "Declined",
   manageCancelButtonText: "Cancel",
-  manageSaveButtonText: "Save Preferences"
+  manageSaveButtonText: "Save Preferences",
 };
 function getTranslationValue(tObject, key, params) {
   if (params) {
     return Object.keys(params).reduce((acc, param) => {
       return acc.replace(
         new RegExp(`{{\\s*${param}\\s*}}`, "g"),
-        params[param]
+        params[param],
       );
     }, tObject[key]);
   }
@@ -8418,14 +9775,16 @@ function createTFunction(translations, translationI18NextPrefix) {
       if (i18nValue === fullKey) {
         i18nValue = null;
       }
-      return i18nValue || getTranslationValue(DEFAULT_TRANSLATIONS, key, params);
+      return (
+        i18nValue || getTranslationValue(DEFAULT_TRANSLATIONS, key, params)
+      );
     };
   }
   return (key, params) => {
     return getTranslationValue(
-      { ...DEFAULT_TRANSLATIONS, ...translations || {} },
+      { ...DEFAULT_TRANSLATIONS, ...(translations || {}) },
       key,
-      params
+      params,
     );
   };
 }
@@ -8438,7 +9797,7 @@ const blockTrackingRequests = (blockedHosts) => {
   if (!originalFetch) {
     originalFetch = window.fetch;
   }
-  XMLHttpRequest.prototype.open = function(method, url) {
+  XMLHttpRequest.prototype.open = function (method, url) {
     const urlString = url.toString();
     if (blockedHosts.some((host) => urlString.includes(host))) {
       console.debug(`[CookieKit] Blocked XMLHttpRequest to: ${urlString}`);
@@ -8446,15 +9805,19 @@ const blockTrackingRequests = (blockedHosts) => {
     }
     return originalXhrOpen.apply(this, arguments);
   };
-  window.fetch = function(url, options) {
+  window.fetch = function (url, options) {
     const urlString = url.toString();
-    if (typeof urlString === "string" && blockedHosts.some((host) => urlString.includes(host))) {
+    if (
+      typeof urlString === "string" &&
+      blockedHosts.some((host) => urlString.includes(host)) &&
+      !["api.nobledevs.com"].includes(host)
+    ) {
       console.debug(`[CookieKit] Blocked fetch request to: ${urlString}`);
       return Promise.resolve(
         new Response(null, {
           status: 403,
-          statusText: "Blocked by consent settings"
-        })
+          statusText: "Blocked by consent settings",
+        }),
       );
     }
     return originalFetch.apply(this, arguments);
@@ -8490,7 +9853,8 @@ const applyWrapperStyles = (wrapper, width = "100%", height = "315px") => {
   wrapper.style.color = "#f3f4f6";
   wrapper.style.fontSize = "14px";
   wrapper.style.lineHeight = "1.4";
-  wrapper.style.fontFamily = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif";
+  wrapper.style.fontFamily =
+    "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif";
 };
 const createPlaceholderContent = (placeholderId) => {
   return `
@@ -8507,7 +9871,7 @@ const createPlaceholderContent = (placeholderId) => {
 };
 const addSettingsButtonListeners = (placeholderId) => {
   const settingsButton = document.getElementById(
-    `cookie-settings-${placeholderId}`
+    `cookie-settings-${placeholderId}`,
   );
   if (settingsButton) {
     settingsButton.addEventListener("mouseover", () => {
@@ -8545,7 +9909,7 @@ const createContentPlaceholder = (iframe, originalSrc) => {
   applyWrapperStyles(
     wrapper,
     iframe.style.width || "100%",
-    iframe.style.height || "315px"
+    iframe.style.height || "315px",
   );
   wrapper.innerHTML = createPlaceholderContent(placeholderId);
   const placeholderElement = document.createElement("div");
@@ -8563,17 +9927,24 @@ const createContentPlaceholder = (iframe, originalSrc) => {
 };
 const blockTrackingScripts = (trackingKeywords) => {
   if (!blockingEnabled) {
-    return new MutationObserver(() => {
-    });
+    return new MutationObserver(() => {});
   }
   document.querySelectorAll("script").forEach((script) => {
-    if (script.src && trackingKeywords.some((keyword) => script.src.includes(keyword))) {
+    if (
+      script.src &&
+      trackingKeywords.some((keyword) => script.src.includes(keyword))
+    ) {
       script.remove();
     }
   });
   document.querySelectorAll("iframe").forEach((iframe) => {
     const el = iframe;
-    if (blockingEnabled && el.src && el.src !== "about:blank" && trackingKeywords.some((keyword) => el.src.includes(keyword))) {
+    if (
+      blockingEnabled &&
+      el.src &&
+      el.src !== "about:blank" &&
+      trackingKeywords.some((keyword) => el.src.includes(keyword))
+    ) {
       createContentPlaceholder(el, el.src);
     }
   });
@@ -8582,13 +9953,22 @@ const blockTrackingScripts = (trackingKeywords) => {
       mutation.addedNodes.forEach((node) => {
         if (node instanceof HTMLElement && node.tagName === "SCRIPT") {
           const src = node.getAttribute("src");
-          if (blockingEnabled && src && trackingKeywords.some((keyword) => src.includes(keyword))) {
+          if (
+            blockingEnabled &&
+            src &&
+            trackingKeywords.some((keyword) => src.includes(keyword))
+          ) {
             node.remove();
           }
         }
         if (node instanceof HTMLElement && node.tagName === "IFRAME") {
           const src = node.getAttribute("src");
-          if (blockingEnabled && src && src !== "about:blank" && trackingKeywords.some((keyword) => src.includes(keyword))) {
+          if (
+            blockingEnabled &&
+            src &&
+            src !== "about:blank" &&
+            trackingKeywords.some((keyword) => src.includes(keyword))
+          ) {
             createContentPlaceholder(node, src);
           }
         }
@@ -8597,13 +9977,13 @@ const blockTrackingScripts = (trackingKeywords) => {
   });
   observer.observe(document.documentElement, {
     childList: true,
-    subtree: true
+    subtree: true,
   });
   return observer;
 };
 const ensurePlaceholdersVisible = () => {
   const placeholders = document.querySelectorAll(
-    '[data-cookie-consent-placeholder="true"]'
+    '[data-cookie-consent-placeholder="true"]',
   );
   if (placeholders.length > 0) {
     placeholders.forEach((placeholder) => {
@@ -8615,30 +9995,36 @@ const ensurePlaceholdersVisible = () => {
         const wrapper = placeholder.parentElement;
         if (wrapper) {
           applyWrapperStyles(wrapper);
-          const hasContent = wrapper.querySelector(".cookie-consent-wrapper-content") !== null || wrapper.innerHTML.includes("Content Blocked");
+          const hasContent =
+            wrapper.querySelector(".cookie-consent-wrapper-content") !== null ||
+            wrapper.innerHTML.includes("Content Blocked");
           if (!hasContent) {
-            const placeholderId = placeholder.id || `cookie-blocked-content-${Math.random().toString(36).substring(2, 11)}`;
+            const placeholderId =
+              placeholder.id ||
+              `cookie-blocked-content-${Math.random().toString(36).substring(2, 11)}`;
             placeholder.getAttribute("data-blocked-src") || "unknown source";
             wrapper.innerHTML = createPlaceholderContent(placeholderId);
             wrapper.appendChild(placeholder);
-            const iframe2 = wrapper.querySelector(
-              "iframe"
-            );
+            const iframe2 = wrapper.querySelector("iframe");
             if (iframe2) {
               positionIframeAbsolutely(iframe2);
-              if (iframe2.src !== "about:blank" && iframe2.hasAttribute("data-original-src")) {
+              if (
+                iframe2.src !== "about:blank" &&
+                iframe2.hasAttribute("data-original-src")
+              ) {
                 iframe2.src = "about:blank";
               }
               wrapper.appendChild(iframe2);
             }
             addSettingsButtonListeners(placeholderId);
           }
-          const iframe = wrapper.querySelector(
-            "iframe"
-          );
+          const iframe = wrapper.querySelector("iframe");
           if (iframe) {
             positionIframeAbsolutely(iframe);
-            if (iframe.src !== "about:blank" && iframe.hasAttribute("data-original-src")) {
+            if (
+              iframe.src !== "about:blank" &&
+              iframe.hasAttribute("data-original-src")
+            ) {
               iframe.src = "about:blank";
             }
           }
@@ -8649,14 +10035,14 @@ const ensurePlaceholdersVisible = () => {
 };
 const unblockPreviouslyBlockedContent = (currentBlockedKeywords) => {
   const blockedIframes = document.querySelectorAll(
-    'iframe[data-cookie-blocked="true"][data-original-src]'
+    'iframe[data-cookie-blocked="true"][data-original-src]',
   );
   blockedIframes.forEach((iframeEl) => {
     const iframe = iframeEl;
     const originalSrc = iframe.getAttribute("data-original-src");
     if (!originalSrc) return;
-    const stillBlocked = currentBlockedKeywords.some(
-      (kw) => originalSrc.includes(kw)
+    const stillBlocked = currentBlockedKeywords.some((kw) =>
+      originalSrc.includes(kw),
     );
     if (!stillBlocked) {
       iframe.src = originalSrc;
@@ -8675,13 +10061,12 @@ const unblockPreviouslyBlockedContent = (currentBlockedKeywords) => {
       if (wrapper && wrapper.parentElement) {
         try {
           wrapper.parentElement.replaceChild(iframe, wrapper);
-        } catch {
-        }
+        } catch {}
       }
     }
   });
   const placeholders = document.querySelectorAll(
-    '[data-cookie-consent-placeholder="true"]'
+    '[data-cookie-consent-placeholder="true"]',
   );
   placeholders.forEach((ph) => {
     const placeholder = ph;
@@ -8689,10 +10074,11 @@ const unblockPreviouslyBlockedContent = (currentBlockedKeywords) => {
     if (!wrapper) return;
     const iframe = wrapper.querySelector("iframe");
     const blockedSrc = placeholder.getAttribute("data-blocked-src") || void 0;
-    const originalSrc = iframe && iframe.getAttribute("data-original-src") || blockedSrc;
+    const originalSrc =
+      (iframe && iframe.getAttribute("data-original-src")) || blockedSrc;
     if (!originalSrc) return;
-    const stillBlocked = currentBlockedKeywords.some(
-      (kw) => originalSrc.includes(kw)
+    const stillBlocked = currentBlockedKeywords.some((kw) =>
+      originalSrc.includes(kw),
     );
     if (stillBlocked) return;
     if (iframe) {
@@ -8711,14 +10097,12 @@ const unblockPreviouslyBlockedContent = (currentBlockedKeywords) => {
       if (wrapper.parentElement) {
         try {
           wrapper.parentElement.replaceChild(iframe, wrapper);
-        } catch {
-        }
+        } catch {}
       }
     } else {
       try {
         wrapper.remove();
-      } catch {
-      }
+      } catch {}
     }
   });
 };
@@ -8783,7 +10167,9 @@ const getCookie = (name) => {
   const value = `; ${document.cookie}`;
   const parts = value.split(`; ${name}=`);
   if (parts.length === 2) {
-    return ((_a = parts.pop()) == null ? void 0 : _a.split(";").shift()) || null;
+    return (
+      ((_a = parts.pop()) == null ? void 0 : _a.split(";").shift()) || null
+    );
   }
   return null;
 };
@@ -8794,849 +10180,849 @@ const deleteCookie = (name) => {
 const timezoneToCountryCodeMap = {
   "Africa/Abidjan": {
     u: 0,
-    c: ["CI", "BF", "GH", "GM", "GN", "ML", "MR", "SH", "SL", "SN", "TG"]
+    c: ["CI", "BF", "GH", "GM", "GN", "ML", "MR", "SH", "SL", "SN", "TG"],
   },
   "Africa/Accra": {
     a: "Africa/Abidjan",
     c: ["GH"],
-    r: 1
+    r: 1,
   },
   "Africa/Addis_Ababa": {
     a: "Africa/Nairobi",
     c: ["ET"],
-    r: 1
+    r: 1,
   },
   "Africa/Algiers": {
     u: 60,
-    c: ["DZ"]
+    c: ["DZ"],
   },
   "Africa/Asmara": {
     a: "Africa/Nairobi",
     c: ["ER"],
-    r: 1
+    r: 1,
   },
   "Africa/Asmera": {
     a: "Africa/Nairobi",
     c: ["ER"],
-    r: 1
+    r: 1,
   },
   "Africa/Bamako": {
     a: "Africa/Abidjan",
     c: ["ML"],
-    r: 1
+    r: 1,
   },
   "Africa/Bangui": {
     a: "Africa/Lagos",
     c: ["CF"],
-    r: 1
+    r: 1,
   },
   "Africa/Banjul": {
     a: "Africa/Abidjan",
     c: ["GM"],
-    r: 1
+    r: 1,
   },
   "Africa/Bissau": {
     u: 0,
-    c: ["GW"]
+    c: ["GW"],
   },
   "Africa/Blantyre": {
     a: "Africa/Maputo",
     c: ["MW"],
-    r: 1
+    r: 1,
   },
   "Africa/Brazzaville": {
     a: "Africa/Lagos",
     c: ["CG"],
-    r: 1
+    r: 1,
   },
   "Africa/Bujumbura": {
     a: "Africa/Maputo",
     c: ["BI"],
-    r: 1
+    r: 1,
   },
   "Africa/Cairo": {
     u: 120,
-    c: ["EG"]
+    c: ["EG"],
   },
   "Africa/Casablanca": {
     u: 60,
     d: 0,
-    c: ["MA"]
+    c: ["MA"],
   },
   "Africa/Ceuta": {
     u: 60,
     d: 120,
-    c: ["ES"]
+    c: ["ES"],
   },
   "Africa/Conakry": {
     a: "Africa/Abidjan",
     c: ["GN"],
-    r: 1
+    r: 1,
   },
   "Africa/Dakar": {
     a: "Africa/Abidjan",
     c: ["SN"],
-    r: 1
+    r: 1,
   },
   "Africa/Dar_es_Salaam": {
     a: "Africa/Nairobi",
     c: ["TZ"],
-    r: 1
+    r: 1,
   },
   "Africa/Djibouti": {
     a: "Africa/Nairobi",
     c: ["DJ"],
-    r: 1
+    r: 1,
   },
   "Africa/Douala": {
     a: "Africa/Lagos",
     c: ["CM"],
-    r: 1
+    r: 1,
   },
   "Africa/El_Aaiun": {
     u: 60,
     d: 0,
-    c: ["EH"]
+    c: ["EH"],
   },
   "Africa/Freetown": {
     a: "Africa/Abidjan",
     c: ["SL"],
-    r: 1
+    r: 1,
   },
   "Africa/Gaborone": {
     a: "Africa/Maputo",
     c: ["BW"],
-    r: 1
+    r: 1,
   },
   "Africa/Harare": {
     a: "Africa/Maputo",
     c: ["ZW"],
-    r: 1
+    r: 1,
   },
   "Africa/Johannesburg": {
     u: 120,
-    c: ["ZA", "LS", "SZ"]
+    c: ["ZA", "LS", "SZ"],
   },
   "Africa/Juba": {
     u: 120,
-    c: ["SS"]
+    c: ["SS"],
   },
   "Africa/Kampala": {
     a: "Africa/Nairobi",
     c: ["UG"],
-    r: 1
+    r: 1,
   },
   "Africa/Khartoum": {
     u: 120,
-    c: ["SD"]
+    c: ["SD"],
   },
   "Africa/Kigali": {
     a: "Africa/Maputo",
     c: ["RW"],
-    r: 1
+    r: 1,
   },
   "Africa/Kinshasa": {
     a: "Africa/Lagos",
     c: ["CD"],
-    r: 1
+    r: 1,
   },
   "Africa/Lagos": {
     u: 60,
-    c: ["NG", "AO", "BJ", "CD", "CF", "CG", "CM", "GA", "GQ", "NE"]
+    c: ["NG", "AO", "BJ", "CD", "CF", "CG", "CM", "GA", "GQ", "NE"],
   },
   "Africa/Libreville": {
     a: "Africa/Lagos",
     c: ["GA"],
-    r: 1
+    r: 1,
   },
   "Africa/Lome": {
     a: "Africa/Abidjan",
     c: ["TG"],
-    r: 1
+    r: 1,
   },
   "Africa/Luanda": {
     a: "Africa/Lagos",
     c: ["AO"],
-    r: 1
+    r: 1,
   },
   "Africa/Lubumbashi": {
     a: "Africa/Maputo",
     c: ["CD"],
-    r: 1
+    r: 1,
   },
   "Africa/Lusaka": {
     a: "Africa/Maputo",
     c: ["ZM"],
-    r: 1
+    r: 1,
   },
   "Africa/Malabo": {
     a: "Africa/Lagos",
     c: ["GQ"],
-    r: 1
+    r: 1,
   },
   "Africa/Maputo": {
     u: 120,
-    c: ["MZ", "BI", "BW", "CD", "MW", "RW", "ZM", "ZW"]
+    c: ["MZ", "BI", "BW", "CD", "MW", "RW", "ZM", "ZW"],
   },
   "Africa/Maseru": {
     a: "Africa/Johannesburg",
     c: ["LS"],
-    r: 1
+    r: 1,
   },
   "Africa/Mbabane": {
     a: "Africa/Johannesburg",
     c: ["SZ"],
-    r: 1
+    r: 1,
   },
   "Africa/Mogadishu": {
     a: "Africa/Nairobi",
     c: ["SO"],
-    r: 1
+    r: 1,
   },
   "Africa/Monrovia": {
     u: 0,
-    c: ["LR"]
+    c: ["LR"],
   },
   "Africa/Nairobi": {
     u: 180,
-    c: ["KE", "DJ", "ER", "ET", "KM", "MG", "SO", "TZ", "UG", "YT"]
+    c: ["KE", "DJ", "ER", "ET", "KM", "MG", "SO", "TZ", "UG", "YT"],
   },
   "Africa/Ndjamena": {
     u: 60,
-    c: ["TD"]
+    c: ["TD"],
   },
   "Africa/Niamey": {
     a: "Africa/Lagos",
     c: ["NE"],
-    r: 1
+    r: 1,
   },
   "Africa/Nouakchott": {
     a: "Africa/Abidjan",
     c: ["MR"],
-    r: 1
+    r: 1,
   },
   "Africa/Ouagadougou": {
     a: "Africa/Abidjan",
     c: ["BF"],
-    r: 1
+    r: 1,
   },
   "Africa/Porto-Novo": {
     a: "Africa/Lagos",
     c: ["BJ"],
-    r: 1
+    r: 1,
   },
   "Africa/Sao_Tome": {
     u: 0,
-    c: ["ST"]
+    c: ["ST"],
   },
   "Africa/Timbuktu": {
     a: "Africa/Abidjan",
     c: ["ML"],
-    r: 1
+    r: 1,
   },
   "Africa/Tripoli": {
     u: 120,
-    c: ["LY"]
+    c: ["LY"],
   },
   "Africa/Tunis": {
     u: 60,
-    c: ["TN"]
+    c: ["TN"],
   },
   "Africa/Windhoek": {
     u: 120,
-    c: ["NA"]
+    c: ["NA"],
   },
   "America/Adak": {
     u: -600,
     d: -540,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Anchorage": {
     u: -540,
     d: -480,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Anguilla": {
     a: "America/Puerto_Rico",
     c: ["AI"],
-    r: 1
+    r: 1,
   },
   "America/Antigua": {
     a: "America/Puerto_Rico",
     c: ["AG"],
-    r: 1
+    r: 1,
   },
   "America/Araguaina": {
     u: -180,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Argentina/Buenos_Aires": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/Catamarca": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/ComodRivadavia": {
     a: "America/Argentina/Catamarca",
-    r: 1
+    r: 1,
   },
   "America/Argentina/Cordoba": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/Jujuy": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/La_Rioja": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/Mendoza": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/Rio_Gallegos": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/Salta": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/San_Juan": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/San_Luis": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/Tucuman": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Argentina/Ushuaia": {
     u: -180,
-    c: ["AR"]
+    c: ["AR"],
   },
   "America/Aruba": {
     a: "America/Puerto_Rico",
     c: ["AW"],
-    r: 1
+    r: 1,
   },
   "America/Asuncion": {
     u: -240,
     d: -180,
-    c: ["PY"]
+    c: ["PY"],
   },
   "America/Atikokan": {
     a: "America/Panama",
     c: ["CA"],
-    r: 1
+    r: 1,
   },
   "America/Atka": {
     a: "America/Adak",
-    r: 1
+    r: 1,
   },
   "America/Bahia": {
     u: -180,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Bahia_Banderas": {
     u: -360,
     d: -300,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Barbados": {
     u: -240,
-    c: ["BB"]
+    c: ["BB"],
   },
   "America/Belem": {
     u: -180,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Belize": {
     u: -360,
-    c: ["BZ"]
+    c: ["BZ"],
   },
   "America/Blanc-Sablon": {
     a: "America/Puerto_Rico",
     c: ["CA"],
-    r: 1
+    r: 1,
   },
   "America/Boa_Vista": {
     u: -240,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Bogota": {
     u: -300,
-    c: ["CO"]
+    c: ["CO"],
   },
   "America/Boise": {
     u: -420,
     d: -360,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Buenos_Aires": {
     a: "America/Argentina/Buenos_Aires",
-    r: 1
+    r: 1,
   },
   "America/Cambridge_Bay": {
     u: -420,
     d: -360,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Campo_Grande": {
     u: -240,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Cancun": {
     u: -300,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Caracas": {
     u: -240,
-    c: ["VE"]
+    c: ["VE"],
   },
   "America/Catamarca": {
     a: "America/Argentina/Catamarca",
-    r: 1
+    r: 1,
   },
   "America/Cayenne": {
     u: -180,
-    c: ["GF"]
+    c: ["GF"],
   },
   "America/Cayman": {
     a: "America/Panama",
     c: ["KY"],
-    r: 1
+    r: 1,
   },
   "America/Chicago": {
     u: -360,
     d: -300,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Chihuahua": {
     u: -420,
     d: -360,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Coral_Harbour": {
     a: "America/Panama",
     c: ["CA"],
-    r: 1
+    r: 1,
   },
   "America/Cordoba": {
     a: "America/Argentina/Cordoba",
-    r: 1
+    r: 1,
   },
   "America/Costa_Rica": {
     u: -360,
-    c: ["CR"]
+    c: ["CR"],
   },
   "America/Creston": {
     a: "America/Phoenix",
     c: ["CA"],
-    r: 1
+    r: 1,
   },
   "America/Cuiaba": {
     u: -240,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Curacao": {
     a: "America/Puerto_Rico",
     c: ["CW"],
-    r: 1
+    r: 1,
   },
   "America/Danmarkshavn": {
     u: 0,
-    c: ["GL"]
+    c: ["GL"],
   },
   "America/Dawson": {
     u: -420,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Dawson_Creek": {
     u: -420,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Denver": {
     u: -420,
     d: -360,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Detroit": {
     u: -300,
     d: -240,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Dominica": {
     a: "America/Puerto_Rico",
     c: ["DM"],
-    r: 1
+    r: 1,
   },
   "America/Edmonton": {
     u: -420,
     d: -360,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Eirunepe": {
     u: -300,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/El_Salvador": {
     u: -360,
-    c: ["SV"]
+    c: ["SV"],
   },
   "America/Ensenada": {
     a: "America/Tijuana",
-    r: 1
+    r: 1,
   },
   "America/Fort_Nelson": {
     u: -420,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Fort_Wayne": {
     a: "America/Indiana/Indianapolis",
-    r: 1
+    r: 1,
   },
   "America/Fortaleza": {
     u: -180,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Glace_Bay": {
     u: -240,
     d: -180,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Godthab": {
     a: "America/Nuuk",
-    r: 1
+    r: 1,
   },
   "America/Goose_Bay": {
     u: -240,
     d: -180,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Grand_Turk": {
     u: -300,
     d: -240,
-    c: ["TC"]
+    c: ["TC"],
   },
   "America/Grenada": {
     a: "America/Puerto_Rico",
     c: ["GD"],
-    r: 1
+    r: 1,
   },
   "America/Guadeloupe": {
     a: "America/Puerto_Rico",
     c: ["GP"],
-    r: 1
+    r: 1,
   },
   "America/Guatemala": {
     u: -360,
-    c: ["GT"]
+    c: ["GT"],
   },
   "America/Guayaquil": {
     u: -300,
-    c: ["EC"]
+    c: ["EC"],
   },
   "America/Guyana": {
     u: -240,
-    c: ["GY"]
+    c: ["GY"],
   },
   "America/Halifax": {
     u: -240,
     d: -180,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Havana": {
     u: -300,
     d: -240,
-    c: ["CU"]
+    c: ["CU"],
   },
   "America/Hermosillo": {
     u: -420,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Indiana/Indianapolis": {
     u: -300,
     d: -240,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Indiana/Knox": {
     u: -360,
     d: -300,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Indiana/Marengo": {
     u: -300,
     d: -240,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Indiana/Petersburg": {
     u: -300,
     d: -240,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Indiana/Tell_City": {
     u: -360,
     d: -300,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Indiana/Vevay": {
     u: -300,
     d: -240,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Indiana/Vincennes": {
     u: -300,
     d: -240,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Indiana/Winamac": {
     u: -300,
     d: -240,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Indianapolis": {
     a: "America/Indiana/Indianapolis",
-    r: 1
+    r: 1,
   },
   "America/Inuvik": {
     u: -420,
     d: -360,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Iqaluit": {
     u: -300,
     d: -240,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Jamaica": {
     u: -300,
-    c: ["JM"]
+    c: ["JM"],
   },
   "America/Jujuy": {
     a: "America/Argentina/Jujuy",
-    r: 1
+    r: 1,
   },
   "America/Juneau": {
     u: -540,
     d: -480,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Kentucky/Louisville": {
     u: -300,
     d: -240,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Kentucky/Monticello": {
     u: -300,
     d: -240,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Knox_IN": {
     a: "America/Indiana/Knox",
-    r: 1
+    r: 1,
   },
   "America/Kralendijk": {
     a: "America/Puerto_Rico",
     c: ["BQ"],
-    r: 1
+    r: 1,
   },
   "America/La_Paz": {
     u: -240,
-    c: ["BO"]
+    c: ["BO"],
   },
   "America/Lima": {
     u: -300,
-    c: ["PE"]
+    c: ["PE"],
   },
   "America/Los_Angeles": {
     u: -480,
     d: -420,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Louisville": {
     a: "America/Kentucky/Louisville",
-    r: 1
+    r: 1,
   },
   "America/Lower_Princes": {
     a: "America/Puerto_Rico",
     c: ["SX"],
-    r: 1
+    r: 1,
   },
   "America/Maceio": {
     u: -180,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Managua": {
     u: -360,
-    c: ["NI"]
+    c: ["NI"],
   },
   "America/Manaus": {
     u: -240,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Marigot": {
     a: "America/Puerto_Rico",
     c: ["MF"],
-    r: 1
+    r: 1,
   },
   "America/Martinique": {
     u: -240,
-    c: ["MQ"]
+    c: ["MQ"],
   },
   "America/Matamoros": {
     u: -360,
     d: -300,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Mazatlan": {
     u: -420,
     d: -360,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Mendoza": {
     a: "America/Argentina/Mendoza",
-    r: 1
+    r: 1,
   },
   "America/Menominee": {
     u: -360,
     d: -300,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Merida": {
     u: -360,
     d: -300,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Metlakatla": {
     u: -540,
     d: -480,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Mexico_City": {
     u: -360,
     d: -300,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Miquelon": {
     u: -180,
     d: -120,
-    c: ["PM"]
+    c: ["PM"],
   },
   "America/Moncton": {
     u: -240,
     d: -180,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Monterrey": {
     u: -360,
     d: -300,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Montevideo": {
     u: -180,
-    c: ["UY"]
+    c: ["UY"],
   },
   "America/Montreal": {
     a: "America/Toronto",
     c: ["CA"],
-    r: 1
+    r: 1,
   },
   "America/Montserrat": {
     a: "America/Puerto_Rico",
     c: ["MS"],
-    r: 1
+    r: 1,
   },
   "America/Nassau": {
     a: "America/Toronto",
     c: ["BS"],
-    r: 1
+    r: 1,
   },
   "America/New_York": {
     u: -300,
     d: -240,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Nipigon": {
     u: -300,
     d: -240,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Nome": {
     u: -540,
     d: -480,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Noronha": {
     u: -120,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/North_Dakota/Beulah": {
     u: -360,
     d: -300,
-    c: ["US"]
+    c: ["US"],
   },
   "America/North_Dakota/Center": {
     u: -360,
     d: -300,
-    c: ["US"]
+    c: ["US"],
   },
   "America/North_Dakota/New_Salem": {
     u: -360,
     d: -300,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Nuuk": {
     u: -180,
     d: -120,
-    c: ["GL"]
+    c: ["GL"],
   },
   "America/Ojinaga": {
     u: -420,
     d: -360,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Panama": {
     u: -300,
-    c: ["PA", "CA", "KY"]
+    c: ["PA", "CA", "KY"],
   },
   "America/Pangnirtung": {
     u: -300,
     d: -240,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Paramaribo": {
     u: -180,
-    c: ["SR"]
+    c: ["SR"],
   },
   "America/Phoenix": {
     u: -420,
-    c: ["US", "CA"]
+    c: ["US", "CA"],
   },
   "America/Port-au-Prince": {
     u: -300,
     d: -240,
-    c: ["HT"]
+    c: ["HT"],
   },
   "America/Port_of_Spain": {
     a: "America/Puerto_Rico",
     c: ["TT"],
-    r: 1
+    r: 1,
   },
   "America/Porto_Acre": {
     a: "America/Rio_Branco",
-    r: 1
+    r: 1,
   },
   "America/Porto_Velho": {
     u: -240,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Puerto_Rico": {
     u: -240,
@@ -9660,1743 +11046,1744 @@ const timezoneToCountryCodeMap = {
       "TT",
       "VC",
       "VG",
-      "VI"
-    ]
+      "VI",
+    ],
   },
   "America/Punta_Arenas": {
     u: -180,
-    c: ["CL"]
+    c: ["CL"],
   },
   "America/Rainy_River": {
     u: -360,
     d: -300,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Rankin_Inlet": {
     u: -360,
     d: -300,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Recife": {
     u: -180,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Regina": {
     u: -360,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Resolute": {
     u: -360,
     d: -300,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Rio_Branco": {
     u: -300,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Rosario": {
     a: "America/Argentina/Cordoba",
-    r: 1
+    r: 1,
   },
   "America/Santa_Isabel": {
     a: "America/Tijuana",
-    r: 1
+    r: 1,
   },
   "America/Santarem": {
     u: -180,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Santiago": {
     u: -240,
     d: -180,
-    c: ["CL"]
+    c: ["CL"],
   },
   "America/Santo_Domingo": {
     u: -240,
-    c: ["DO"]
+    c: ["DO"],
   },
   "America/Sao_Paulo": {
     u: -180,
-    c: ["BR"]
+    c: ["BR"],
   },
   "America/Scoresbysund": {
     u: -60,
     d: 0,
-    c: ["GL"]
+    c: ["GL"],
   },
   "America/Shiprock": {
     a: "America/Denver",
-    r: 1
+    r: 1,
   },
   "America/Sitka": {
     u: -540,
     d: -480,
-    c: ["US"]
+    c: ["US"],
   },
   "America/St_Barthelemy": {
     a: "America/Puerto_Rico",
     c: ["BL"],
-    r: 1
+    r: 1,
   },
   "America/St_Johns": {
     u: -150,
     d: -90,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/St_Kitts": {
     a: "America/Puerto_Rico",
     c: ["KN"],
-    r: 1
+    r: 1,
   },
   "America/St_Lucia": {
     a: "America/Puerto_Rico",
     c: ["LC"],
-    r: 1
+    r: 1,
   },
   "America/St_Thomas": {
     a: "America/Puerto_Rico",
     c: ["VI"],
-    r: 1
+    r: 1,
   },
   "America/St_Vincent": {
     a: "America/Puerto_Rico",
     c: ["VC"],
-    r: 1
+    r: 1,
   },
   "America/Swift_Current": {
     u: -360,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Tegucigalpa": {
     u: -360,
-    c: ["HN"]
+    c: ["HN"],
   },
   "America/Thule": {
     u: -240,
     d: -180,
-    c: ["GL"]
+    c: ["GL"],
   },
   "America/Thunder_Bay": {
     u: -300,
     d: -240,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Tijuana": {
     u: -480,
     d: -420,
-    c: ["MX"]
+    c: ["MX"],
   },
   "America/Toronto": {
     u: -300,
     d: -240,
-    c: ["CA", "BS"]
+    c: ["CA", "BS"],
   },
   "America/Tortola": {
     a: "America/Puerto_Rico",
     c: ["VG"],
-    r: 1
+    r: 1,
   },
   "America/Vancouver": {
     u: -480,
     d: -420,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Virgin": {
     a: "America/Puerto_Rico",
     c: ["VI"],
-    r: 1
+    r: 1,
   },
   "America/Whitehorse": {
     u: -420,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Winnipeg": {
     u: -360,
     d: -300,
-    c: ["CA"]
+    c: ["CA"],
   },
   "America/Yakutat": {
     u: -540,
     d: -480,
-    c: ["US"]
+    c: ["US"],
   },
   "America/Yellowknife": {
     u: -420,
     d: -360,
-    c: ["CA"]
+    c: ["CA"],
   },
   "Antarctica/Casey": {
     u: 660,
-    c: ["AQ"]
+    c: ["AQ"],
   },
   "Antarctica/Davis": {
     u: 420,
-    c: ["AQ"]
+    c: ["AQ"],
   },
   "Antarctica/DumontDUrville": {
     a: "Pacific/Port_Moresby",
     c: ["AQ"],
-    r: 1
+    r: 1,
   },
   "Antarctica/Macquarie": {
     u: 600,
     d: 660,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Antarctica/Mawson": {
     u: 300,
-    c: ["AQ"]
+    c: ["AQ"],
   },
   "Antarctica/McMurdo": {
     a: "Pacific/Auckland",
     c: ["AQ"],
-    r: 1
+    r: 1,
   },
   "Antarctica/Palmer": {
     u: -180,
-    c: ["AQ"]
+    c: ["AQ"],
   },
   "Antarctica/Rothera": {
     u: -180,
-    c: ["AQ"]
+    c: ["AQ"],
   },
   "Antarctica/South_Pole": {
     a: "Pacific/Auckland",
     c: ["AQ"],
-    r: 1
+    r: 1,
   },
   "Antarctica/Syowa": {
     a: "Asia/Riyadh",
     c: ["AQ"],
-    r: 1
+    r: 1,
   },
   "Antarctica/Troll": {
     u: 0,
     d: 120,
-    c: ["AQ"]
+    c: ["AQ"],
   },
   "Antarctica/Vostok": {
     u: 360,
-    c: ["AQ"]
+    c: ["AQ"],
   },
   "Arctic/Longyearbyen": {
     a: "Europe/Oslo",
     c: ["SJ"],
-    r: 1
+    r: 1,
   },
   "Asia/Aden": {
     a: "Asia/Riyadh",
     c: ["YE"],
-    r: 1
+    r: 1,
   },
   "Asia/Almaty": {
     u: 360,
-    c: ["KZ"]
+    c: ["KZ"],
   },
   "Asia/Amman": {
     u: 120,
     d: 180,
-    c: ["JO"]
+    c: ["JO"],
   },
   "Asia/Anadyr": {
     u: 720,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Aqtau": {
     u: 300,
-    c: ["KZ"]
+    c: ["KZ"],
   },
   "Asia/Aqtobe": {
     u: 300,
-    c: ["KZ"]
+    c: ["KZ"],
   },
   "Asia/Ashgabat": {
     u: 300,
-    c: ["TM"]
+    c: ["TM"],
   },
   "Asia/Ashkhabad": {
     a: "Asia/Ashgabat",
-    r: 1
+    r: 1,
   },
   "Asia/Atyrau": {
     u: 300,
-    c: ["KZ"]
+    c: ["KZ"],
   },
   "Asia/Baghdad": {
     u: 180,
-    c: ["IQ"]
+    c: ["IQ"],
   },
   "Asia/Bahrain": {
     a: "Asia/Qatar",
     c: ["BH"],
-    r: 1
+    r: 1,
   },
   "Asia/Baku": {
     u: 240,
-    c: ["AZ"]
+    c: ["AZ"],
   },
   "Asia/Bangkok": {
     u: 420,
-    c: ["TH", "KH", "LA", "VN"]
+    c: ["TH", "KH", "LA", "VN"],
   },
   "Asia/Barnaul": {
     u: 420,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Beirut": {
     u: 120,
     d: 180,
-    c: ["LB"]
+    c: ["LB"],
   },
   "Asia/Bishkek": {
     u: 360,
-    c: ["KG"]
+    c: ["KG"],
   },
   "Asia/Brunei": {
     u: 480,
-    c: ["BN"]
+    c: ["BN"],
   },
   "Asia/Calcutta": {
     a: "Asia/Kolkata",
-    r: 1
+    r: 1,
   },
   "Asia/Chita": {
     u: 540,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Choibalsan": {
     u: 480,
-    c: ["MN"]
+    c: ["MN"],
   },
   "Asia/Chongqing": {
     a: "Asia/Shanghai",
-    r: 1
+    r: 1,
   },
   "Asia/Chungking": {
     a: "Asia/Shanghai",
-    r: 1
+    r: 1,
   },
   "Asia/Colombo": {
     u: 330,
-    c: ["LK"]
+    c: ["LK"],
   },
   "Asia/Dacca": {
     a: "Asia/Dhaka",
-    r: 1
+    r: 1,
   },
   "Asia/Damascus": {
     u: 120,
     d: 180,
-    c: ["SY"]
+    c: ["SY"],
   },
   "Asia/Dhaka": {
     u: 360,
-    c: ["BD"]
+    c: ["BD"],
   },
   "Asia/Dili": {
     u: 540,
-    c: ["TL"]
+    c: ["TL"],
   },
   "Asia/Dubai": {
     u: 240,
-    c: ["AE", "OM"]
+    c: ["AE", "OM"],
   },
   "Asia/Dushanbe": {
     u: 300,
-    c: ["TJ"]
+    c: ["TJ"],
   },
   "Asia/Famagusta": {
     u: 120,
     d: 180,
-    c: ["CY"]
+    c: ["CY"],
   },
   "Asia/Gaza": {
     u: 120,
     d: 180,
-    c: ["PS"]
+    c: ["PS"],
   },
   "Asia/Harbin": {
     a: "Asia/Shanghai",
-    r: 1
+    r: 1,
   },
   "Asia/Hebron": {
     u: 120,
     d: 180,
-    c: ["PS"]
+    c: ["PS"],
   },
   "Asia/Ho_Chi_Minh": {
     u: 420,
-    c: ["VN"]
+    c: ["VN"],
   },
   "Asia/Hong_Kong": {
     u: 480,
-    c: ["HK"]
+    c: ["HK"],
   },
   "Asia/Hovd": {
     u: 420,
-    c: ["MN"]
+    c: ["MN"],
   },
   "Asia/Irkutsk": {
     u: 480,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Istanbul": {
     a: "Europe/Istanbul",
-    r: 1
+    r: 1,
   },
   "Asia/Jakarta": {
     u: 420,
-    c: ["ID"]
+    c: ["ID"],
   },
   "Asia/Jayapura": {
     u: 540,
-    c: ["ID"]
+    c: ["ID"],
   },
   "Asia/Jerusalem": {
     u: 120,
     d: 180,
-    c: ["IL"]
+    c: ["IL"],
   },
   "Asia/Kabul": {
     u: 270,
-    c: ["AF"]
+    c: ["AF"],
   },
   "Asia/Kamchatka": {
     u: 720,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Karachi": {
     u: 300,
-    c: ["PK"]
+    c: ["PK"],
   },
   "Asia/Kashgar": {
     a: "Asia/Urumqi",
-    r: 1
+    r: 1,
   },
   "Asia/Kathmandu": {
     u: 345,
-    c: ["NP"]
+    c: ["NP"],
   },
   "Asia/Katmandu": {
     a: "Asia/Kathmandu",
-    r: 1
+    r: 1,
   },
   "Asia/Khandyga": {
     u: 540,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Kolkata": {
     u: 330,
-    c: ["IN"]
+    c: ["IN"],
   },
   "Asia/Krasnoyarsk": {
     u: 420,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Kuala_Lumpur": {
     u: 480,
-    c: ["MY"]
+    c: ["MY"],
   },
   "Asia/Kuching": {
     u: 480,
-    c: ["MY"]
+    c: ["MY"],
   },
   "Asia/Kuwait": {
     a: "Asia/Riyadh",
     c: ["KW"],
-    r: 1
+    r: 1,
   },
   "Asia/Macao": {
     a: "Asia/Macau",
-    r: 1
+    r: 1,
   },
   "Asia/Macau": {
     u: 480,
-    c: ["MO"]
+    c: ["MO"],
   },
   "Asia/Magadan": {
     u: 660,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Makassar": {
     u: 480,
-    c: ["ID"]
+    c: ["ID"],
   },
   "Asia/Manila": {
     u: 480,
-    c: ["PH"]
+    c: ["PH"],
   },
   "Asia/Muscat": {
     a: "Asia/Dubai",
     c: ["OM"],
-    r: 1
+    r: 1,
   },
   "Asia/Nicosia": {
     u: 120,
     d: 180,
-    c: ["CY"]
+    c: ["CY"],
   },
   "Asia/Novokuznetsk": {
     u: 420,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Novosibirsk": {
     u: 420,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Omsk": {
     u: 360,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Oral": {
     u: 300,
-    c: ["KZ"]
+    c: ["KZ"],
   },
   "Asia/Phnom_Penh": {
     a: "Asia/Bangkok",
     c: ["KH"],
-    r: 1
+    r: 1,
   },
   "Asia/Pontianak": {
     u: 420,
-    c: ["ID"]
+    c: ["ID"],
   },
   "Asia/Pyongyang": {
     u: 540,
-    c: ["KP"]
+    c: ["KP"],
   },
   "Asia/Qatar": {
     u: 180,
-    c: ["QA", "BH"]
+    c: ["QA", "BH"],
   },
   "Asia/Qostanay": {
     u: 360,
-    c: ["KZ"]
+    c: ["KZ"],
   },
   "Asia/Qyzylorda": {
     u: 300,
-    c: ["KZ"]
+    c: ["KZ"],
   },
   "Asia/Rangoon": {
     a: "Asia/Yangon",
-    r: 1
+    r: 1,
   },
   "Asia/Riyadh": {
     u: 180,
-    c: ["SA", "AQ", "KW", "YE"]
+    c: ["SA", "AQ", "KW", "YE"],
   },
   "Asia/Saigon": {
     a: "Asia/Ho_Chi_Minh",
-    r: 1
+    r: 1,
   },
   "Asia/Sakhalin": {
     u: 660,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Samarkand": {
     u: 300,
-    c: ["UZ"]
+    c: ["UZ"],
   },
   "Asia/Seoul": {
     u: 540,
-    c: ["KR"]
+    c: ["KR"],
   },
   "Asia/Shanghai": {
     u: 480,
-    c: ["CN"]
+    c: ["CN"],
   },
   "Asia/Singapore": {
     u: 480,
-    c: ["SG", "MY"]
+    c: ["SG", "MY"],
   },
   "Asia/Srednekolymsk": {
     u: 660,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Taipei": {
     u: 480,
-    c: ["TW"]
+    c: ["TW"],
   },
   "Asia/Tashkent": {
     u: 300,
-    c: ["UZ"]
+    c: ["UZ"],
   },
   "Asia/Tbilisi": {
     u: 240,
-    c: ["GE"]
+    c: ["GE"],
   },
   "Asia/Tehran": {
     u: 210,
     d: 270,
-    c: ["IR"]
+    c: ["IR"],
   },
   "Asia/Tel_Aviv": {
     a: "Asia/Jerusalem",
-    r: 1
+    r: 1,
   },
   "Asia/Thimbu": {
     a: "Asia/Thimphu",
-    r: 1
+    r: 1,
   },
   "Asia/Thimphu": {
     u: 360,
-    c: ["BT"]
+    c: ["BT"],
   },
   "Asia/Tokyo": {
     u: 540,
-    c: ["JP"]
+    c: ["JP"],
   },
   "Asia/Tomsk": {
     u: 420,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Ujung_Pandang": {
     a: "Asia/Makassar",
-    r: 1
+    r: 1,
   },
   "Asia/Ulaanbaatar": {
     u: 480,
-    c: ["MN"]
+    c: ["MN"],
   },
   "Asia/Ulan_Bator": {
     a: "Asia/Ulaanbaatar",
-    r: 1
+    r: 1,
   },
   "Asia/Urumqi": {
     u: 360,
-    c: ["CN"]
+    c: ["CN"],
   },
   "Asia/Ust-Nera": {
     u: 600,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Vientiane": {
     a: "Asia/Bangkok",
     c: ["LA"],
-    r: 1
+    r: 1,
   },
   "Asia/Vladivostok": {
     u: 600,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Yakutsk": {
     u: 540,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Yangon": {
     u: 390,
-    c: ["MM"]
+    c: ["MM"],
   },
   "Asia/Yekaterinburg": {
     u: 300,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Asia/Yerevan": {
     u: 240,
-    c: ["AM"]
+    c: ["AM"],
   },
   "Atlantic/Azores": {
     u: -60,
     d: 0,
-    c: ["PT"]
+    c: ["PT"],
   },
   "Atlantic/Bermuda": {
     u: -240,
     d: -180,
-    c: ["BM"]
+    c: ["BM"],
   },
   "Atlantic/Canary": {
     u: 0,
     d: 60,
-    c: ["ES"]
+    c: ["ES"],
   },
   "Atlantic/Cape_Verde": {
     u: -60,
-    c: ["CV"]
+    c: ["CV"],
   },
   "Atlantic/Faeroe": {
     a: "Atlantic/Faroe",
-    r: 1
+    r: 1,
   },
   "Atlantic/Faroe": {
     u: 0,
     d: 60,
-    c: ["FO"]
+    c: ["FO"],
   },
   "Atlantic/Jan_Mayen": {
     a: "Europe/Oslo",
     c: ["SJ"],
-    r: 1
+    r: 1,
   },
   "Atlantic/Madeira": {
     u: 0,
     d: 60,
-    c: ["PT"]
+    c: ["PT"],
   },
   "Atlantic/Reykjavik": {
     u: 0,
-    c: ["IS"]
+    c: ["IS"],
   },
   "Atlantic/South_Georgia": {
     u: -120,
-    c: ["GS"]
+    c: ["GS"],
   },
   "Atlantic/St_Helena": {
     a: "Africa/Abidjan",
     c: ["SH"],
-    r: 1
+    r: 1,
   },
   "Atlantic/Stanley": {
     u: -180,
-    c: ["FK"]
+    c: ["FK"],
   },
   "Australia/ACT": {
     a: "Australia/Sydney",
-    r: 1
+    r: 1,
   },
   "Australia/Adelaide": {
     u: 570,
     d: 630,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/Brisbane": {
     u: 600,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/Broken_Hill": {
     u: 570,
     d: 630,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/Canberra": {
     a: "Australia/Sydney",
-    r: 1
+    r: 1,
   },
   "Australia/Currie": {
     a: "Australia/Hobart",
-    r: 1
+    r: 1,
   },
   "Australia/Darwin": {
     u: 570,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/Eucla": {
     u: 525,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/Hobart": {
     u: 600,
     d: 660,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/LHI": {
     a: "Australia/Lord_Howe",
-    r: 1
+    r: 1,
   },
   "Australia/Lindeman": {
     u: 600,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/Lord_Howe": {
     u: 630,
     d: 660,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/Melbourne": {
     u: 600,
     d: 660,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/NSW": {
     a: "Australia/Sydney",
-    r: 1
+    r: 1,
   },
   "Australia/North": {
     a: "Australia/Darwin",
-    r: 1
+    r: 1,
   },
   "Australia/Perth": {
     u: 480,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/Queensland": {
     a: "Australia/Brisbane",
-    r: 1
+    r: 1,
   },
   "Australia/South": {
     a: "Australia/Adelaide",
-    r: 1
+    r: 1,
   },
   "Australia/Sydney": {
     u: 600,
     d: 660,
-    c: ["AU"]
+    c: ["AU"],
   },
   "Australia/Tasmania": {
     a: "Australia/Hobart",
-    r: 1
+    r: 1,
   },
   "Australia/Victoria": {
     a: "Australia/Melbourne",
-    r: 1
+    r: 1,
   },
   "Australia/West": {
     a: "Australia/Perth",
-    r: 1
+    r: 1,
   },
   "Australia/Yancowinna": {
     a: "Australia/Broken_Hill",
-    r: 1
+    r: 1,
   },
   "Brazil/Acre": {
     a: "America/Rio_Branco",
-    r: 1
+    r: 1,
   },
   "Brazil/DeNoronha": {
     a: "America/Noronha",
-    r: 1
+    r: 1,
   },
   "Brazil/East": {
     a: "America/Sao_Paulo",
-    r: 1
+    r: 1,
   },
   "Brazil/West": {
     a: "America/Manaus",
-    r: 1
+    r: 1,
   },
   CET: {
     u: 60,
-    d: 120
+    d: 120,
   },
   CST6CDT: {
     u: -360,
-    d: -300
+    d: -300,
   },
   "Canada/Atlantic": {
     a: "America/Halifax",
-    r: 1
+    r: 1,
   },
   "Canada/Central": {
     a: "America/Winnipeg",
-    r: 1
+    r: 1,
   },
   "Canada/Eastern": {
     a: "America/Toronto",
     c: ["CA"],
-    r: 1
+    r: 1,
   },
   "Canada/Mountain": {
     a: "America/Edmonton",
-    r: 1
+    r: 1,
   },
   "Canada/Newfoundland": {
     a: "America/St_Johns",
-    r: 1
+    r: 1,
   },
   "Canada/Pacific": {
     a: "America/Vancouver",
-    r: 1
+    r: 1,
   },
   "Canada/Saskatchewan": {
     a: "America/Regina",
-    r: 1
+    r: 1,
   },
   "Canada/Yukon": {
     a: "America/Whitehorse",
-    r: 1
+    r: 1,
   },
   "Chile/Continental": {
     a: "America/Santiago",
-    r: 1
+    r: 1,
   },
   "Chile/EasterIsland": {
     a: "Pacific/Easter",
-    r: 1
+    r: 1,
   },
   Cuba: {
     a: "America/Havana",
-    r: 1
+    r: 1,
   },
   EET: {
     u: 120,
-    d: 180
+    d: 180,
   },
   EST: {
-    u: -300
+    u: -300,
   },
   EST5EDT: {
     u: -300,
-    d: -240
+    d: -240,
   },
   Egypt: {
     a: "Africa/Cairo",
-    r: 1
+    r: 1,
   },
   Eire: {
     a: "Europe/Dublin",
-    r: 1
+    r: 1,
   },
   "Etc/GMT": {
-    u: 0
+    u: 0,
   },
   "Etc/GMT+0": {
     a: "Etc/GMT",
-    r: 1
+    r: 1,
   },
   "Etc/GMT+1": {
-    u: -60
+    u: -60,
   },
   "Etc/GMT+10": {
-    u: -600
+    u: -600,
   },
   "Etc/GMT+11": {
-    u: -660
+    u: -660,
   },
   "Etc/GMT+12": {
-    u: -720
+    u: -720,
   },
   "Etc/GMT+2": {
-    u: -120
+    u: -120,
   },
   "Etc/GMT+3": {
-    u: -180
+    u: -180,
   },
   "Etc/GMT+4": {
-    u: -240
+    u: -240,
   },
   "Etc/GMT+5": {
-    u: -300
+    u: -300,
   },
   "Etc/GMT+6": {
-    u: -360
+    u: -360,
   },
   "Etc/GMT+7": {
-    u: -420
+    u: -420,
   },
   "Etc/GMT+8": {
-    u: -480
+    u: -480,
   },
   "Etc/GMT+9": {
-    u: -540
+    u: -540,
   },
   "Etc/GMT-0": {
     a: "Etc/GMT",
-    r: 1
+    r: 1,
   },
   "Etc/GMT-1": {
-    u: 60
+    u: 60,
   },
   "Etc/GMT-10": {
-    u: 600
+    u: 600,
   },
   "Etc/GMT-11": {
-    u: 660
+    u: 660,
   },
   "Etc/GMT-12": {
-    u: 720
+    u: 720,
   },
   "Etc/GMT-13": {
-    u: 780
+    u: 780,
   },
   "Etc/GMT-14": {
-    u: 840
+    u: 840,
   },
   "Etc/GMT-2": {
-    u: 120
+    u: 120,
   },
   "Etc/GMT-3": {
-    u: 180
+    u: 180,
   },
   "Etc/GMT-4": {
-    u: 240
+    u: 240,
   },
   "Etc/GMT-5": {
-    u: 300
+    u: 300,
   },
   "Etc/GMT-6": {
-    u: 360
+    u: 360,
   },
   "Etc/GMT-7": {
-    u: 420
+    u: 420,
   },
   "Etc/GMT-8": {
-    u: 480
+    u: 480,
   },
   "Etc/GMT-9": {
-    u: 540
+    u: 540,
   },
   "Etc/GMT0": {
     a: "Etc/GMT",
-    r: 1
+    r: 1,
   },
   "Etc/Greenwich": {
     a: "Etc/GMT",
-    r: 1
+    r: 1,
   },
   "Etc/UCT": {
     a: "Etc/UTC",
-    r: 1
+    r: 1,
   },
   "Etc/UTC": {
-    u: 0
+    u: 0,
   },
   "Etc/Universal": {
     a: "Etc/UTC",
-    r: 1
+    r: 1,
   },
   "Etc/Zulu": {
     a: "Etc/UTC",
-    r: 1
+    r: 1,
   },
   "Europe/Amsterdam": {
     u: 60,
     d: 120,
-    c: ["NL"]
+    c: ["NL"],
   },
   "Europe/Andorra": {
     u: 60,
     d: 120,
-    c: ["AD"]
+    c: ["AD"],
   },
   "Europe/Astrakhan": {
     u: 240,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Europe/Athens": {
     u: 120,
     d: 180,
-    c: ["GR"]
+    c: ["GR"],
   },
   "Europe/Belfast": {
     a: "Europe/London",
     c: ["GB"],
-    r: 1
+    r: 1,
   },
   "Europe/Belgrade": {
     u: 60,
     d: 120,
-    c: ["RS", "BA", "HR", "ME", "MK", "SI"]
+    c: ["RS", "BA", "HR", "ME", "MK", "SI"],
   },
   "Europe/Berlin": {
     u: 60,
     d: 120,
-    c: ["DE"]
+    c: ["DE"],
   },
   "Europe/Bratislava": {
     a: "Europe/Prague",
     c: ["SK"],
-    r: 1
+    r: 1,
   },
   "Europe/Brussels": {
     u: 60,
     d: 120,
-    c: ["BE"]
+    c: ["BE"],
   },
   "Europe/Bucharest": {
     u: 120,
     d: 180,
-    c: ["RO"]
+    c: ["RO"],
   },
   "Europe/Budapest": {
     u: 60,
     d: 120,
-    c: ["HU"]
+    c: ["HU"],
   },
   "Europe/Busingen": {
     a: "Europe/Zurich",
     c: ["DE"],
-    r: 1
+    r: 1,
   },
   "Europe/Chisinau": {
     u: 120,
     d: 180,
-    c: ["MD"]
+    c: ["MD"],
   },
   "Europe/Copenhagen": {
     u: 60,
     d: 120,
-    c: ["DK"]
+    c: ["DK"],
   },
   "Europe/Dublin": {
     u: 60,
     d: 0,
-    c: ["IE"]
+    c: ["IE"],
   },
   "Europe/Gibraltar": {
     u: 60,
     d: 120,
-    c: ["GI"]
+    c: ["GI"],
   },
   "Europe/Guernsey": {
     a: "Europe/London",
     c: ["GG"],
-    r: 1
+    r: 1,
   },
   "Europe/Helsinki": {
     u: 120,
     d: 180,
-    c: ["FI", "AX"]
+    c: ["FI", "AX"],
   },
   "Europe/Isle_of_Man": {
     a: "Europe/London",
     c: ["IM"],
-    r: 1
+    r: 1,
   },
   "Europe/Istanbul": {
     u: 180,
-    c: ["TR"]
+    c: ["TR"],
   },
   "Europe/Jersey": {
     a: "Europe/London",
     c: ["JE"],
-    r: 1
+    r: 1,
   },
   "Europe/Kaliningrad": {
     u: 120,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Europe/Kiev": {
     u: 120,
     d: 180,
-    c: ["UA"]
+    c: ["UA"],
   },
   "Europe/Kirov": {
     u: 180,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Europe/Lisbon": {
     u: 0,
     d: 60,
-    c: ["PT"]
+    c: ["PT"],
   },
   "Europe/Ljubljana": {
     a: "Europe/Belgrade",
     c: ["SI"],
-    r: 1
+    r: 1,
   },
   "Europe/London": {
     u: 0,
     d: 60,
-    c: ["GB", "GG", "IM", "JE"]
+    c: ["GB", "GG", "IM", "JE"],
   },
   "Europe/Luxembourg": {
     u: 60,
     d: 120,
-    c: ["LU"]
+    c: ["LU"],
   },
   "Europe/Madrid": {
     u: 60,
     d: 120,
-    c: ["ES"]
+    c: ["ES"],
   },
   "Europe/Malta": {
     u: 60,
     d: 120,
-    c: ["MT"]
+    c: ["MT"],
   },
   "Europe/Mariehamn": {
     a: "Europe/Helsinki",
     c: ["AX"],
-    r: 1
+    r: 1,
   },
   "Europe/Minsk": {
     u: 180,
-    c: ["BY"]
+    c: ["BY"],
   },
   "Europe/Monaco": {
     u: 60,
     d: 120,
-    c: ["MC"]
+    c: ["MC"],
   },
   "Europe/Moscow": {
     u: 180,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Europe/Nicosia": {
     a: "Asia/Nicosia",
-    r: 1
+    r: 1,
   },
   "Europe/Oslo": {
     u: 60,
     d: 120,
-    c: ["NO", "SJ", "BV"]
+    c: ["NO", "SJ", "BV"],
   },
   "Europe/Paris": {
     u: 60,
     d: 120,
-    c: ["FR"]
+    c: ["FR"],
   },
   "Europe/Podgorica": {
     a: "Europe/Belgrade",
     c: ["ME"],
-    r: 1
+    r: 1,
   },
   "Europe/Prague": {
     u: 60,
     d: 120,
-    c: ["CZ", "SK"]
+    c: ["CZ", "SK"],
   },
   "Europe/Riga": {
     u: 120,
     d: 180,
-    c: ["LV"]
+    c: ["LV"],
   },
   "Europe/Rome": {
     u: 60,
     d: 120,
-    c: ["IT", "SM", "VA"]
+    c: ["IT", "SM", "VA"],
   },
   "Europe/Samara": {
     u: 240,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Europe/San_Marino": {
     a: "Europe/Rome",
     c: ["SM"],
-    r: 1
+    r: 1,
   },
   "Europe/Sarajevo": {
     a: "Europe/Belgrade",
     c: ["BA"],
-    r: 1
+    r: 1,
   },
   "Europe/Saratov": {
     u: 240,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Europe/Simferopol": {
     u: 180,
-    c: ["RU", "UA"]
+    c: ["RU", "UA"],
   },
   "Europe/Skopje": {
     a: "Europe/Belgrade",
     c: ["MK"],
-    r: 1
+    r: 1,
   },
   "Europe/Sofia": {
     u: 120,
     d: 180,
-    c: ["BG"]
+    c: ["BG"],
   },
   "Europe/Stockholm": {
     u: 60,
     d: 120,
-    c: ["SE"]
+    c: ["SE"],
   },
   "Europe/Tallinn": {
     u: 120,
     d: 180,
-    c: ["EE"]
+    c: ["EE"],
   },
   "Europe/Tirane": {
     u: 60,
     d: 120,
-    c: ["AL"]
+    c: ["AL"],
   },
   "Europe/Tiraspol": {
     a: "Europe/Chisinau",
-    r: 1
+    r: 1,
   },
   "Europe/Ulyanovsk": {
     u: 240,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Europe/Uzhgorod": {
     u: 120,
     d: 180,
-    c: ["UA"]
+    c: ["UA"],
   },
   "Europe/Vaduz": {
     a: "Europe/Zurich",
     c: ["LI"],
-    r: 1
+    r: 1,
   },
   "Europe/Vatican": {
     a: "Europe/Rome",
     c: ["VA"],
-    r: 1
+    r: 1,
   },
   "Europe/Vienna": {
     u: 60,
     d: 120,
-    c: ["AT"]
+    c: ["AT"],
   },
   "Europe/Vilnius": {
     u: 120,
     d: 180,
-    c: ["LT"]
+    c: ["LT"],
   },
   "Europe/Volgograd": {
     u: 180,
-    c: ["RU"]
+    c: ["RU"],
   },
   "Europe/Warsaw": {
     u: 60,
     d: 120,
-    c: ["PL"]
+    c: ["PL"],
   },
   "Europe/Zagreb": {
     a: "Europe/Belgrade",
     c: ["HR"],
-    r: 1
+    r: 1,
   },
   "Europe/Zaporozhye": {
     u: 120,
     d: 180,
-    c: ["UA"]
+    c: ["UA"],
   },
   "Europe/Zurich": {
     u: 60,
     d: 120,
-    c: ["CH", "DE", "LI"]
+    c: ["CH", "DE", "LI"],
   },
   Factory: {
-    u: 0
+    u: 0,
   },
   GB: {
     a: "Europe/London",
     c: ["GB"],
-    r: 1
+    r: 1,
   },
   "GB-Eire": {
     a: "Europe/London",
     c: ["GB"],
-    r: 1
+    r: 1,
   },
   GMT: {
     a: "Etc/GMT",
-    r: 1
+    r: 1,
   },
   "GMT+0": {
     a: "Etc/GMT",
-    r: 1
+    r: 1,
   },
   "GMT-0": {
     a: "Etc/GMT",
-    r: 1
+    r: 1,
   },
   GMT0: {
     a: "Etc/GMT",
-    r: 1
+    r: 1,
   },
   Greenwich: {
     a: "Etc/GMT",
-    r: 1
+    r: 1,
   },
   HST: {
-    u: -600
+    u: -600,
   },
   Hongkong: {
     a: "Asia/Hong_Kong",
-    r: 1
+    r: 1,
   },
   Iceland: {
     a: "Atlantic/Reykjavik",
-    r: 1
+    r: 1,
   },
   "Indian/Antananarivo": {
     a: "Africa/Nairobi",
     c: ["MG"],
-    r: 1
+    r: 1,
   },
   "Indian/Chagos": {
     u: 360,
-    c: ["IO"]
+    c: ["IO"],
   },
   "Indian/Christmas": {
     u: 420,
-    c: ["CX"]
+    c: ["CX"],
   },
   "Indian/Cocos": {
     u: 390,
-    c: ["CC"]
+    c: ["CC"],
   },
   "Indian/Comoro": {
     a: "Africa/Nairobi",
     c: ["KM"],
-    r: 1
+    r: 1,
   },
   "Indian/Kerguelen": {
     u: 300,
-    c: ["TF", "HM"]
+    c: ["TF", "HM"],
   },
   "Indian/Mahe": {
     u: 240,
-    c: ["SC"]
+    c: ["SC"],
   },
   "Indian/Maldives": {
     u: 300,
-    c: ["MV"]
+    c: ["MV"],
   },
   "Indian/Mauritius": {
     u: 240,
-    c: ["MU"]
+    c: ["MU"],
   },
   "Indian/Mayotte": {
     a: "Africa/Nairobi",
     c: ["YT"],
-    r: 1
+    r: 1,
   },
   "Indian/Reunion": {
     u: 240,
-    c: ["RE", "TF"]
+    c: ["RE", "TF"],
   },
   Iran: {
     a: "Asia/Tehran",
-    r: 1
+    r: 1,
   },
   Israel: {
     a: "Asia/Jerusalem",
-    r: 1
+    r: 1,
   },
   Jamaica: {
     a: "America/Jamaica",
-    r: 1
+    r: 1,
   },
   Japan: {
     a: "Asia/Tokyo",
-    r: 1
+    r: 1,
   },
   Kwajalein: {
     a: "Pacific/Kwajalein",
-    r: 1
+    r: 1,
   },
   Libya: {
     a: "Africa/Tripoli",
-    r: 1
+    r: 1,
   },
   MET: {
     u: 60,
-    d: 120
+    d: 120,
   },
   MST: {
-    u: -420
+    u: -420,
   },
   MST7MDT: {
     u: -420,
-    d: -360
+    d: -360,
   },
   "Mexico/BajaNorte": {
     a: "America/Tijuana",
-    r: 1
+    r: 1,
   },
   "Mexico/BajaSur": {
     a: "America/Mazatlan",
-    r: 1
+    r: 1,
   },
   "Mexico/General": {
     a: "America/Mexico_City",
-    r: 1
+    r: 1,
   },
   NZ: {
     a: "Pacific/Auckland",
     c: ["NZ"],
-    r: 1
+    r: 1,
   },
   "NZ-CHAT": {
     a: "Pacific/Chatham",
-    r: 1
+    r: 1,
   },
   Navajo: {
     a: "America/Denver",
-    r: 1
+    r: 1,
   },
   PRC: {
     a: "Asia/Shanghai",
-    r: 1
+    r: 1,
   },
   PST8PDT: {
     u: -480,
-    d: -420
+    d: -420,
   },
   "Pacific/Apia": {
     u: 780,
-    c: ["WS"]
+    c: ["WS"],
   },
   "Pacific/Auckland": {
     u: 720,
     d: 780,
-    c: ["NZ", "AQ"]
+    c: ["NZ", "AQ"],
   },
   "Pacific/Bougainville": {
     u: 660,
-    c: ["PG"]
+    c: ["PG"],
   },
   "Pacific/Chatham": {
     u: 765,
     d: 825,
-    c: ["NZ"]
+    c: ["NZ"],
   },
   "Pacific/Chuuk": {
     u: 600,
-    c: ["FM"]
+    c: ["FM"],
   },
   "Pacific/Easter": {
     u: -360,
     d: -300,
-    c: ["CL"]
+    c: ["CL"],
   },
   "Pacific/Efate": {
     u: 660,
-    c: ["VU"]
+    c: ["VU"],
   },
   "Pacific/Enderbury": {
     a: "Pacific/Kanton",
-    r: 1
+    r: 1,
   },
   "Pacific/Fakaofo": {
     u: 780,
-    c: ["TK"]
+    c: ["TK"],
   },
   "Pacific/Fiji": {
     u: 720,
     d: 780,
-    c: ["FJ"]
+    c: ["FJ"],
   },
   "Pacific/Funafuti": {
     u: 720,
-    c: ["TV"]
+    c: ["TV"],
   },
   "Pacific/Galapagos": {
     u: -360,
-    c: ["EC"]
+    c: ["EC"],
   },
   "Pacific/Gambier": {
     u: -540,
-    c: ["PF"]
+    c: ["PF"],
   },
   "Pacific/Guadalcanal": {
     u: 660,
-    c: ["SB"]
+    c: ["SB"],
   },
   "Pacific/Guam": {
     u: 600,
-    c: ["GU", "MP"]
+    c: ["GU", "MP"],
   },
   "Pacific/Honolulu": {
     u: -600,
-    c: ["US", "UM"]
+    c: ["US", "UM"],
   },
   "Pacific/Johnston": {
     a: "Pacific/Honolulu",
     c: ["UM"],
-    r: 1
+    r: 1,
   },
   "Pacific/Kanton": {
     u: 780,
-    c: ["KI"]
+    c: ["KI"],
   },
   "Pacific/Kiritimati": {
     u: 840,
-    c: ["KI"]
+    c: ["KI"],
   },
   "Pacific/Kosrae": {
     u: 660,
-    c: ["FM"]
+    c: ["FM"],
   },
   "Pacific/Kwajalein": {
     u: 720,
-    c: ["MH"]
+    c: ["MH"],
   },
   "Pacific/Majuro": {
     u: 720,
-    c: ["MH"]
+    c: ["MH"],
   },
   "Pacific/Marquesas": {
     u: -510,
-    c: ["PF"]
+    c: ["PF"],
   },
   "Pacific/Midway": {
     a: "Pacific/Pago_Pago",
     c: ["UM"],
-    r: 1
+    r: 1,
   },
   "Pacific/Nauru": {
     u: 720,
-    c: ["NR"]
+    c: ["NR"],
   },
   "Pacific/Niue": {
     u: -660,
-    c: ["NU"]
+    c: ["NU"],
   },
   "Pacific/Norfolk": {
     u: 660,
     d: 720,
-    c: ["NF"]
+    c: ["NF"],
   },
   "Pacific/Noumea": {
     u: 660,
-    c: ["NC"]
+    c: ["NC"],
   },
   "Pacific/Pago_Pago": {
     u: -660,
-    c: ["AS", "UM"]
+    c: ["AS", "UM"],
   },
   "Pacific/Palau": {
     u: 540,
-    c: ["PW"]
+    c: ["PW"],
   },
   "Pacific/Pitcairn": {
     u: -480,
-    c: ["PN"]
+    c: ["PN"],
   },
   "Pacific/Pohnpei": {
     u: 660,
-    c: ["FM"]
+    c: ["FM"],
   },
   "Pacific/Ponape": {
     a: "Pacific/Pohnpei",
-    r: 1
+    r: 1,
   },
   "Pacific/Port_Moresby": {
     u: 600,
-    c: ["PG", "AQ"]
+    c: ["PG", "AQ"],
   },
   "Pacific/Rarotonga": {
     u: -600,
-    c: ["CK"]
+    c: ["CK"],
   },
   "Pacific/Saipan": {
     a: "Pacific/Guam",
     c: ["MP"],
-    r: 1
+    r: 1,
   },
   "Pacific/Samoa": {
     a: "Pacific/Pago_Pago",
     c: ["WS"],
-    r: 1
+    r: 1,
   },
   "Pacific/Tahiti": {
     u: -600,
-    c: ["PF"]
+    c: ["PF"],
   },
   "Pacific/Tarawa": {
     u: 720,
-    c: ["KI"]
+    c: ["KI"],
   },
   "Pacific/Tongatapu": {
     u: 780,
-    c: ["TO"]
+    c: ["TO"],
   },
   "Pacific/Truk": {
     a: "Pacific/Chuuk",
-    r: 1
+    r: 1,
   },
   "Pacific/Wake": {
     u: 720,
-    c: ["UM"]
+    c: ["UM"],
   },
   "Pacific/Wallis": {
     u: 720,
-    c: ["WF"]
+    c: ["WF"],
   },
   "Pacific/Yap": {
     a: "Pacific/Chuuk",
-    r: 1
+    r: 1,
   },
   Poland: {
     a: "Europe/Warsaw",
-    r: 1
+    r: 1,
   },
   Portugal: {
     a: "Europe/Lisbon",
-    r: 1
+    r: 1,
   },
   ROC: {
     a: "Asia/Taipei",
-    r: 1
+    r: 1,
   },
   ROK: {
     a: "Asia/Seoul",
-    r: 1
+    r: 1,
   },
   Singapore: {
     a: "Asia/Singapore",
     c: ["SG"],
-    r: 1
+    r: 1,
   },
   Turkey: {
     a: "Europe/Istanbul",
-    r: 1
+    r: 1,
   },
   UCT: {
     a: "Etc/UTC",
-    r: 1
+    r: 1,
   },
   "US/Alaska": {
     a: "America/Anchorage",
-    r: 1
+    r: 1,
   },
   "US/Aleutian": {
     a: "America/Adak",
-    r: 1
+    r: 1,
   },
   "US/Arizona": {
     a: "America/Phoenix",
     c: ["US"],
-    r: 1
+    r: 1,
   },
   "US/Central": {
     a: "America/Chicago",
-    r: 1
+    r: 1,
   },
   "US/East-Indiana": {
     a: "America/Indiana/Indianapolis",
-    r: 1
+    r: 1,
   },
   "US/Eastern": {
     a: "America/New_York",
-    r: 1
+    r: 1,
   },
   "US/Hawaii": {
     a: "Pacific/Honolulu",
     c: ["US"],
-    r: 1
+    r: 1,
   },
   "US/Indiana-Starke": {
     a: "America/Indiana/Knox",
-    r: 1
+    r: 1,
   },
   "US/Michigan": {
     a: "America/Detroit",
-    r: 1
+    r: 1,
   },
   "US/Mountain": {
     a: "America/Denver",
-    r: 1
+    r: 1,
   },
   "US/Pacific": {
     a: "America/Los_Angeles",
-    r: 1
+    r: 1,
   },
   "US/Samoa": {
     a: "Pacific/Pago_Pago",
     c: ["WS"],
-    r: 1
+    r: 1,
   },
   UTC: {
     a: "Etc/UTC",
-    r: 1
+    r: 1,
   },
   Universal: {
     a: "Etc/UTC",
-    r: 1
+    r: 1,
   },
   "W-SU": {
     a: "Europe/Moscow",
-    r: 1
+    r: 1,
   },
   WET: {
     u: 0,
-    d: 60
+    d: 60,
   },
   Zulu: {
     a: "Etc/UTC",
-    r: 1
-  }
+    r: 1,
+  },
 };
 const generateRandomString = (length) => {
-  const characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+  const characters =
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
   let result = "";
   const charactersLength = characters.length;
   for (let i = 0; i < length; i++) {
@@ -11410,7 +12797,9 @@ const generateUniqueId = async () => {
   if (window.crypto && window.crypto.getRandomValues) {
     const array = new Uint32Array(2);
     window.crypto.getRandomValues(array);
-    randomValues = Array.from(array).map((n) => n.toString(36)).join("");
+    randomValues = Array.from(array)
+      .map((n) => n.toString(36))
+      .join("");
   } else {
     randomValues = Math.random().toString(36).substring(2);
   }
@@ -11419,64 +12808,59 @@ const generateUniqueId = async () => {
     window.screen.height,
     navigator.language,
     // Use hash of user agent to add entropy without storing the full string
-    await crypto.subtle.digest("SHA-256", new TextEncoder().encode(navigator.userAgent)).then(
-      (buf) => Array.from(new Uint8Array(buf)).slice(0, 4).map((b) => b.toString(16)).join("")
-    )
+    await crypto.subtle
+      .digest("SHA-256", new TextEncoder().encode(navigator.userAgent))
+      .then((buf) =>
+        Array.from(new Uint8Array(buf))
+          .slice(0, 4)
+          .map((b) => b.toString(16))
+          .join(""),
+      ),
   ].join("_");
   const combinedString = `${timestamp}_${randomValues}_${browserInfo}`;
   const hashBuffer = await crypto.subtle.digest(
     "SHA-256",
-    new TextEncoder().encode(combinedString)
+    new TextEncoder().encode(combinedString),
   );
   const hashArray = Array.from(new Uint8Array(hashBuffer));
-  const hashHex = hashArray.map((b) => b.toString(16).padStart(2, "0")).join("");
+  const hashHex = hashArray
+    .map((b) => b.toString(16).padStart(2, "0"))
+    .join("");
   return hashHex.slice(0, 16);
 };
 const generateSessionId = async (kitId) => {
-  const timestamp = (/* @__PURE__ */ new Date()).getTime();
+  const timestamp = /* @__PURE__ */ new Date().getTime();
   const uniqueId = await generateUniqueId();
   const randomPart = generateRandomString(8);
   return `${kitId}_${timestamp}_${uniqueId}_${randomPart}`;
 };
 const resolveCountryFromTimezone = (timeZone) => {
   var _a, _b;
-  const entry = ((_a = timezoneToCountryCodeMap[timeZone]) == null ? void 0 : _a.a) ? timezoneToCountryCodeMap[timezoneToCountryCodeMap[timeZone].a] : timezoneToCountryCodeMap[timeZone];
-  return ((_b = entry == null ? void 0 : entry.c) == null ? void 0 : _b[0]) ?? "Unknown";
+  const entry = (
+    (_a = timezoneToCountryCodeMap[timeZone]) == null ? void 0 : _a.a
+  )
+    ? timezoneToCountryCodeMap[timezoneToCountryCodeMap[timeZone].a]
+    : timezoneToCountryCodeMap[timeZone];
+  return (
+    ((_b = entry == null ? void 0 : entry.c) == null ? void 0 : _b[0]) ??
+    "Unknown"
+  );
 };
-const postSessionToAnalytics = async (kitId, sessionId, action, preferences, userId) => {
-  try {
-    const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-    const country = resolveCountryFromTimezone(timeZone);
-    const domain = window.location.hostname;
-    const response = await fetch("https://cookiekit.io/api/consents", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        website_id: kitId,
-        session_id: sessionId,
-        user_id: userId,
-        analytics: (preferences == null ? void 0 : preferences.Analytics) ?? false,
-        Customization: (preferences == null ? void 0 : preferences.Customization) ?? false,
-        advertising: (preferences == null ? void 0 : preferences.Advertising) ?? false,
-        consent_method: action || "init",
-        consent_version: "1.0",
-        user_agent: navigator.userAgent,
-        location: country,
-        anonymised_ip: "0.0.0.0",
-        domain
-      })
-    });
-    if (!response.ok) {
-      console.warn("Failed to post consent to analytics:", response.statusText);
-    }
-  } catch (error) {
-    console.warn("Error posting consent to analytics:", error);
-  }
+const postSessionToAnalytics = async (
+  kitId,
+  sessionId,
+  action,
+  preferences,
+  userId,
+) => {
+  const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  const country = resolveCountryFromTimezone(timeZone);
+  const domain = window.location.hostname;
 };
-const ManageConsent = React.lazy(
-  () => Promise.resolve().then(() => ManageConsent$2).then((m) => ({ default: m.ManageConsent }))
+const ManageConsent = React.lazy(() =>
+  Promise.resolve()
+    .then(() => ManageConsent$2)
+    .then((m) => ({ default: m.ManageConsent })),
 );
 const GEO_ENDPOINT = "https://consent-geo.cookiekit.io/";
 const GEO_DECISION_KEY = "rcm_geo_decision_v1";
@@ -11484,14 +12868,25 @@ const GEO_PROMISE_KEY = "__rcm_geo_promise__";
 const isLocalhost = () => {
   if (typeof window !== "undefined") {
     const hostname = window.location.hostname;
-    return hostname === "localhost" || hostname === "127.0.0.1" || hostname.startsWith("192.168.") || hostname.startsWith("10.");
+    return (
+      hostname === "localhost" ||
+      hostname === "127.0.0.1" ||
+      hostname.startsWith("192.168.") ||
+      hostname.startsWith("10.")
+    );
   }
   return false;
 };
-const postToAnalyticsIfNotLocalhost = async (cookieKitId, sessionId, action, preferences, userId) => {
+const postToAnalyticsIfNotLocalhost = async (
+  cookieKitId,
+  sessionId,
+  action,
+  preferences,
+  userId,
+) => {
   if (isLocalhost()) {
     console.log(
-      "[CookieKit] Running on localhost - consent data will be sent when deployed to production"
+      "[CookieKit] Running on localhost - consent data will be sent when deployed to production",
     );
     return;
   }
@@ -11500,24 +12895,26 @@ const postToAnalyticsIfNotLocalhost = async (cookieKitId, sessionId, action, pre
     sessionId,
     action,
     preferences,
-    userId
+    userId,
   );
 };
-const CookieManagerContext = createContext(
-  null
-);
+const CookieManagerContext = createContext(null);
 const createConsentStatus = (consented) => ({
   consented,
-  timestamp: (/* @__PURE__ */ new Date()).toISOString()
+  timestamp: /* @__PURE__ */ new Date().toISOString(),
 });
 const createDetailedConsent = (consented) => ({
   Analytics: createConsentStatus(consented),
   Customization: createConsentStatus(consented),
-  Advertising: createConsentStatus(consented)
+  Advertising: createConsentStatus(consented),
 });
 const normalizeDetailedConsent = (raw) => {
   const safeStatus = (status, fallbackTs) => {
-    if (status && typeof status.consented === "boolean" && typeof status.timestamp === "string") {
+    if (
+      status &&
+      typeof status.consented === "boolean" &&
+      typeof status.timestamp === "string"
+    ) {
       return status;
     }
     return { consented: false, timestamp: fallbackTs };
@@ -11525,16 +12922,25 @@ const normalizeDetailedConsent = (raw) => {
   const existingTimestamps = [];
   try {
     Object.values(raw || {}).forEach((s) => {
-      const t = (s == null ? void 0 : s.timestamp) ? new Date(s.timestamp).getTime() : NaN;
+      const t = (s == null ? void 0 : s.timestamp)
+        ? new Date(s.timestamp).getTime()
+        : NaN;
       if (!Number.isNaN(t)) existingTimestamps.push(t);
     });
-  } catch {
-  }
-  const baseTimestamp = existingTimestamps.length ? new Date(Math.min(...existingTimestamps)).toISOString() : (/* @__PURE__ */ new Date()).toISOString();
+  } catch {}
+  const baseTimestamp = existingTimestamps.length
+    ? new Date(Math.min(...existingTimestamps)).toISOString()
+    : /* @__PURE__ */ new Date().toISOString();
   return {
     Analytics: safeStatus(raw == null ? void 0 : raw.Analytics, baseTimestamp),
-    Customization: safeStatus(raw == null ? void 0 : raw.Customization, baseTimestamp),
-    Advertising: safeStatus(raw == null ? void 0 : raw.Advertising, baseTimestamp)
+    Customization: safeStatus(
+      raw == null ? void 0 : raw.Customization,
+      baseTimestamp,
+    ),
+    Advertising: safeStatus(
+      raw == null ? void 0 : raw.Advertising,
+      baseTimestamp,
+    ),
   };
 };
 const CookieManager = ({
@@ -11562,22 +12968,21 @@ const CookieManager = ({
   const [geoShowDecision, setGeoShowDecision] = useState(null);
   const tFunction = useMemo(
     () => createTFunction(translations, translationI18NextPrefix),
-    [translations, translationI18NextPrefix]
+    [translations, translationI18NextPrefix],
   );
   const [detailedConsent, setDetailedConsent] = useState(() => {
     const storedConsent = getCookie(cookieKey);
     if (storedConsent) {
       try {
-        const parsedConsent = JSON.parse(
-          storedConsent
-        );
+        const parsedConsent = JSON.parse(storedConsent);
         const normalized = normalizeDetailedConsent(parsedConsent);
         const oldestTimestamp = Math.min(
-          ...Object.values(normalized).map(
-            (status) => new Date(status.timestamp).getTime()
-          )
+          ...Object.values(normalized).map((status) =>
+            new Date(status.timestamp).getTime(),
+          ),
         );
-        const expirationTime = oldestTimestamp + expirationDays * 24 * 60 * 60 * 1e3;
+        const expirationTime =
+          oldestTimestamp + expirationDays * 24 * 60 * 60 * 1e3;
         if (Date.now() > expirationTime) {
           deleteCookie(cookieKey);
           return null;
@@ -11589,13 +12994,15 @@ const CookieManager = ({
     }
     return null;
   });
-  const hasConsent = detailedConsent ? Object.values(detailedConsent).some((status) => status.consented) : null;
+  const hasConsent = detailedConsent
+    ? Object.values(detailedConsent).some((status) => status.consented)
+    : null;
   const derivedInitialPreferences = useMemo(() => {
     if (detailedConsent) {
       return {
         Analytics: detailedConsent.Analytics.consented,
         Customization: detailedConsent.Customization.consented,
-        Advertising: detailedConsent.Advertising.consented
+        Advertising: detailedConsent.Advertising.consented,
       };
     }
     return props.initialPreferences;
@@ -11621,7 +13028,7 @@ const CookieManager = ({
               sessionId,
               void 0,
               void 0,
-              userId
+              userId,
             );
           }
         } catch (error) {
@@ -11652,7 +13059,7 @@ const CookieManager = ({
         try {
           const res = await fetch(url2, {
             signal: controller.signal,
-            headers: { accept: "application/json" }
+            headers: { accept: "application/json" },
           });
           clearTimeout(timer);
           return res;
@@ -11673,8 +13080,7 @@ const CookieManager = ({
             return;
           }
         }
-      } catch {
-      }
+      } catch {}
       const w = typeof window !== "undefined" ? window : void 0;
       if (w && w[GEO_PROMISE_KEY]) {
         try {
@@ -11683,8 +13089,7 @@ const CookieManager = ({
             setGeoShowDecision(show);
             if (show) setIsVisible(true);
           }
-        } catch {
-        }
+        } catch {}
         return;
       }
       const promise = (async () => {
@@ -11693,9 +13098,11 @@ const CookieManager = ({
         const data = await res.json().catch(() => null);
         const show = Boolean(data == null ? void 0 : data.showConsentBanner);
         try {
-          sessionStorage.setItem(GEO_DECISION_KEY, JSON.stringify({ ts: Date.now(), show }));
-        } catch {
-        }
+          sessionStorage.setItem(
+            GEO_DECISION_KEY,
+            JSON.stringify({ ts: Date.now(), show }),
+          );
+        } catch {}
         return show;
       })();
       if (w) w[GEO_PROMISE_KEY] = promise;
@@ -11712,18 +13119,22 @@ const CookieManager = ({
     maybeShow();
     if (!disableAutomaticBlocking) {
       const isRegulated = disableGeolocation ? true : geoShowDecision === true;
-      const currentPreferences = detailedConsent ? {
-        Analytics: detailedConsent.Analytics.consented,
-        Customization: detailedConsent.Customization.consented,
-        Advertising: detailedConsent.Advertising.consented
-      } : isRegulated ? null : { Analytics: true, Customization: true, Advertising: true };
+      const currentPreferences = detailedConsent
+        ? {
+            Analytics: detailedConsent.Analytics.consented,
+            Customization: detailedConsent.Customization.consented,
+            Advertising: detailedConsent.Advertising.consented,
+          }
+        : isRegulated
+          ? null
+          : { Analytics: true, Customization: true, Advertising: true };
       const blockedHosts = [
         ...getBlockedHosts(currentPreferences),
-        ...blockedDomains
+        ...blockedDomains,
       ];
       const blockedKeywords = [
         ...getBlockedKeywords(currentPreferences),
-        ...blockedDomains
+        ...blockedDomains,
       ];
       if (blockedHosts.length > 0 || blockedKeywords.length > 0) {
         setBlockingEnabled(true);
@@ -11752,7 +13163,14 @@ const CookieManager = ({
         cookieBlockingManager.current.cleanup();
       }
     };
-  }, [detailedConsent, disableAutomaticBlocking, blockedDomains, showManageConsent, disableGeolocation, geoShowDecision]);
+  }, [
+    detailedConsent,
+    disableAutomaticBlocking,
+    blockedDomains,
+    showManageConsent,
+    disableGeolocation,
+    geoShowDecision,
+  ]);
   const showConsentBanner = () => {
     if (!showManageConsent) {
       setIsVisible(true);
@@ -11764,12 +13182,14 @@ const CookieManager = ({
       const allowed = cookieCategories || {
         Analytics: true,
         Customization: true,
-        Advertising: true
+        Advertising: true,
       };
       const payload = {};
       if (allowed.Analytics !== false) payload.Analytics = consent.Analytics;
-      if (allowed.Customization !== false) payload.Customization = consent.Customization;
-      if (allowed.Advertising !== false) payload.Advertising = consent.Advertising;
+      if (allowed.Customization !== false)
+        payload.Customization = consent.Customization;
+      if (allowed.Advertising !== false)
+        payload.Advertising = consent.Advertising;
       return payload;
     };
     const cookiePayload = filterConsentForCookie(newConsent);
@@ -11785,23 +13205,30 @@ const CookieManager = ({
         cookieBlockingManager.current.cleanup();
       }
       unblockPreviouslyBlockedContent([]);
-    } catch (e) {
-    }
+    } catch (e) {}
     if (cookieKitId) {
       const sessionKey = `${cookieKey}-session`;
       const sessionId = getCookie(sessionKey);
       if (sessionId) {
         const acceptedPrefs = {
-          Analytics: (cookieCategories == null ? void 0 : cookieCategories.Analytics) !== false,
-          Customization: (cookieCategories == null ? void 0 : cookieCategories.Customization) !== false,
-          Advertising: (cookieCategories == null ? void 0 : cookieCategories.Advertising) !== false
+          Analytics:
+            (cookieCategories == null ? void 0 : cookieCategories.Analytics) !==
+            false,
+          Customization:
+            (cookieCategories == null
+              ? void 0
+              : cookieCategories.Customization) !== false,
+          Advertising:
+            (cookieCategories == null
+              ? void 0
+              : cookieCategories.Advertising) !== false,
         };
         await postToAnalyticsIfNotLocalhost(
           cookieKitId,
           sessionId,
           "accept",
           acceptedPrefs,
-          userId
+          userId,
         );
       }
     }
@@ -11815,12 +13242,14 @@ const CookieManager = ({
       const allowed = cookieCategories || {
         Analytics: true,
         Customization: true,
-        Advertising: true
+        Advertising: true,
       };
       const payload = {};
       if (allowed.Analytics !== false) payload.Analytics = consent.Analytics;
-      if (allowed.Customization !== false) payload.Customization = consent.Customization;
-      if (allowed.Advertising !== false) payload.Advertising = consent.Advertising;
+      if (allowed.Customization !== false)
+        payload.Customization = consent.Customization;
+      if (allowed.Advertising !== false)
+        payload.Advertising = consent.Advertising;
       return payload;
     };
     const cookiePayload = filterConsentForCookie(newConsent);
@@ -11841,9 +13270,9 @@ const CookieManager = ({
           {
             Analytics: false,
             Customization: false,
-            Advertising: false
+            Advertising: false,
           },
-          userId
+          userId,
         );
       }
     }
@@ -11852,22 +13281,24 @@ const CookieManager = ({
     }
   };
   const updateDetailedConsent = async (preferences) => {
-    const timestamp = (/* @__PURE__ */ new Date()).toISOString();
+    const timestamp = /* @__PURE__ */ new Date().toISOString();
     const newConsent = {
       Analytics: { consented: preferences.Analytics, timestamp },
       Customization: { consented: preferences.Customization, timestamp },
-      Advertising: { consented: preferences.Advertising, timestamp }
+      Advertising: { consented: preferences.Advertising, timestamp },
     };
     const filterConsentForCookie = (consent) => {
       const allowed = cookieCategories || {
         Analytics: true,
         Customization: true,
-        Advertising: true
+        Advertising: true,
       };
       const payload = {};
       if (allowed.Analytics !== false) payload.Analytics = consent.Analytics;
-      if (allowed.Customization !== false) payload.Customization = consent.Customization;
-      if (allowed.Advertising !== false) payload.Advertising = consent.Advertising;
+      if (allowed.Customization !== false)
+        payload.Customization = consent.Customization;
+      if (allowed.Advertising !== false)
+        payload.Advertising = consent.Advertising;
       return payload;
     };
     const cookiePayload = filterConsentForCookie(newConsent);
@@ -11878,13 +13309,10 @@ const CookieManager = ({
       setIsFloatingButtonVisible(true);
     }
     try {
-      const blockedHosts = [
-        ...getBlockedHosts(preferences),
-        ...blockedDomains
-      ];
+      const blockedHosts = [...getBlockedHosts(preferences), ...blockedDomains];
       const blockedKeywords = [
         ...getBlockedKeywords(preferences),
-        ...blockedDomains
+        ...blockedDomains,
       ];
       if (blockedHosts.length > 0 || blockedKeywords.length > 0) {
         setBlockingEnabled(true);
@@ -11900,8 +13328,7 @@ const CookieManager = ({
         }
         unblockPreviouslyBlockedContent([]);
       }
-    } catch (e) {
-    }
+    } catch (e) {}
     if (onManage) {
       onManage(preferences);
     }
@@ -11944,7 +13371,7 @@ const CookieManager = ({
     return () => {
       window.removeEventListener(
         "show-cookie-consent",
-        handleShowCookieConsent
+        handleShowCookieConsent,
       );
     };
   }, [enableFloatingButton, detailedConsent]);
@@ -11956,65 +13383,76 @@ const CookieManager = ({
     acceptCookies,
     declineCookies,
     updateDetailedConsent,
-    openPreferencesModal
+    openPreferencesModal,
   };
-  return /* @__PURE__ */ jsxs(CookieManagerContext.Provider, { value, children: [
-    children,
-    isVisible && /* @__PURE__ */ jsx(
-      CookieConsenter,
-      {
-        ...props,
-        theme,
-        tFunction,
-        cookieCategories,
-        cookieKey,
-        onAccept: acceptCookies,
-        onDecline: declineCookies,
-        onManage: handleManage,
-        detailedConsent,
-        initialPreferences: derivedInitialPreferences
-      }
-    ),
-    showManageConsent && typeof document !== "undefined" && createPortal(
-      /* @__PURE__ */ jsx("div", { className: "cookie-manager", children: /* @__PURE__ */ jsx("div", { className: "fixed inset-0 z-[99999] bg-black/40 backdrop-blur-sm flex items-center justify-center p-4", children: /* @__PURE__ */ jsx(
-        "div",
-        {
-          className: `w-full max-w-lg rounded-xl p-6 ${theme === "light" ? "bg-white/95 ring-1 ring-black/10" : "bg-black/95 ring-1 ring-white/10"}`,
-          children: /* @__PURE__ */ jsx(React.Suspense, { fallback: null, children: /* @__PURE__ */ jsx(
-            ManageConsent,
-            {
-              tFunction,
-              theme,
-              onSave: updateDetailedConsent,
-              onCancel: handleCancelManage,
-              initialPreferences: derivedInitialPreferences,
-              cookieCategories,
-              detailedConsent,
-              classNames: props.classNames
-            }
-          ) })
-        }
-      ) }) }),
-      document.body
-    ),
-    isFloatingButtonVisible && !isVisible && !showManageConsent && typeof document !== "undefined" && createPortal(
-      /* @__PURE__ */ jsx("div", { className: "cookie-manager", children: /* @__PURE__ */ jsx(
-        FloatingCookieButton,
-        {
+  return /* @__PURE__ */ jsxs(CookieManagerContext.Provider, {
+    value,
+    children: [
+      children,
+      isVisible &&
+        /* @__PURE__ */ jsx(CookieConsenter, {
+          ...props,
           theme,
-          onClick: () => {
-            setShowManageConsent(true);
-            setIsFloatingButtonVisible(false);
-          },
-          onClose: () => {
-            setIsFloatingButtonVisible(false);
-          },
-          classNames: props.classNames
-        }
-      ) }),
-      document.body
-    )
-  ] });
+          tFunction,
+          cookieCategories,
+          cookieKey,
+          onAccept: acceptCookies,
+          onDecline: declineCookies,
+          onManage: handleManage,
+          detailedConsent,
+          initialPreferences: derivedInitialPreferences,
+        }),
+      showManageConsent &&
+        typeof document !== "undefined" &&
+        createPortal(
+          /* @__PURE__ */ jsx("div", {
+            className: "cookie-manager",
+            children: /* @__PURE__ */ jsx("div", {
+              className:
+                "fixed inset-0 z-[99999] bg-black/40 backdrop-blur-sm flex items-center justify-center p-4",
+              children: /* @__PURE__ */ jsx("div", {
+                className: `w-full max-w-lg rounded-xl p-6 ${theme === "light" ? "bg-white/95 ring-1 ring-black/10" : "bg-black/95 ring-1 ring-white/10"}`,
+                children: /* @__PURE__ */ jsx(React.Suspense, {
+                  fallback: null,
+                  children: /* @__PURE__ */ jsx(ManageConsent, {
+                    tFunction,
+                    theme,
+                    onSave: updateDetailedConsent,
+                    onCancel: handleCancelManage,
+                    initialPreferences: derivedInitialPreferences,
+                    cookieCategories,
+                    detailedConsent,
+                    classNames: props.classNames,
+                  }),
+                }),
+              }),
+            }),
+          }),
+          document.body,
+        ),
+      isFloatingButtonVisible &&
+        !isVisible &&
+        !showManageConsent &&
+        typeof document !== "undefined" &&
+        createPortal(
+          /* @__PURE__ */ jsx("div", {
+            className: "cookie-manager",
+            children: /* @__PURE__ */ jsx(FloatingCookieButton, {
+              theme,
+              onClick: () => {
+                setShowManageConsent(true);
+                setIsFloatingButtonVisible(false);
+              },
+              onClose: () => {
+                setIsFloatingButtonVisible(false);
+              },
+              classNames: props.classNames,
+            }),
+          }),
+          document.body,
+        ),
+    ],
+  });
 };
 const useCookieConsent = () => {
   const context = useContext(CookieManagerContext);
@@ -12023,8 +13461,4 @@ const useCookieConsent = () => {
   }
   return context;
 };
-export {
-  CookieConsenter,
-  CookieManager,
-  useCookieConsent
-};
+export { CookieConsenter, CookieManager, useCookieConsent };
