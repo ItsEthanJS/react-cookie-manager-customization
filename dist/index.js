@@ -3859,12 +3859,12 @@ const ManageConsent$1 = ({
   onCancel,
   initialPreferences = {
     Analytics: false,
-    Customization: false,
+    Preferences: false,
     Advertising: false,
   },
   cookieCategories = {
     Analytics: true,
-    Customization: true,
+    Preferences: true,
     Advertising: true,
   },
   detailedConsent,
@@ -4078,7 +4078,7 @@ const ManageConsent$1 = ({
                 }),
               ],
             }),
-          cookieCategories.Customization !== false &&
+          cookieCategories.Preferences !== false &&
             /* @__PURE__ */ jsxs("div", {
               className: (
                 classNames == null ? void 0 : classNames.manageCookieCategory
@@ -4099,7 +4099,7 @@ const ManageConsent$1 = ({
                             "text-xs font-medium text-left",
                             theme === "light" ? "text-gray-900" : "text-white",
                           ),
-                      children: tFunction("manageCustomizationTitle"),
+                      children: tFunction("managePreferencesTitle"),
                     }),
                     /* @__PURE__ */ jsx("p", {
                       className: (
@@ -4114,9 +4114,9 @@ const ManageConsent$1 = ({
                               ? "text-gray-600"
                               : "text-gray-400",
                           ),
-                      children: tFunction("manageCustomizationSubtitle"),
+                      children: tFunction("managePreferencesSubtitle"),
                     }),
-                    renderConsentStatus("Customization"),
+                    renderConsentStatus("Preferences"),
                   ],
                 }),
                 /* @__PURE__ */ jsxs("label", {
@@ -4124,8 +4124,8 @@ const ManageConsent$1 = ({
                   children: [
                     /* @__PURE__ */ jsx("input", {
                       type: "checkbox",
-                      checked: consent.Customization,
-                      onChange: () => handleToggle("Customization"),
+                      checked: consent.Preferences,
+                      onChange: () => handleToggle("Preferences"),
                       className: "sr-only peer",
                     }),
                     /* @__PURE__ */ jsx("div", {
@@ -4136,7 +4136,7 @@ const ManageConsent$1 = ({
                       )
                         ? cn(
                             classNames.manageCookieToggle,
-                            consent.Customization &&
+                            consent.Preferences &&
                               classNames.manageCookieToggleChecked,
                           )
                         : cn(`w-11 h-6 rounded-full peer peer-focus:ring-2 peer-focus:ring-blue-500 
@@ -4459,12 +4459,12 @@ const CookieConsenter = ({
   onManage,
   initialPreferences = {
     Analytics: false,
-    Customization: false,
+    Preferences: false,
     Advertising: false,
   },
   cookieCategories = {
     Analytics: true,
-    Customization: true,
+    Preferences: true,
     Advertising: true,
   },
   detailedConsent,
@@ -5519,7 +5519,7 @@ const trackers = {
       "zopim.com",
       "zoominfo.com",
     ],
-    Customization: [],
+    Preferences: [],
     ConsentManagers: [
       "cookielaw.org",
       "onetrust.com",
@@ -8304,7 +8304,7 @@ const trackers = {
       "ipv6check.ksearchnet.com",
       "klavyio.klevu.com",
       "moi-ai.ksearchnet.com",
-      "moicustomizations.klevu.com",
+      "moiPreferencess.klevu.com",
       "pqa-analytics.service.ksearchnet.com",
       "stats.klevu.com",
       "stats.ksearchnet.com",
@@ -9706,8 +9706,8 @@ const getBlockedHosts = (preferences) => {
   if (!preferences.Analytics) {
     blockedHosts.push(...trackers.categories.Analytics);
   }
-  if (!preferences.Customization) {
-    blockedHosts.push(...trackers.categories.Customization);
+  if (!preferences.Preferences) {
+    blockedHosts.push(...trackers.categories.Preferences);
   }
   if (!preferences.Advertising) {
     blockedHosts.push(...trackers.categories.Advertising);
@@ -9744,9 +9744,9 @@ const DEFAULT_TRANSLATIONS = {
   manageAnalyticsTitle: "Analytics",
   manageAnalyticsSubtitle:
     "Help us understand how visitors interact with our website",
-  manageCustomizationTitle: "Customization",
-  manageCustomizationSubtitle:
-    "Enable website customization such as Light and Dark Mode",
+  managePreferencesTitle: "Preferences",
+  managePreferencesSubtitle:
+    "Enable website preferences such as Light and Dark Mode",
   manageAdvertTitle: "Advertising",
   manageAdvertSubtitle:
     "Personalize advertisements and measure their performance",
@@ -12905,7 +12905,7 @@ const createConsentStatus = (consented) => ({
 });
 const createDetailedConsent = (consented) => ({
   Analytics: createConsentStatus(consented),
-  Customization: createConsentStatus(consented),
+  Preferences: createConsentStatus(consented),
   Advertising: createConsentStatus(consented),
 });
 const normalizeDetailedConsent = (raw) => {
@@ -12933,8 +12933,8 @@ const normalizeDetailedConsent = (raw) => {
     : /* @__PURE__ */ new Date().toISOString();
   return {
     Analytics: safeStatus(raw == null ? void 0 : raw.Analytics, baseTimestamp),
-    Customization: safeStatus(
-      raw == null ? void 0 : raw.Customization,
+    Preferences: safeStatus(
+      raw == null ? void 0 : raw.Preferences,
       baseTimestamp,
     ),
     Advertising: safeStatus(
@@ -13001,7 +13001,7 @@ const CookieManager = ({
     if (detailedConsent) {
       return {
         Analytics: detailedConsent.Analytics.consented,
-        Customization: detailedConsent.Customization.consented,
+        Preferences: detailedConsent.Preferences.consented,
         Advertising: detailedConsent.Advertising.consented,
       };
     }
@@ -13122,12 +13122,12 @@ const CookieManager = ({
       const currentPreferences = detailedConsent
         ? {
             Analytics: detailedConsent.Analytics.consented,
-            Customization: detailedConsent.Customization.consented,
+            Preferences: detailedConsent.Preferences.consented,
             Advertising: detailedConsent.Advertising.consented,
           }
         : isRegulated
           ? null
-          : { Analytics: true, Customization: true, Advertising: true };
+          : { Analytics: true, Preferences: true, Advertising: true };
       const blockedHosts = [
         ...getBlockedHosts(currentPreferences),
         ...blockedDomains,
@@ -13181,13 +13181,13 @@ const CookieManager = ({
     const filterConsentForCookie = (consent) => {
       const allowed = cookieCategories || {
         Analytics: true,
-        Customization: true,
+        Preferences: true,
         Advertising: true,
       };
       const payload = {};
       if (allowed.Analytics !== false) payload.Analytics = consent.Analytics;
-      if (allowed.Customization !== false)
-        payload.Customization = consent.Customization;
+      if (allowed.Preferences !== false)
+        payload.Preferences = consent.Preferences;
       if (allowed.Advertising !== false)
         payload.Advertising = consent.Advertising;
       return payload;
@@ -13214,10 +13214,10 @@ const CookieManager = ({
           Analytics:
             (cookieCategories == null ? void 0 : cookieCategories.Analytics) !==
             false,
-          Customization:
+          Preferences:
             (cookieCategories == null
               ? void 0
-              : cookieCategories.Customization) !== false,
+              : cookieCategories.Preferences) !== false,
           Advertising:
             (cookieCategories == null
               ? void 0
@@ -13241,13 +13241,13 @@ const CookieManager = ({
     const filterConsentForCookie = (consent) => {
       const allowed = cookieCategories || {
         Analytics: true,
-        Customization: true,
+        Preferences: true,
         Advertising: true,
       };
       const payload = {};
       if (allowed.Analytics !== false) payload.Analytics = consent.Analytics;
-      if (allowed.Customization !== false)
-        payload.Customization = consent.Customization;
+      if (allowed.Preferences !== false)
+        payload.Preferences = consent.Preferences;
       if (allowed.Advertising !== false)
         payload.Advertising = consent.Advertising;
       return payload;
@@ -13269,7 +13269,7 @@ const CookieManager = ({
           "decline",
           {
             Analytics: false,
-            Customization: false,
+            Preferences: false,
             Advertising: false,
           },
           userId,
@@ -13284,19 +13284,19 @@ const CookieManager = ({
     const timestamp = /* @__PURE__ */ new Date().toISOString();
     const newConsent = {
       Analytics: { consented: preferences.Analytics, timestamp },
-      Customization: { consented: preferences.Customization, timestamp },
+      Preferences: { consented: preferences.Preferences, timestamp },
       Advertising: { consented: preferences.Advertising, timestamp },
     };
     const filterConsentForCookie = (consent) => {
       const allowed = cookieCategories || {
         Analytics: true,
-        Customization: true,
+        Preferences: true,
         Advertising: true,
       };
       const payload = {};
       if (allowed.Analytics !== false) payload.Analytics = consent.Analytics;
-      if (allowed.Customization !== false)
-        payload.Customization = consent.Customization;
+      if (allowed.Preferences !== false)
+        payload.Preferences = consent.Preferences;
       if (allowed.Advertising !== false)
         payload.Advertising = consent.Advertising;
       return payload;
