@@ -13094,7 +13094,7 @@ const CookieManager = ({
       }
       const promise = (async () => {
         //const res = await fetchWithTimeout(url, 5e3);
-        if (!res.ok) return false;
+        //if (!res.ok) return false;
         //const data = await res.json().catch(() => null);
         const show = true; //Boolean(data == null ? void 0 : data.showConsentBanner);
         try {
