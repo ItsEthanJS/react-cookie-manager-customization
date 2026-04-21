@@ -9947,7 +9947,16 @@ const blockTrackingScripts = (trackingKeywords) => {
       trackingKeywords.some((keyword) => el.src.includes(keyword)) &&
       !WHITELIST.some((keyword) => el.src.includes(keyword))
     ) {
-      createContentPlaceholder(el, el.src);
+      let OnWhitelist = false;
+      for (let key of WHITELIST) {
+        if (el.src.includes(key)) {
+          OnWhitelist = true;
+          break;
+        }
+      }
+      if (OnWhitelist == false) {
+        createContentPlaceholder(el, el.src);
+      }
     }
   });
   const observer = new MutationObserver((mutations) => {
@@ -9971,7 +9980,16 @@ const blockTrackingScripts = (trackingKeywords) => {
             src !== "about:blank" &&
             trackingKeywords.some((keyword) => src.includes(keyword))
           ) {
-            createContentPlaceholder(node, src);
+            let OnWhitelist = false;
+            for (let key of WHITELIST) {
+              if (node.src.includes(key)) {
+                OnWhitelist = true;
+                break;
+              }
+            }
+            if (OnWhitelist == false) {
+              createContentPlaceholder(node, node.src);
+            }
           }
         }
       });
