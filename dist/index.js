@@ -24,6 +24,7 @@ import React, {
   useContext,
 } from "react";
 import { createPortal } from "react-dom";
+const WHITELIST = ["termly.io"];
 function r(e) {
   var t,
     f,
@@ -9943,7 +9944,8 @@ const blockTrackingScripts = (trackingKeywords) => {
       blockingEnabled &&
       el.src &&
       el.src !== "about:blank" &&
-      trackingKeywords.some((keyword) => el.src.includes(keyword))
+      trackingKeywords.some((keyword) => el.src.includes(keyword)) &&
+      !WHITELIST.some((keyword) => el.src.includes(keyword))
     ) {
       createContentPlaceholder(el, el.src);
     }
